@@ -52,7 +52,10 @@ Some projects are enabling the sharing of data and related analysis.
 - Docs: https://docs.kamu.dev/
 - Summary:  Kamu’s Open Data Fabric network brings the power of enterprise data pipelines into global trustless environment
 
-
+- Website: https://oceanprotocol.com/
+- Github: https://github.com/oceanprotocol
+- Docs: https://docs.oceanprotocol.com/
+- Summary: Ocean Protocol is a suite of decentralized tools to unlock data at a large scale
 
 ### Other categories
 
