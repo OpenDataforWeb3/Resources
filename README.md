@@ -22,7 +22,7 @@ Open source technologies used to Index transactions.
 - Website:  [https://trueblocks.io/](https://)
 - Github: [https://github.com/trueblocks/trueblocks-core](https://)
 - Unchained Index specification: https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf
-- Summary:  Lightweight indexing for any EVM-based blockchain
+- Summary: *Lightweight indexing for any EVM-based blockchain.*
 
 There are additionally a number of Index offerings that are sold as centralized and proprietary solutions.  
 
@@ -34,13 +34,19 @@ Technologies used to make sense of indexed transactions are many. They typically
 - Website: https://www.transpose.io/
 - Github: https://github.com/TransposeData  - only demos of API usage and similar
 - Docs: docs.transpose.io
-- Summary: *Provides SQL interfaces & a sandbox for analysis*
+- Summary: *Provides SQL interfaces & a sandbox for analysis.*
+
+**Kwil:**
+
+- Website: https://www.kwil.com/
+- Docs: https://docs.kwil.com/
+- Summary: *Kwil is a permissionless SQL database that enables decentralized, structured data storage for off-chain data.*
 
 **Dune Analytics:**
 - Website:   https://dune.com/home
 - Github: https://github.com/duneanalytics projects running on top of Dune
 - Docs:  https://dune.com/docs/
-- Summary: *Free crypto analytics by and for the community*
+- Summary: *Free crypto analytics by and for the community.*
 
 ### Data sharing
 
@@ -50,13 +56,13 @@ Some projects are enabling the sharing of data and related analysis.
 - Website: [https://www.kamu.dev/](https://)
 - Github: https://github.com/kamu-data
 - Docs: https://docs.kamu.dev/
-- Summary:  Kamu’s Open Data Fabric network brings the power of enterprise data pipelines into global trustless environment
+- Summary: *Kamu’s Open Data Fabric network brings the power of enterprise data pipelines into global trustless environment.*
 
 **Ocean Protocol:**
 - Website: https://oceanprotocol.com/
 - Github: https://github.com/oceanprotocol
 - Docs: https://docs.oceanprotocol.com/
-- Summary: Ocean Protocol is a suite of decentralized tools to unlock data at a large scale
+- Summary: *Ocean Protocol is a suite of decentralized tools to unlock data at a large scale.*
 
 ### Other categories
 
