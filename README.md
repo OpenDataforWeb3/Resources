@@ -64,8 +64,9 @@ Some projects are enabling the sharing of data and related analysis.
 - Docs: https://docs.oceanprotocol.com/
 - Summary: *Ocean Protocol is a suite of decentralized tools to unlock data at a large scale.*
 
-### Other categories
-
+### Anti-Sybil approaches
+- A placeholder for Anti-Sybil approaches and projects
+- We can start with Hackathon contestants
 
 ### Join us
 Please do create an issue or simply a pull request against this document.  There are many opportunities to collaborate.  Please get in touch.  
