@@ -1,6 +1,8 @@
 ## OpenData Community: useful projects
 ### What is the ODC?
-The ODC is an open community dedicated to helping the web3 and crypto communities to use, analyze, and share data in an open way, as free as possible from centralized, proprietary, and non scalable approaches.
+The ODC is an open community dedicated to helping the web3 and crypto communities to use, analyze, and share data in an open way, as free as possible from centralized, proprietary, and non scalable approaches. As of early November 2022, our initial areas of focus are:
+- Fighting Sybils
+- Supporting the decentralization of data infra & tooling
 
 This list is intended to be a growing list of projects that are open source that the community finds to be useful.  
 
