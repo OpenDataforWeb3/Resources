@@ -50,6 +50,12 @@ Technologies used to make sense of indexed transactions are many. They typically
 - Docs:  https://dune.com/docs/
 - Summary: *Free crypto analytics by and for the community.*
 
+**Flipside Crypto:**
+- Website:   https://flipsidecrypto.xyz
+- Github: https://github.com/duneanalytics projects running on top of Dune
+- Docs:  https://docs.flipsidecrypto.com/
+- Summary: *Free crypto analytics offering analytics bounties and with free API.*
+
 ### Data sharing
 
 Some projects are enabling the sharing of data and related analysis.
