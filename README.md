@@ -21,7 +21,7 @@ Open source technologies used to Index transactions.
 - Github: [https://github.com/graphprotocol](https://github.com/graphprotocol)  
 
 **TrueBlocks:**
-- Website:  [https://trueblocks.io/](https://)
+- Website:  [https://trueblocks.io/](https://trueblocks.io/)
 - Github: [https://github.com/trueblocks/trueblocks-core](https://)
 - Unchained Index specification: https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf
 - Summary: *Lightweight indexing for any EVM-based blockchain.*
