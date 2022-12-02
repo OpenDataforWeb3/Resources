@@ -30,12 +30,12 @@ There are additionally a number of Index offerings that are sold as centralized 
 
 ### Graph relationships 
 
-** Raphtory **
+**Raphtory: **
 - Website:  [https://www.raphtory.com/about/] (https://www.raphtory.com/about/)
 - Github:  [https://github.com/Raphtory/Raphtory] (https://github.com/Raphtory/Raphtory)
 - Summary: *Raphtory is a unified analytics engine for large-scale graph analysis, allowing you to run complex graph queries no matter where your data lives and what format it is in. Besides performance and scalability, what makes Raphtory cool is its ability to represent and explore the history of a complex system, from simply “time travelling” through data, to executing richer analysis like taint tracking, temporal reachability, or mining temporal motifs.*
 
-** Trust Protocol **
+**Trust Protocol: **
 - Website: 
 
 ### Interpret transactions
