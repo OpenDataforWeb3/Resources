@@ -31,13 +31,13 @@ There are additionally a number of Index offerings that are sold as centralized 
 ### Graph relationships 
 
 **Raphtory:**
-- Website:  [https://www.raphtory.com/about/] (https://www.raphtory.com/about/)
-- Github:  [https://github.com/Raphtory/Raphtory] (https://github.com/Raphtory/Raphtory)
+- Website:  [https://www.raphtory.com/about/](https://www.raphtory.com/about/)
+- Github:  [https://github.com/Raphtory/Raphtory](https://github.com/Raphtory/Raphtory)
 - Summary: *Raphtory is a unified analytics engine for large-scale graph analysis, allowing you to run complex graph queries no matter where your data lives and what format it is in. Besides performance and scalability, what makes Raphtory cool is its ability to represent and explore the history of a complex system, from simply “time travelling” through data, to executing richer analysis like taint tracking, temporal reachability, or mining temporal motifs.*
 
 **Trust Protocol:**
-- Website: [https://www.trustprotocol.xyz/] (https://www.trustprotocol.xyz/)
-- Notion: [https://kaixmarcus.notion.site/Trust-Protocol-6ad8439839f7432ea2019a1290ff5e4b)y] (https://kaixmarcus.notion.site/Trust-Protocol-6ad8439839f7432ea2019a1290ff5e4b))
+- Website: [https://www.trustprotocol.xyz/](https://www.trustprotocol.xyz/)
+- Notion: [https://kaixmarcus.notion.site/Trust-Protocol-6ad8439839f7432ea2019a1290ff5e4b)y](https://kaixmarcus.notion.site/Trust-Protocol-6ad8439839f7432ea2019a1290ff5e4b))
 - Summary:  *A developing privacy-centric data analytics protocol that leverages social graphs, data indexing, and off-chain/on-chain data porting to enable robust high-trust environments.*
 
 ### Interpret transactions
