@@ -51,7 +51,6 @@ Technologies used to make sense of indexed transactions are many. They typically
 - Summary: *Provides SQL interfaces & a sandbox for analysis.*
 
 **Kwil:**
-
 - Website: https://www.kwil.com/
 - Docs: https://docs.kwil.com/
 - Summary: *Kwil is a permissionless SQL database that enables decentralized, structured data storage for off-chain data.*
@@ -66,6 +65,14 @@ Technologies used to make sense of indexed transactions are many. They typically
 - Website:   https://flipsidecrypto.xyz
 - Docs:  https://docs.flipsidecrypto.com/
 - Summary: *Free crypto analytics offering analytics bounties and with free API.*
+
+### Apps that use Decentralized Data
+
+**Rotki:**
+- Website:  https://rotki.com/
+- Github:  https://github.com/rotki
+- Docs:  https://rotki.readthedocs.io/en/latest/index.htm
+- Summary:  *Rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy.*
 
 ### Data sharing
 
