@@ -1,98 +1,21 @@
-## OpenData Community: useful projects
-### What is the ODC?
-The ODC is an open community dedicated to helping the web3 and crypto communities to use, analyze, and share data in an open way, as free as possible from centralized, proprietary, and non scalable approaches. As of early November 2022, our initial areas of focus are:
-- Fighting Sybils
-- Supporting the decentralization of data infra & tooling
+## What is the ODC?
+There are two main aspects to this today:
 
-This list is intended to be a growing list of projects that are open source that the community finds to be useful.  
+- Sybil resistance via data science and other approaches
+- Resisting recentralization at the data layer
 
-Please contribute either by openning an issue or a PR vs this repository or some other way you prefer. You might also be interested in providing comments to a basic plan as well, which is available as a HackMD document [here](https://hackmd.io/@epowell101/rk7ZdHCZo)
+IMO resisting recentralization or supporting decentralized data layer solutions is our bedrock - however without #1 there might not be a locus of effort to rally.
 
-### Project Categories
+Also we are primarily supported today by Gitcoin which is at the forefront of efforts to resist Sybil attacks both via software via Passport and of course via the efforts of the FDD team within Gitcoin. If we collectively do not resist Sybil attacks then one of the real bright spots of web3 - the collective funding of public goods - would be captured by essentially criminal forces.
 
-The categories below are simplistic and imperfect and will improve with input.
+We want to highlight values such as:
 
-### Index transactions
+- openness - working in public and actively requesting input
+- candor - being direct and facts based
+- inclusive - making a particular effort to welcome and invite a breadth of perspectives
+- initiative - last but definitely not least IMO. Perhaps we should emphasize the importance of taking initiative
 
-Open source technologies used to Index transactions. 
+## [The Landscape](/OpenDataforWeb3/Landscape/wiki) (our wiki pages of research)
+## Join Us
 
-**The Graph:**  
-- Website: [https://thegraph.com/en/](https://thegraph.com/en/)
-- Github: [https://github.com/graphprotocol](https://github.com/graphprotocol)  
-
-**TrueBlocks:**
-- Website:  [https://trueblocks.io/](https://trueblocks.io/)
-- Github: [https://github.com/trueblocks/trueblocks-core](https://)
-- Unchained Index specification: https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf
-- Summary: *Lightweight indexing for any EVM-based blockchain.*
-
-There are additionally a number of Index offerings that are sold as centralized and proprietary solutions.  
-
-### Graph relationships 
-
-**Raphtory:**
-- Website:  [https://www.raphtory.com/about/](https://www.raphtory.com/about/)
-- Github:  [https://github.com/Raphtory/Raphtory](https://github.com/Raphtory/Raphtory)
-- Summary: *Raphtory is a unified analytics engine for large-scale graph analysis, allowing you to run complex graph queries no matter where your data lives and what format it is in. Besides performance and scalability, what makes Raphtory cool is its ability to represent and explore the history of a complex system, from simply “time travelling” through data, to executing richer analysis like taint tracking, temporal reachability, or mining temporal motifs.*
-
-**Trust Protocol:**
-- Website: [https://www.trustprotocol.xyz/](https://www.trustprotocol.xyz/)
-- Notion: [https://kaixmarcus.notion.site/Trust-Protocol-6ad8439839f7432ea2019a1290ff5e4b)y](https://kaixmarcus.notion.site/Trust-Protocol-6ad8439839f7432ea2019a1290ff5e4b))
-- Summary:  *A developing privacy-centric data analytics protocol that leverages social graphs, data indexing, and off-chain/on-chain data porting to enable robust high-trust environments.*
-
-### Interpret transactions
-
-Technologies used to make sense of indexed transactions are many. They typically include approaches to simplify quering and in some cases these technologies include their own indexing.
-
-**Transpose:**
-- Website: https://www.transpose.io/
-- Github: https://github.com/TransposeData  - only demos of API usage and similar
-- Docs: docs.transpose.io
-- Summary: *Provides SQL interfaces & a sandbox for analysis.*
-
-**Kwil:**
-- Website: https://www.kwil.com/
-- Docs: https://docs.kwil.com/
-- Summary: *Kwil is a permissionless SQL database that enables decentralized, structured data storage for off-chain data.*
-
-**Dune Analytics:**
-- Website:   https://dune.com/home
-- Github: https://github.com/duneanalytics projects running on top of Dune
-- Docs:  https://dune.com/docs/
-- Summary: *Free crypto analytics by and for the community.*
-
-**Flipside Crypto:**
-- Website:   https://flipsidecrypto.xyz
-- Docs:  https://docs.flipsidecrypto.com/
-- Summary: *Free crypto analytics offering analytics bounties and with free API.*
-
-### Apps that use Decentralized Data
-
-**Rotki:**
-- Website:  https://rotki.com/
-- Github:  https://github.com/rotki
-- Docs:  https://rotki.readthedocs.io/en/latest/index.htm
-- Summary:  *Rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy.*
-
-### Data sharing
-
-Some projects are enabling the sharing of data and related analysis.
-
-**Kamu:**
-- Website: [https://www.kamu.dev/](https://)
-- Github: https://github.com/kamu-data
-- Docs: https://docs.kamu.dev/
-- Summary: *Kamu’s Open Data Fabric network brings the power of enterprise data pipelines into global trustless environment.*
-
-**Ocean Protocol:**
-- Website: https://oceanprotocol.com/
-- Github: https://github.com/oceanprotocol
-- Docs: https://docs.oceanprotocol.com/
-- Summary: *Ocean Protocol is a suite of decentralized tools to unlock data at a large scale.*
-
-### Anti-Sybil approaches
-- A placeholder for Anti-Sybil approaches and projects
-- We can start with Hackathon contestants
-
-### Join us
-Please do create an issue or simply a pull request against this document.  There are many opportunities to collaborate.  Please get in touch.  
+Please do create an issue or simply a pull request against this document. There are many opportunities to collaborate. Please get in touch through Discord https://t.co/wrwNl9yKFv
