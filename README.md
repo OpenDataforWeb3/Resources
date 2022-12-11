@@ -46,8 +46,6 @@ The categories below are simplistic and imperfect and will improve with input.
 - Resources: https://docs.filecoin.io/about-filecoin/what-is-filecoin/
 - Summary: *Similar to IPFS - however also includes token incentives.*
 
-### Decentralized nodes
-
 ### Index transactions
 
 Open source technologies used to Index transactions. 
