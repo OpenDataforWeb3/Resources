@@ -46,6 +46,11 @@ The categories below are simplistic and imperfect and will improve with input.
 - Resources: https://docs.filecoin.io/about-filecoin/what-is-filecoin/
 - Summary: *Similar to IPFS - however also includes token incentives.*
 
+**Ceramic**
+- Website: https://ceramic.network/
+- Resources: https://developers.ceramic.network/learn/welcome/
+- Summary: *With Ceramic's permissionless data streaming network, you can store streams of information and ever-changing files directly on the decentralized web – and share updates with anyone in the world.*
+
 ### Index transactions
 
 Open source technologies used to Index transactions. 
