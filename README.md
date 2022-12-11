@@ -14,7 +14,7 @@ The categories below are simplistic and imperfect and will improve with input.
 
 ### Decentralized compute
 
-**Flux **
+**Flux:**
 - Website: https://runonflux.io/
 - Github: https://github.com/RunOnFlux
 - Summary: *Includes their own OS - to enable running Dockerized apps using blockchain at least for incentives*
