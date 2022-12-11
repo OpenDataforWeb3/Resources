@@ -1,3 +1,8 @@
+---
+title: "What Is ODC?"
+date: 2022-12-08T01:31:01-03:00
+---
+
 ## OpenData Community: useful projects
 ### What is the ODC?
 The ODC is an open community dedicated to helping the web3 and crypto communities to use, analyze, and share data in an open way, as free as possible from centralized, proprietary, and non scalable approaches. As of early November 2022, our initial areas of focus are:
@@ -12,45 +17,6 @@ Please contribute either by openning an issue or a PR vs this repository or some
 
 The categories below are simplistic and imperfect and will improve with input.
 
-### Decentralized compute
-
-**Cudos:**
-- Website:  https://www.cudos.org/
-- Github: https://github.com/CudoVentures/cudos-eth-token-contract
-- Summary: *Cudos unites cloud and blockchain. We use spare computing to create a decentralised, sustainable, and connected world.*
-
-**Flux:**
-- Website: https://runonflux.io/
-- Github: https://github.com/RunOnFlux
-- Summary: *Includes their own OS - to enable running Dockerized apps using blockchain at least for incentives.*
-
-**Akash:**
-- Website:  https://akash.network/
-- Github: https://github.com/ovrclk
-- Summary: *Akash Network is a Distributed Peer-to-Peer Marketplace for Cloud Compute.*
-
-### Decentralized storage
-
-**Arweave:**
-- Website: https://www.arweave.org/
-- Resources: https://www.arweave.org/build
-- Summary: *Decentralized ecosystem based on Arweave, including storage & much else.* 
-
-**IPFS:**
-- Website: https://ipfs.tech/
-- Resources: https://docs.ipfs.tech/ 
-- Summary: *The Interplanetary File System (IPFS) is a decentralized file system for building the next generation of the internet. Filecoin and many popular Web3 projects are built on IPFS. Some call it the hard drive for blockchain and Web3, though its power extends much further.*
-
-**Filecoin:**
-- Website: https://filecoin.io/
-- Resources: https://docs.filecoin.io/about-filecoin/what-is-filecoin/
-- Summary: *Similar to IPFS - however also includes token incentives.*
-
-**Ceramic**
-- Website: https://ceramic.network/
-- Resources: https://developers.ceramic.network/learn/welcome/
-- Summary: *With Ceramic's permissionless data streaming network, you can store streams of information and ever-changing files directly on the decentralized web – and share updates with anyone in the world.*
-
 ### Index transactions
 
 Open source technologies used to Index transactions. 
@@ -63,13 +29,7 @@ Open source technologies used to Index transactions.
 - Website:  [https://trueblocks.io/](https://trueblocks.io/)
 - Github: [https://github.com/trueblocks/trueblocks-core](https://)
 - Unchained Index specification: https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf
-- Summary: *Lightweight indexing for any EVM-based blockchain. Recipient of Ethereum Foundation funding.*
-
-**Covalent:**
-- Website:  https://www.covalenthq.com/
-- Docs: https://www.covalenthq.com/docs/
-- Github:  https://github.com/covalenthq
-- Summary:  *Single API - across a breadth of block chains - and a network of providers to enable some level of decentralization* 
+- Summary: *Lightweight indexing for any EVM-based blockchain.*
 
 There are additionally a number of Index offerings that are sold as centralized and proprietary solutions.  
 
