@@ -29,6 +29,7 @@ Open source technologies used to Index transactions.
 **Covalent:**
 - Website:  https://www.covalenthq.com/
 - Docs: https://www.covalenthq.com/docs/
+- Github:  https://github.com/covalenthq
 - Summary:  *Single API - across a breadth of block chains - and a network of providers to enable some level of decentralization* 
 
 There are additionally a number of Index offerings that are sold as centralized and proprietary solutions.  
