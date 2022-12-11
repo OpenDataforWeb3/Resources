@@ -18,8 +18,6 @@ To run locally hosted use the following command
     hugo server
 </code>
 
-
-
 ### Additional Resources
 
 [10 minute website set up](https://www.youtube.com/watch?v=LIFvgrRxdt4)
