@@ -1,3 +1,3 @@
-[submodule "website/opendataforweb3-website/themes/hugo-theme-m10c"]
-	path = website/opendataforweb3-website/themes/hugo-theme-m10c
+[submodule "website/opendataforweb3-website/themes/m10c"]
+	path = website/opendataforweb3-website/themes/m10c
 	url = https://github.com/SpaceTristan/hugo-theme-m10c
