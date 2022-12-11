@@ -14,6 +14,11 @@ The categories below are simplistic and imperfect and will improve with input.
 
 ### Decentralized compute
 
+**Cudos:**
+- Website:  https://www.cudos.org/
+- Github: https://github.com/CudoVentures/cudos-eth-token-contract
+- Summary: *Cudos unites cloud and blockchain. We use spare computing to create a decentralised, sustainable, and connected world.*
+
 **Flux:**
 - Website: https://runonflux.io/
 - Github: https://github.com/RunOnFlux
