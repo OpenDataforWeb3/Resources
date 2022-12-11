@@ -31,6 +31,11 @@ The categories below are simplistic and imperfect and will improve with input.
 
 ### Decentralized storage
 
+**Arweave:**
+- Website: https://www.arweave.org/
+- Resources: https://www.arweave.org/build
+- Summary: *Decentralized ecosystem based on Arweave, including storage & much else* 
+
 ### Decentralized nodes
 
 ### Index transactions
