@@ -14,10 +14,10 @@ The categories below are simplistic and imperfect and will improve with input.
 
 ### Decentralized compute
 
-** Flux **
--- Website: https://runonflux.io/
--- Github: https://github.com/RunOnFlux
-** Includes their own OS - to enable running Dockerized apps using blockchain at least for incentives **
+**Flux **
+- Website: https://runonflux.io/
+- Github: https://github.com/RunOnFlux
+- Summary: *Includes their own OS - to enable running Dockerized apps using blockchain at least for incentives*
 
 ### Decentralized storage
 
