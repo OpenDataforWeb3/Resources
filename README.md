@@ -41,7 +41,7 @@ The categories below are simplistic and imperfect and will improve with input.
 - Resources: https://docs.ipfs.tech/ 
 - Summary: *The Interplanetary File System (IPFS) is a decentralized file system for building the next generation of the internet. Filecoin and many popular Web3 projects are built on IPFS. Some call it the hard drive for blockchain and Web3, though its power extends much further.*
 
-**Filecon:**
+**Filecoin:**
 - Website: https://filecoin.io/
 - Resources: https://docs.filecoin.io/about-filecoin/what-is-filecoin/
 - Summary: *Similar to IPFS - however also includes token incentives.*
