@@ -12,6 +12,17 @@ Please contribute either by openning an issue or a PR vs this repository or some
 
 The categories below are simplistic and imperfect and will improve with input.
 
+### Decentralized compute
+
+** Flux **
+-- Website: https://runonflux.io/
+-- Github: https://github.com/RunOnFlux
+** Includes their own OS - to enable running Dockerized apps using blockchain at least for incentives **
+
+### Decentralized storage
+
+### Decentralized nodes
+
 ### Index transactions
 
 Open source technologies used to Index transactions. 
