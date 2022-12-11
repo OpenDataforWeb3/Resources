@@ -34,7 +34,7 @@ The categories below are simplistic and imperfect and will improve with input.
 **Arweave:**
 - Website: https://www.arweave.org/
 - Resources: https://www.arweave.org/build
-- Summary: *Decentralized ecosystem based on Arweave, including storage & much else* 
+- Summary: *Decentralized ecosystem based on Arweave, including storage & much else.* 
 
 **IPFS:**
 - Website: https://ipfs.tech/
