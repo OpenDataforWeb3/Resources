@@ -36,6 +36,13 @@ The categories below are simplistic and imperfect and will improve with input.
 - Resources: https://www.arweave.org/build
 - Summary: *Decentralized ecosystem based on Arweave, including storage & much else* 
 
+**IPFS:**
+- Website: https://ipfs.tech/
+- Resources: 
+- Summary: *The Interplanetary File System (IPFS) is a decentralized file system for building the next generation of the internet. Filecoin (opens new window)and many popular Web3 projects are built on IPFS. Some call it the hard drive for blockchain and Web3, though its power extends much further.*
+
+#Get started*
+
 ### Decentralized nodes
 
 ### Index transactions
