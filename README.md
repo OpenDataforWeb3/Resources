@@ -19,6 +19,11 @@ The categories below are simplistic and imperfect and will improve with input.
 - Github: https://github.com/RunOnFlux
 - Summary: *Includes their own OS - to enable running Dockerized apps using blockchain at least for incentives*
 
+**Akash:**
+- Website:  https://akash.network/
+- Github: https://github.com/ovrclk
+- Summary: *Akash Network is a Distributed Peer-to-Peer Marketplace for Cloud Compute*
+
 ### Decentralized storage
 
 ### Decentralized nodes
