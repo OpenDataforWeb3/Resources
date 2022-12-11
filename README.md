@@ -24,7 +24,12 @@ Open source technologies used to Index transactions.
 - Website:  [https://trueblocks.io/](https://trueblocks.io/)
 - Github: [https://github.com/trueblocks/trueblocks-core](https://)
 - Unchained Index specification: https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf
-- Summary: *Lightweight indexing for any EVM-based blockchain.*
+- Summary: *Lightweight indexing for any EVM-based blockchain. Recipient of Ethereum Foundation funding.*
+
+**Covalent:**
+- Website:  https://www.covalenthq.com/
+- Docs: https://www.covalenthq.com/docs/
+- Summary:  *Single API - across a breadth of block chains - and a network of providers* 
 
 There are additionally a number of Index offerings that are sold as centralized and proprietary solutions.  
 
