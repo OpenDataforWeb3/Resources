@@ -29,7 +29,7 @@ The categories below are simplistic and imperfect and will improve with input.
 - Github: https://github.com/ovrclk
 - Summary: *Akash Network is a Distributed Peer-to-Peer Marketplace for Cloud Compute.*
 
-### Run Ethererum nodes ###
+### Run and Stake Ethererum nodes ###
 
 **Ankr:**
 - Website:  https://www.ankr.com/
@@ -41,6 +41,12 @@ The categories below are simplistic and imperfect and will improve with input.
 - Github:  https://github.com/pokt-network/pocket-core/
 - Community:  https://docs.pokt.network/community/governance/
 - Summary:  *The only reliable and decentralized RPC network in the world governed by a high-performing DAO with the most contributor-friendly ecosystem.*
+
+**Rocket Pool:**
+- Website:  https://rocketpool.net/
+- Github:  https://github.com/rocket-pool
+- Docs:  https://docs.rocketpool.net/guides/
+- Summary: *Rocket Pool is the first truly decentralised Ethereum staking pool.*
 
 ### Decentralized storage
 
