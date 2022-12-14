@@ -40,7 +40,7 @@ The categories below are simplistic and imperfect and will improve with input.
 - Website:  https://www.pokt.network/
 - Github:  https://github.com/pokt-network/pocket-core/
 - Community:  https://docs.pokt.network/community/governance/
-- Summary:  *The only reliable and decentralized RPC network in the world governed by a high-performing DAO with the most contributor-friendly ecosystem*
+- Summary:  *The only reliable and decentralized RPC network in the world governed by a high-performing DAO with the most contributor-friendly ecosystem.*
 
 ### Decentralized storage
 
