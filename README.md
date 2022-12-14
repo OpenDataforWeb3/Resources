@@ -31,10 +31,16 @@ The categories below are simplistic and imperfect and will improve with input.
 
 ### Run Ethererum nodes ###
 
-**Ankr**
+**Ankr:**
 - Website:  https://www.ankr.com/
 - Github:  https://github.com/Ankr-network
 - Summary:  *Ankr’s globally distributed node infrastructure allows us to build the best possible multi-chain tools as a foundational layer for Web3, DeFi, and the crypto economy.*
+
+**Pocket:**
+- Website:  https://www.pokt.network/
+- Github:  https://github.com/pokt-network/pocket-core/
+- Community:  https://docs.pokt.network/community/governance/
+- Summary:  *The only reliable and decentralized RPC network in the world governed by a high-performing DAO with the most contributor-friendly ecosystem*
 
 ### Decentralized storage
 
