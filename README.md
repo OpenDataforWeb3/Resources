@@ -15,7 +15,7 @@ We want to highlight values such as:
 - inclusive - making a particular effort to welcome and invite a breadth of perspectives
 - initiative - last but definitely not least IMO. Perhaps we should emphasize the importance of taking initiative
 
-## [The Landscape](/OpenDataforWeb3/Landscape/wiki) (our wiki pages of research)
+## [The Landscape](/landscape.md)
 ## Join Us
 
 Please do create an issue or simply a pull request against this document. There are many opportunities to collaborate. Please get in touch through Discord https://t.co/wrwNl9yKFv
