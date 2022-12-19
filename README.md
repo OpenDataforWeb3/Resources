@@ -18,4 +18,6 @@ We want to highlight values such as:
 ## [The Landscape](/landscape.md)
 ## Join Us
 
-Please do create an issue or simply a pull request against this document. There are many opportunities to collaborate. Please get in touch through Discord https://t.co/wrwNl9yKFv
+Please do create an issue or simply a pull request against this document. There are many opportunities to collaborate. 
+
+Find more [details of what we are doing and when by reviewing our wiki here](https://github.com/OpenDataforWeb3/Landscape/wiki). 
