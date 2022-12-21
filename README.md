@@ -15,7 +15,10 @@ We want to highlight values such as:
 - inclusive - making a particular effort to welcome and invite a breadth of perspectives
 - initiative - last but definitely not least IMO. Perhaps we should emphasize the importance of taking initiative
 
+This Landscape list is intended to be a growing list of projects that are open source that the community finds to be useful. 
+
 ## [The Landscape](/landscape.md)
+
 ## Join Us
 
 Please do create an issue or simply a pull request against this document. There are many opportunities to collaborate. 
