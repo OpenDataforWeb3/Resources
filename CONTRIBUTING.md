@@ -37,11 +37,11 @@ Scan through our [existing issues](https://github.com/github/docs/issues) to fin
 By default, the wiki allows any github user to read and write. We suggest using the wiki for research you want to share with other members. 
 
 ## Make changes in the repository online
-- Find a file that you want to edit and make changes through the github ODC repository web interface. Follow the branch, commit, and pull request recommendations below. 
+Find a file that you want to edit and make changes through the github ODC repository web interface. Follow the branch, commit, and pull request recommendations below. 
 
-## Make changes in the repository locally
+## OR Make changes in the repository locally
 
-1. Clone the repository.
+1. Clone the repository. `NOTE:` If you don't want  to join the discord and be a ODC github organization member, you can still propose changes by forking the repository, making a change on the fork, and submitting the change through a PR.  
 - Using GitHub Desktop:
   - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) will guide you through setting up Github Desktop.
   - Once Desktop is set up, you can use it to [clone the repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
@@ -53,16 +53,17 @@ By default, the wiki allows any github user to read and write. We suggest using 
 3. Make your changes.
    - [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) will guide you through setting up VSC.
 
-## Commit your update
+## Then commit your update
 
-- Commit and push the changes once you are happy with them using an informative message. Always add the issue # into the description field as `#<number>`, e.g. the issue number is 32, so add `#32` in the description field. An issue is optional for a PR, but recommended.  The description field is also optional. 
+- Commit and push the changes once you are happy with them using an informative message. An issue is optional for a PR, but recommended.  The description field is also optional. If there is an issue, always  add the issue # into either the summary or description field as `#<number>`, e.g. the issue number is 32, so add `#32`.  
 - We use repository branch protection rules that require ODC repositories only allow Pull Requests (PR), so Github Desktop will prompt you to create a PR.
 
 ## Pull Request
 
 - Don't forget to [link the PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/) if one is available.
 Once you submit your PR, a ODC member will review your work. We may ask questions or request additional information.
-- We may ask for changes to be made before a PR can be merged using pull request comments. You can apply suggested changes directly through the UI or locally. Remember to push your local changes again!
+- `NOTE:` We want work in progress to be updated on the remote (origin) repository at least once day. That way we know you are still working on the changes. Just in case you go offile for awhile, someone else can pick up where you left off. If you are still working on your change, but are not ready for a review, add a comment to the PR saying something like `I am still working on this, but I am sharing as I am going offline for the day`.
+- When you are ready for a review, we may ask for changes to be made before a PR can be merged using pull request comments. You can apply suggested changes directly through the UI or locally. Remember to push your local changes again!
 - If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
 
 ## Your PR is merged!
