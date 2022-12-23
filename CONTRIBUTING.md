@@ -62,7 +62,7 @@ Find a file that you want to edit and make changes through the github ODC reposi
 
 - Don't forget to [link the PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/) if one is available.
 Once you submit your PR, a ODC member will review your work. We may ask questions or request additional information.
-- `NOTE:` We want work in progress to be updated on the remote (origin) repository at least once day. That way we know you are still working on the changes. Just in case you go offile for awhile, someone else can pick up where you left off. If you are still working on your change, but are not ready for a review, add a comment to the PR saying something like `I am still working on this, but I am sharing as I am going offline for the day`.
+- `NOTE:` We want work in progress to be updated on the remote (origin) repository at least once day. That way we know you are still working on the changes. Just in case you go offline for awhile, someone else can pick up where you left off. If you are still working on your change, but are not ready for a review, add a comment to the PR saying something like `I am still working on this, but I am sharing as I am going offline for the day`.
 - When you are ready for a review, we may ask for changes to be made before a PR can be merged using pull request comments. You can apply suggested changes directly through the UI or locally. Remember to push your local changes again!
 - If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
 
