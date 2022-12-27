@@ -1,26 +1,17 @@
-## What is the ODC?
-There are two main aspects to this today:
+# Open Data Community Landscape repository
 
-- Sybil resistance via data science and other approaches
-- Resisting recentralization at the data layer
+These files are intended to be a growing descriptive list of projects, communities, and terms that are open source and that the community finds to be useful. 
 
-IMO resisting recentralization or supporting decentralized data layer solutions is our bedrock - however without #1 there might not be a locus of effort to rally.
+- ## [Landscape](landscape.md)
+- ## [FAQ](/faq.md)
+- ## [Glossary](/glossary.md)
+- ## [Data Dictionary](data-dictionary.md)
 
-Also we are primarily supported today by Gitcoin which is at the forefront of efforts to resist Sybil attacks both via software via Passport and of course via the efforts of the FDD team within Gitcoin. If we collectively do not resist Sybil attacks then one of the real bright spots of web3 - the collective funding of public goods - would be captured by essentially criminal forces.
+## What is the ODC
+Find more [details of who we are by reviewing our mission and values here](https://github.com/OpenDataforWeb3)
 
-We want to highlight values such as:
-
-- openness - working in public and actively requesting input
-- candor - being direct and facts based
-- inclusive - making a particular effort to welcome and invite a breadth of perspectives
-- initiative - last but definitely not least IMO. Perhaps we should emphasize the importance of taking initiative
-
-This Landscape list is intended to be a growing list of projects that are open source that the community finds to be useful. 
-
-## [The Landscape](/landscape.md)
-
+## Contribute
+Find more [details of how we contribute to the project by reviewing our contributing etiquette here](/CONTRIBUTING.md)
 ## Join Us
-
-Please do create an issue or simply a pull request against this document. There are many opportunities to collaborate. 
 
 Find more [details of what we are doing and when by reviewing our wiki here](https://github.com/OpenDataforWeb3/Landscape/wiki). 
