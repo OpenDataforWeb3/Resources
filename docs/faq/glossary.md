@@ -3,7 +3,6 @@
 ## Grants
 A grant is an amount of money that is given or awarded to an organization, student, or project. In the context of Gitcoin, grants are used to fund public goods. During Gitcoin grants rounds, eligible grants will be able to receive matching funds from a matching fund using quadratic funding.
 
-
 ## EOA - Externally Own Address 
 An EOA is one of a public address derived from a private key. On the public registry, any transaction from or to that address will reference that address. For more details about Ethereum accounts, you can visit [Etherscan: Understanding Ethereum Accounts](https://info.etherscan.com/understanding-ethereum-accounts/#:~:text=An%20externally%20owned%20address%20is,the%20funds%20in%20an%20address.)
 
@@ -18,7 +17,6 @@ Gitcoin Passport is one of the Sybil defense lego built by Gitcoin. It allows a 
 
 Verify your credentials with Passport [here](https://passport.gitcoin.co/).
 
-
 ## Stamps
 Stamps are credentials or proof of activities that can be acquired by a user by connecting and verifying ownerships of accounts both with Gitcoin Passport.
 
@@ -26,7 +24,7 @@ Stamps are credentials or proof of activities that can be acquired by a user by 
 SAD is a Sybil defense lego developed by Gitcoin that looks at the on-chain history of a grant contributor to score the EOA of the user. 
 
 ## Gitcoin
- Gitcoin describes itself as a platform “to fund builders looking for meaningful, open source work”. Their mission is to build a more open, collaborative, and economically empowering world. By giving tools to communities, they help build and funds public goods and bring the future digital public infrastructure. 
+Gitcoin describes itself as a platform “to fund builders looking for meaningful, open source work”. Their mission is to build a more open, collaborative, and economically empowering world. By giving tools to communities, they help build and funds public goods and bring the future digital public infrastructure. 
 
 ## Squelched
 We say that a user is "squelched" when he does not have his funds matched by quadratic funding because he has been detected as a Sybil attacker. 
@@ -41,7 +39,6 @@ A Lego is a composable unit that performs a definite action. You can see it as a
 You can find more details in this Gitcoin blog post: [Anti-Sybil Legos](https://gov.gitcoin.co/t/anti-sybil-legos/12265)
 
 ## What is Exploratory Data Analysis (EDA)
-(**V0.0 @G-r-ay : Review needed**)
 Exploratory Data Analysis (EDA) is a method of understanding data that utilises visualization and statistical techniques to help identify inconsistencies, as well as better understand patterns within the data, detect outliers or anomalous events, and discover interesting relationships between variables.
 
 One example of an EDA tool would be [Raphtory](https://www.raphtory.com/), an analytics platform that combines graph structure capabilities with time-series analysis.
