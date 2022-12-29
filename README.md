@@ -1,4 +1,4 @@
-# Open Data Community Landscape repository
+# OpenData Community Landscape repository
 
 These files are intended to be a growing descriptive list of projects, communities, and terms that are open source and that the community finds to be useful. 
 
