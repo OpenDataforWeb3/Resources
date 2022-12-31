@@ -1,11 +1,12 @@
 # Open Data Community Landscape repository
 
-These files are intended to be a growing descriptive list of projects, communities, and terms that are open source and that the community finds to be useful. 
+The files in this repository are intended to be a growing descriptive list of projects, communities, and terms that are open source and that the community finds to be useful. 
 
-- ## [Landscape](/docs/landscape.md)
-- ## [FAQ](/docs/faq.md)
-- ## [Glossary](/docs/glossary.md)
-- ## [Data Dictionary](/docs/data-dictionary.md)
+## Any files in these directories update the opendataforweb3.github.io website:
+- Docs
+- Blog
+
+## The rest of the files in the repo or wiki are considered to be research
 
 ## What is the ODC
 Find more [details of who we are by reviewing our mission and values here](https://github.com/OpenDataforWeb3)
