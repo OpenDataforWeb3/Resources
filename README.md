@@ -1,6 +1,6 @@
-# Open Data Community Landscape repository
+# Open Data Community Resources repository
 
-These files are intended to be a growing descriptive list of projects, communities, and terms that are open source and that the community finds to be useful. 
+We are collaboratively authoring and updating information that may be useful for builders wanting to take an open and decentralized approach to data analysis. 
 
 - ## [Landscape](/docs/landscape.md)
 - ## [FAQ](/docs/faq/faq.md)
