@@ -1,7 +1,7 @@
 # Welcome to the ODC contributing guide
 <!-- forked from https://github.com/github/docs/blob/main/CONTRIBUTING.md-->
 
-Thank you for investing your time in contributing to our project!  
+Thank you for investing your time in contributing to the OpenData Community!  We are using GitHub and git as a part of working in public, together.    
 
 <!--Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable. -->
 
@@ -11,6 +11,7 @@ In this guide you will get an overview of the contribution workflow from opening
 
 To get an overview of the project, read the [README](README.md). Here are some resources to help you get started with open source contributions:
 
+- [HackMD - many of our contributors use HackMD to push content to the ODC github] (https://hackmd.io/features)
 - [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 - [GitHub Desktop - GUI git manager](https://desktop.github.com)
 - [Visual Studio Code - IDE for editing files](https://code.visualstudio.com)
