@@ -1,5 +1,3 @@
-# ODC/FAQ
-
 ##  What is a Sybil Attack and why we should fight it?
 
 A Sybil attack refers to a type of attack in which an attacker creates multiple fake identities, or "Sybils” to gain an unfair advantage within a decentralized network. This term is a reference to a [book entitled Sybil](https://en.wikipedia.org/wiki/Sybil_(Schreiber_book)). This book was also made into two television movies, the main character Sybil Dorsett endorsed different personalities.

@@ -1,5 +1,3 @@
-# ODC/Glossary
-
 ## Grants
 A grant is an amount of money that is given or awarded to an organization, student, or project. In the context of Gitcoin, grants are used to fund public goods. During Gitcoin grants rounds, eligible grants will be able to receive matching funds from a matching fund using quadratic funding.
 
