@@ -1,6 +1,6 @@
 ### Project Categories
 
-The categories below are simplistic and imperfect and will improve with input.
+The categories below are simplistic and imperfect and will improve with input.  Please make suggestions.  
 
 ### Decentralized compute
 
@@ -31,6 +31,7 @@ The categories below are simplistic and imperfect and will improve with input.
 - Github:  https://github.com/pokt-network/pocket-core/
 - Community:  https://docs.pokt.network/community/governance/
 - Summary:  *The only reliable and decentralized RPC network in the world governed by a high-performing DAO with the most contributor-friendly ecosystem.*
+- Experience with ODC community: **Very strong - recommended for use by hackathon participants**
 
 **Rocket Pool:**
 - Website:  https://rocketpool.net/
@@ -60,19 +61,7 @@ The categories below are simplistic and imperfect and will improve with input.
 - Resources: https://developers.ceramic.network/learn/welcome/
 - Summary: *With Ceramic's permissionless data streaming network, you can store streams of information and ever-changing files directly on the decentralized web – and share updates with anyone in the world.*
 
-### Index transactions
-
-Open source technologies used to Index transactions. 
-
-**The Graph:**  
-- Website: [https://thegraph.com/en/](https://thegraph.com/en/)
-- Github: [https://github.com/graphprotocol](https://github.com/graphprotocol)  
-
-**TrueBlocks:**
-- Website:  [https://trueblocks.io/](https://trueblocks.io/)
-- Github: [https://github.com/trueblocks/trueblocks-core](https://)
-- Unchained Index specification: https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf
-- Summary: *Lightweight indexing for any EVM-based blockchain. Recipient of Ethereum Foundation funding.*
+### API providers
 
 **Covalent:**
 - Website:  https://www.covalenthq.com/
@@ -80,27 +69,41 @@ Open source technologies used to Index transactions.
 - Github:  https://github.com/covalenthq
 - Summary:  *Single API - across a breadth of block chains - and a network of providers to enable some level of decentralization* 
 
-There are additionally a number of Index offerings that are sold as centralized and proprietary solutions.  
+### Index transactions
+Decentralized technologies used to Index transactions.
 
-### Graph relationships 
+The Graph:
+- Website: https://thegraph.com/en/
+- Github: https://github.com/graphprotocol
 
-**Raphtory:**
-- Website:  [https://www.raphtory.com/about/](https://www.raphtory.com/about/)
-- Github:  [https://github.com/Raphtory/Raphtory](https://github.com/Raphtory/Raphtory)
-- Summary: *Raphtory is a unified analytics engine for large-scale graph analysis, allowing you to run complex graph queries no matter where your data lives and what format it is in. Besides performance and scalability, what makes Raphtory cool is its ability to represent and explore the history of a complex system, from simply “time travelling” through data, to executing richer analysis like taint tracking, temporal reachability, or mining temporal motifs.*
+**TrueBlocks:**
+- Website: https://trueblocks.io/
+- Github: https://github.com/trueblocks/trueblocks-core
+- Unchained Index specification: https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf
+- Summary: *Lightweight indexing for any EVM-based blockchain. Potentially crucial for data decentralization.* 
+- Experience with ODC community: **Very strong - recommended for use by hackathon participants.**
+
+There are additionally a number of Index offerings that are sold as centralized and proprietary solutions.
+
+### Graph relationships
 
 **Trust Protocol:**
-- Website: [https://www.trustprotocol.xyz/](https://www.trustprotocol.xyz/)
-- Notion: [https://kaixmarcus.notion.site/Trust-Protocol-6ad8439839f7432ea2019a1290ff5e4b)y](https://kaixmarcus.notion.site/Trust-Protocol-6ad8439839f7432ea2019a1290ff5e4b))
-- Summary:  *A developing privacy-centric data analytics protocol that leverages social graphs, data indexing, and off-chain/on-chain data porting to enable robust high-trust environments.*
+- Website: https://www.trustprotocol.xyz/
+- Notion: https://kaixmarcus.notion.site/Trust-Protocol-6ad8439839f7432ea2019a1290ff5e4b)y)
+- Summary: *A developing privacy-centric data analytics protocol that leverages social graphs, data indexing, and off-chain/on-chain data porting to enable robust high-trust environments.*
 
 ### Interpret transactions
-
 Technologies used to make sense of indexed transactions are many. They typically include approaches to simplify quering and in some cases these technologies include their own indexing.
+
+**Raphtory:**
+- Website: https://www.raphtory.com/about/
+- Github: https://github.com/Raphtory/Raphtory
+- Summary:*Raphtory is a unified analytics engine for large-scale graph analysis, allowing you to run complex graph queries no matter where your data lives and what format it is in. Besides performance and scalability, what makes Raphtory cool is its ability to represent and explore the history of a complex system, from simply “time travelling” through data, to executing richer analysis like taint tracking, temporal reachability, or mining temporal motifs.*  
+- Experience with ODC community: **Very strong - likely in use by hackathon participants.**
 
 **Transpose:**
 - Website: https://www.transpose.io/
-- Github: https://github.com/TransposeData  - only demos of API usage and similar
+- Github: https://github.com/TransposeData - only demos of API usage and similar
 - Docs: docs.transpose.io
 - Summary: *Provides SQL interfaces & a sandbox for analysis.*
 
@@ -110,30 +113,30 @@ Technologies used to make sense of indexed transactions are many. They typically
 - Summary: *Kwil is a permissionless SQL database that enables decentralized, structured data storage for off-chain data.*
 
 **Dune Analytics:**
-- Website:   https://dune.com/home
+- Website: https://dune.com/home
 - Github: https://github.com/duneanalytics projects running on top of Dune
-- Docs:  https://dune.com/docs/
+- Docs: https://dune.com/docs/
 - Summary: *Free crypto analytics by and for the community.*
 
 **Flipside Crypto:**
-- Website:   https://flipsidecrypto.xyz
-- Docs:  https://docs.flipsidecrypto.com/
+- Website: https://flipsidecrypto.xyz
+- Docs: https://docs.flipsidecrypto.com/
 - Summary: *Free crypto analytics offering analytics bounties and with free API.*
 
-### Apps that use Decentralized Data
+## Apps that use Decentralized Data
 
 **Rotki:**
-- Website:  https://rotki.com/
-- Github:  https://github.com/rotki
-- Docs:  https://rotki.readthedocs.io/en/latest/index.htm
-- Summary:  *Rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy.*
+- Website: https://rotki.com/
+- Github: https://github.com/rotki
+- Docs: https://rotki.readthedocs.io/en/latest/index.htm
+- Summary: *Rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy.*
 
-### Data sharing
+### Data sharing ###
 
 Some projects are enabling the sharing of data and related analysis.
 
 **Kamu:**
-- Website: [https://www.kamu.dev/](https://)
+- Website: https://www.kamu.dev/
 - Github: https://github.com/kamu-data
 - Docs: https://docs.kamu.dev/
 - Summary: *Kamu’s Open Data Fabric network brings the power of enterprise data pipelines into global trustless environment.*
@@ -143,7 +146,4 @@ Some projects are enabling the sharing of data and related analysis.
 - Github: https://github.com/oceanprotocol
 - Docs: https://docs.oceanprotocol.com/
 - Summary: *Ocean Protocol is a suite of decentralized tools to unlock data at a large scale.*
-
-### Anti-Sybil approaches
-- A placeholder for Anti-Sybil approaches and projects
-- We can start with Hackathon contestants
+- Experience with ODC community: **Very strong - strongly preferred as a part of January 2023 hackathon.**
