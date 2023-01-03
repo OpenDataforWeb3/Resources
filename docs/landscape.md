@@ -72,7 +72,7 @@ The categories below are simplistic and imperfect and will improve with input.  
 ### Index transactions
 Decentralized technologies used to Index transactions.
 
-The Graph:
+**The Graph:**
 - [Website](https://thegraph.com/en/)
 - [Github](https://github.com/graphprotocol)
 
