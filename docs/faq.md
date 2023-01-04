@@ -7,12 +7,12 @@ Ocean Protocol allows for the decentralized sharing of data and algorithms.
 Ocean provides a free and easy way to decentralize access control to algorithms and/or deploy ERC725Y as soulbound tokens for preventing misuse of DAO proposal mechanisms.
 
 Ocean Protocol has authored a step-by-step guide for DataBuilder Hackathon participants here:  
-https://github.com/oceanprotocol/data-challenges/blob/GitcoinHackathon/DataBuilders%20Hackathon.md
+[https://github.com/oceanprotocol/data-challenges/blob/GitcoinHackathon/DataBuilders%20Hackathon.md] (https://github.com/oceanprotocol/data-challenges/blob/GitcoinHackathon/DataBuilders%20Hackathon.md)
 
 Ocean Protocol experts will also be available on the DataBuilder hackathon Discord within the OpenData Community.
 
 And the Ocean Protocol has extensive documentation here:
-https://docs.oceanprotocol.com/
+[https://docs.oceanprotocol.com/](https://docs.oceanprotocol.co)
 
 
 ## Hackathon FAQ:  How can I use Pocket Network?
@@ -21,11 +21,12 @@ Pocket Network is an open-source decentralized RPC network with a contributor-fr
 
 **DataBuilder Hackathon participants are strongly encouraged to use Pocket Network.**  
 
-All hackathon participants have access to the Pocket Network decentralized RPC endpoints. You can go to the Pocket Portal and sign up for a free account, and you'll be able to access any one of dozens of blockchains for up to 250,000 relays per day at no charge. https://www.portal.pokt.network/ 
+All hackathon participants have access to the Pocket Network decentralized RPC endpoints. You can go to the Pocket Portal and sign up for a free account, and you'll be able to access any one of dozens of blockchains for up to 250,000 relays per day at no charge. [https://www.portal.pokt.network/](https://www.portal.pokt.network/) 
 
-Users will also have access to Pocket's robust RPC API, with connections available to Ethereum and all other major blockchains.  More information about the Pocket Network APIs are available here:  https://docs.pokt.network/api-docs/  In order to query againsts these inputs you may choose to use True Blocks or another solution to create an index based on wallet ID.  
+Users will also have access to Pocket's robust RPC API, with connections available to Ethereum and all other major blockchains.  More information about the Pocket Network APIs are available here: [https://docs.pokt.network/api-docs/](https://docs.pokt.network/api-docs/)  In order to query againsts these inputs you may choose to use True Blocks or another solution to create an index based on wallet ID.  
 
 Pocket team members will be on-hand in the OpenData Community Hackathon Discord channel throughout the event to answer any questions you might have. 
+
 
 ## Hackathon FAQ:  How can I use TrueBlocks?
 
@@ -36,11 +37,11 @@ TrueBlocks is an open-source project funded in part by the Gitcoin community and
 **DataBuilder Hackathon participants should strongly consider using TrueBlocks to provide a local index that can be used to query an RPC from any source, including the decentralized Pocket Network.**  
 
 To get started, participants can Docker run a local copy of the index.
-https://github.com/TrueBlocks/trueblocks-docker
+[https://github.com/TrueBlocks/trueblocks-docker](https://github.com/TrueBlocks/trueblocks-docker)
 
 TrueBlocks engineers will be available on the DataBuilder Hackathon OpenData Community Discord.
 
-TrueBlocks documentation which explains much more about how to build and contribute to the shared “unchained” index as well as how to use TrueBlocks and the index for data analysis is available here:  https://trueblocks.io/docs/
+TrueBlocks documentation which explains much more about how to build and contribute to the shared “unchained” index as well as how to use TrueBlocks and the index for data analysis is available here: [https://trueblocks.io/docs/]( https://trueblocks.io/docs/)
 
 
 ##  What is a Sybil Attack and why we should fight it?
