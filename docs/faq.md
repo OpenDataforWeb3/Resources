@@ -23,7 +23,7 @@ Pocket Network is an open-source decentralized RPC network with a contributor-fr
 
 All hackathon participants have access to the Pocket Network decentralized RPC endpoints. You can go to the Pocket Portal and sign up for a free account, and you'll be able to access any one of dozens of blockchains for up to 250,000 relays per day at no charge. [https://www.portal.pokt.network/](https://www.portal.pokt.network/?utm_medium=cta&utm_source=odc&utm_campaign=data-builder-hackathon&utm_content=faq-page) 
 
-Users will also have access to Pocket's robust RPC API, with connections available to Ethereum and all other major blockchains.  More information about the Pocket Network APIs are available here: [https://docs.pokt.network/api-docs/](https://docs.pokt.network/api-docs/?utm_medium=cta&utm_source=odc&utm_campaign=data-builder-hackathon&utm_content=faq-page)  In order to query againsts these inputs you may choose to use True Blocks or another solution to create an index based on wallet ID.  
+Users will also have access to Pocket's robust RPC API, with connections available to Ethereum and all other major blockchains.  More information about the Pocket Network APIs are available here: [https://docs.pokt.network/api-docs/](https://docs.pokt.network/api-docs/pokt/#/?utm_medium=cta&utm_source=odc&utm_campaign=data-builder-hackathon&utm_content=faq-page)  In order to query againsts these inputs you may choose to use True Blocks or another solution to create an index based on wallet ID.  
 
 Pocket team members will be on-hand in the OpenData Community Hackathon Discord channel throughout the event to answer any questions you might have. 
 
