@@ -7,7 +7,7 @@ Ocean Protocol allows for the decentralized sharing of data and algorithms.
 Ocean provides a free and easy way to decentralize access control to algorithms and/or deploy ERC725Y as soulbound tokens for preventing misuse of DAO proposal mechanisms.
 
 Ocean Protocol has authored a step-by-step guide for DataBuilder Hackathon participants here:  
-[https://github.com/oceanprotocol/data-challenges/blob/GitcoinHackathon/DataBuilders%20Hackathon.md](https://github.com/oceanprotocol/data-challenges/blob/GitcoinHackathon/DataBuilders%20Hackathon.md)
+[https://github.com/oceanprotocol/data-challenges/blob/main/DataBuilders%20Hackathon.md](https://github.com/oceanprotocol/data-challenges/blob/main/DataBuilders%20Hackathon.md)
 
 Ocean Protocol experts will also be available on the DataBuilder hackathon Discord within the OpenData Community.
 
