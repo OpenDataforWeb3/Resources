@@ -4,7 +4,13 @@ The files in this repository are intended to be a growing descriptive list of pr
 
 ## As we update files in these directories, the website itself will be updated as well:
 - Docs
+  - Data Dictionary
+  - FAQ
+  - Glossary
+  - Landscape
+  - ...
 - Blog
+- Images
 
 ## What is the ODC
 Find more [details of who we are by reviewing our mission and values here](https://github.com/OpenDataforWeb3)
