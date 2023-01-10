@@ -21,7 +21,9 @@ To get an overview of the project, read the [README](README.md). Here are some r
 
 ## Getting started
 
-To contribute to the ODC repository, you must be a member of the ODC discord and in good standing. ODC discord members in good standing can be ODC github organization members. This means you will have write access to repositories in the ODC organization. Just ask in the ODC general channel and we will add you as an ODC github organization member.
+To contribute to the ODC repository, you must be a member of the ODC discord and in good standing. ODC discord members in good standing can be ODC github organization members. This means you will have write access to repositories in the ODC organization. 
+
+**Just ask in the ODC general channel and we will add you as an ODC github organization member.**
 
 Find below the types of contributions we encourage.
 
