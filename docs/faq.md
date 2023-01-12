@@ -1,3 +1,22 @@
+## What is a Hackathon?
+
+In general a Hackathon is a social coding event that brings together computer programmers like software developers, analysts,  designers and user interface specialists along with industry process experts and professionals to identify issues and create software solutions within a specific period of time.
+
+## Who can participate in the Open Data Community (ODC) hackathon?
+
+Everybody is welcome to apply and be part of the Open Data Community (ODC) hackathon. We are looking for hackers, coders, makers but also for innovators, engineers, creative people, designers, data geeks and startups. Specifically, Data analysts and data scientists, software developers, and DevRel contributors are all well suited for the different bounties and contests of this hackathon.  
+
+## Any prepared dataset for use during the hackathon?
+Yes, we have prepared a dataset for your use that includes information about recent grants rounds with Unicef and with Fantom:
+
+UNICEF and Fantom datasets [https://market.oceanprotocol.com/asset/did:op:d4b54f5ab4f171aec585b83189931625eab3803981e9658fe472a87ddc039b0b](https://market.oceanprotocol.com/asset/did:op:d4b54f5ab4f171aec585b83189931625eab3803981e9658fe472a87ddc039b0b)
+
+Gitcoin gr15 datasets [https://market.oceanprotocol.com/asset/did:op:f40b1d9c08b737b72d25f705389ca6f3a42c0320887c0276eb28641357dffdf0](https://market.oceanprotocol.com/asset/did:op:f40b1d9c08b737b72d25f705389ca6f3a42c0320887c0276eb28641357dffdf0)
+
+## In the Anti-Sybil Dashboard bounty, are we expected to come up with new LEGOs  or work with the existing ones?
+
+You can work with existing ones! To get started, you might want to go with mock ones of course.
+
 ## Hackathon FAQ:  How can I use the Ocean Protocol?
 
 Ocean Protocol allows for the decentralized sharing of data and algorithms.  
@@ -14,6 +33,11 @@ Ocean Protocol experts will also be available on the DataBuilder hackathon Disco
 And the Ocean Protocol has extensive documentation here:
 [https://docs.oceanprotocol.com/](https://docs.oceanprotocol.co)
 
+NOTE: If you have any issues getting your data from ocean (maybe your download won't start), do try to download again, if it persist, we recommend using the Firefox browser and to be a bit more patient as it may take sometime.
+
+## How to contribute to the hackathon
+
+The ODC team has detailed how best to contribute to the hackthon here : [https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md](https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md)
 
 ## Hackathon FAQ:  How can I use Pocket Network?
 
