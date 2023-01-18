@@ -126,6 +126,10 @@ Technologies used to make sense of indexed transactions are many. They typically
 - [Docs](https://docs.flipsidecrypto.com/)
 - Summary: *Free crypto analytics offering analytics bounties and with free API.*
 
+**Blockchain ETL:**
+- [Github](https://github.com/blockchain-etl)
+- Summary: *Data sets and scripts for blockchains in Google BigQuery.*
+
 ## Apps that use Decentralized Data
 
 **Rotki:**
