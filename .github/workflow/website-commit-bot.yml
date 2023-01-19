@@ -1,0 +1,53 @@
+name: website-commit-bot
+
+echo "From the PR labeled with Publish, "
+echo "Creating a commit in the main branch of"
+echo "opendataforweb3.github.io"
+
+- name: Checkout resources repo
+  uses: actions/checkout@v3
+  with:
+    path: resources
+
+- name: Checkout website repo
+  uses: actions/checkout@v3
+  with:
+    repository: OpenDataforWeb3/opendataforweb3.github.io
+    path: opendataforweb3.github.io
+
+on:
+  pull_request:
+    branches: [main]
+    types: [closed]
+    label: [publish]
+
+-name: move the PR content 
+jobs:
+  build: 
+      runs-on: ubuntu-latest
+  steps:
+    - uses: actions/checkout@v3
+    - run: |
+      date > generated.txt
+      cd ../resources
+      git config user.name github-actions
+      git config user.email github-actions@github.com
+      cp github.event.pull_request.pullrequest ../opendataforweb3.github.io
+      cd ../opendataforweb3.github.io
+      mv ./docs/* /content/en/docs/
+      mv ./blog/* /content/en/blog/
+      mv ./images/* /images/
+
+-name: merge the PR content into the origin repo of the website
+jobs:
+  build: 
+      runs-on: ubuntu-latest
+  steps:
+    - uses: actions/checkout@v3
+    - run: |
+      date > generated.txt
+      git config user.name github-actions
+      git config user.email github-actions@github.com
+      git add .
+      git commit -m "changes pushed by website-commit-bot from PR github.event.pull_request.commits[url]"
+      git push
