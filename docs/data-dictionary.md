@@ -70,7 +70,7 @@ Data dictionaries for all the datasets provided by the ODC.
 | project_github | project github repo |
 | project_twitter | project twitter account |
 
-## [Alpha round - Climate solutions data](To be added) - needs edit
+## [Alpha round - Climate Solutions data](To be added) - needs edit
 
 ### climate_round_votes
 
@@ -84,6 +84,68 @@ Data dictionaries for all the datasets provided by the ODC.
 | created at |	the time of creation |
 
 ### climate_grant_applications
+
+| Field | Description |
+| :---- | :---------: |
+| id | record id (off-chain) |
+| project | project ID |
+| status | status of the grant application |
+| updated_at | the time of latest update by the grantee |
+| created_at | the time of creation |
+| application_round | grant round ID|
+| application_recipient | recipient of grant funds |
+| title | the project title |
+| description | the description of the grant |
+| website | project website |
+| github_user | guthib user if available |
+| project_github | project github repo |
+| project_twitter | project twitter account |
+
+## [Alpha round - Ethereum Infrastructure data](To be added) - needs edit
+
+### ethereum_round_votes
+
+| Field | Description |
+| :---- | :---------: |
+| id | record_id |
+| source_wallet | contributor/voter wallet |
+| token | the token contributed |
+| amount |the amount contributed (token) |
+| destination_wallet| project wallet |
+| created at |	the time of creation |
+
+### ethereum_grant_applications
+
+| Field | Description |
+| :---- | :---------: |
+| id | record id (off-chain) |
+| project | project ID |
+| status | status of the grant application |
+| updated_at | the time of latest update by the grantee |
+| created_at | the time of creation |
+| application_round | grant round ID|
+| application_recipient | recipient of grant funds |
+| title | the project title |
+| description | the description of the grant |
+| website | project website |
+| github_user | guthib user if available |
+| project_github | project github repo |
+| project_twitter | project twitter account |
+
+## [Alpha round - Web3 Open Source Software data](To be added) - needs edit
+
+### oss_round_votes
+
+| Field | Description |
+| :---- | :---------: |
+| id | record_id |
+| source_wallet | contributor/voter wallet |
+| token | the token contributed |
+| amount |the amount contributed (token) |
+| destination_wallet| project wallet |
+| created at |	the time of creation |
+
+### oss_grant_applications
 
 | Field | Description |
 | :---- | :---------: |
