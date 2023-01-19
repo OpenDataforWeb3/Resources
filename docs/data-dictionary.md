@@ -70,6 +70,37 @@ Data dictionaries for all the datasets provided by the ODC.
 | project_github | project github repo |
 | project_twitter | project twitter account |
 
+## [Alpha round - Climate solutions data](To be added) - needs edit
+
+### climate_round_votes
+
+| Field | Description |
+| :---- | :---------: |
+| id | record_id |
+| source_wallet | contributor/voter wallet |
+| token | the token contributed |
+| amount |the amount contributed (token) |
+| destination_wallet| project wallet |
+| created at |	the time of creation |
+
+### climate_grant_applications
+
+| Field | Description |
+| :---- | :---------: |
+| id | record id (off-chain) |
+| project | project ID |
+| status | status of the grant application |
+| updated_at | the time of latest update by the grantee |
+| created_at | the time of creation |
+| application_round | grant round ID|
+| application_recipient | recipient of grant funds |
+| title | the project title |
+| description | the description of the grant |
+| website | project website |
+| github_user | guthib user if available |
+| project_github | project github repo |
+| project_twitter | project twitter account |
+
 
 ## [Gitcoin gr15 round data](https://market.oceanprotocol.com/asset/did:op:f40b1d9c08b737b72d25f705389ca6f3a42c0320887c0276eb28641357dffdf0)
 
