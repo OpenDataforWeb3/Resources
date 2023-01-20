@@ -85,6 +85,99 @@ toc: true
 | project_github | project github repo |
 | project_twitter | project twitter account |
 
+## [Alpha round - Climate Solutions data](https://market.oceanprotocol.com/asset/did:op:b36e5620f2350a426c649dc959fd73daa03d3ee0633d5d585c347f0731d1db51)
+
+### climate_round_votes
+
+| Field | Description |
+| :---- | :---------: |
+| id | record_id |
+| source_wallet | contributor/voter wallet |
+| token | the token contributed |
+| amount |the amount contributed (token) |
+| destination_wallet| project wallet |
+| created at |	the time of creation |
+
+### climate_grant_applications
+
+| Field | Description |
+| :---- | :---------: |
+| id | record id (off-chain) |
+| project | project ID |
+| status | status of the grant application |
+| updated_at | the time of latest update by the grantee |
+| created_at | the time of creation |
+| application_round | grant round ID|
+| application_recipient | recipient of grant funds |
+| title | the project title |
+| description | the description of the grant |
+| website | project website |
+| github_user | guthib user if available |
+| project_github | project github repo |
+| project_twitter | project twitter account |
+
+## [Alpha round - Ethereum Infrastructure data](https://market.oceanprotocol.com/asset/did:op:19521808ee480883449ee2e4a4c1de5afb2c112eab34c31d8e4e7662fd823b12)
+
+### ethereum_round_votes
+
+| Field | Description |
+| :---- | :---------: |
+| id | record_id |
+| source_wallet | contributor/voter wallet |
+| token | the token contributed |
+| amount |the amount contributed (token) |
+| destination_wallet| project wallet |
+| created at |	the time of creation |
+
+### ethereum_grant_applications
+
+| Field | Description |
+| :---- | :---------: |
+| id | record id (off-chain) |
+| project | project ID |
+| status | status of the grant application |
+| updated_at | the time of latest update by the grantee |
+| created_at | the time of creation |
+| application_round | grant round ID|
+| application_recipient | recipient of grant funds |
+| title | the project title |
+| description | the description of the grant |
+| website | project website |
+| github_user | guthib user if available |
+| project_github | project github repo |
+| project_twitter | project twitter account |
+
+## [Alpha round - Web3 Open Source Software data](https://market.oceanprotocol.com/asset/did:op:0e41a85bafe3306d8b87157a4c8f33bb14fa8663d536e48c411724a794d1ce23)
+
+### oss_round_votes
+
+| Field | Description |
+| :---- | :---------: |
+| id | record_id |
+| source_wallet | contributor/voter wallet |
+| token | the token contributed |
+| amount |the amount contributed (token) |
+| destination_wallet| project wallet |
+| created at |	the time of creation |
+
+### oss_grant_applications
+
+| Field | Description |
+| :---- | :---------: |
+| id | record id (off-chain) |
+| project | project ID |
+| status | status of the grant application |
+| updated_at | the time of latest update by the grantee |
+| created_at | the time of creation |
+| application_round | grant round ID|
+| application_recipient | recipient of grant funds |
+| title | the project title |
+| description | the description of the grant |
+| website | project website |
+| github_user | guthib user if available |
+| project_github | project github repo |
+| project_twitter | project twitter account |
+
 
 ## [Gitcoin gr15 round data](https://market.oceanprotocol.com/asset/did:op:f40b1d9c08b737b72d25f705389ca6f3a42c0320887c0276eb28641357dffdf0)
 
