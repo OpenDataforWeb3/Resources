@@ -70,7 +70,7 @@ Data dictionaries for all the datasets provided by the ODC.
 | project_github | project github repo |
 | project_twitter | project twitter account |
 
-## [Alpha round - Climate Solutions data](To be added) - needs edit
+## [Alpha round - Climate Solutions data](https://market.oceanprotocol.com/asset/did:op:b36e5620f2350a426c649dc959fd73daa03d3ee0633d5d585c347f0731d1db51)
 
 ### climate_round_votes
 
@@ -101,7 +101,7 @@ Data dictionaries for all the datasets provided by the ODC.
 | project_github | project github repo |
 | project_twitter | project twitter account |
 
-## [Alpha round - Ethereum Infrastructure data](To be added) - needs edit
+## [Alpha round - Ethereum Infrastructure data](https://market.oceanprotocol.com/asset/did:op:19521808ee480883449ee2e4a4c1de5afb2c112eab34c31d8e4e7662fd823b12)
 
 ### ethereum_round_votes
 
@@ -132,7 +132,7 @@ Data dictionaries for all the datasets provided by the ODC.
 | project_github | project github repo |
 | project_twitter | project twitter account |
 
-## [Alpha round - Web3 Open Source Software data](To be added) - needs edit
+## [Alpha round - Web3 Open Source Software data](https://market.oceanprotocol.com/asset/did:op:0e41a85bafe3306d8b87157a4c8f33bb14fa8663d536e48c411724a794d1ce23)
 
 ### oss_round_votes
 
