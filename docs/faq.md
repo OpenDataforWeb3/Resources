@@ -1,3 +1,22 @@
+--
+title: "FAQ"
+description: "Answers to frequently asked questions."
+lead: "Answers to frequently asked questions."
+date: 2022-12-25T21:55:02-03:00
+lastmod: 2022-12-25T21:55:02-03:00
+draft: false
+weight: 50
+images: ["avatar.jpg"]
+categories: []
+tags: []
+contributors: [""]
+menu:
+  docs:
+    parent: "FAQ"
+weight: 610
+toc: true
+---
+
 ## Hackathon FAQ:  How can I use the Ocean Protocol?
 
 Ocean Protocol allows for the decentralized sharing of data and algorithms.  

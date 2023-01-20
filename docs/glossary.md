@@ -1,3 +1,22 @@
+---
+title: "Glossary"
+description: "Glossary."
+lead: ""
+date: 2022-12-25T21:55:02-03:00
+lastmod: 2022-12-25T21:55:02-03:00
+draft: false
+weight: 50
+images: ["avatar.jpg"]
+categories: []
+tags: []
+contributors: [""]
+menu:
+  docs:
+    parent: "FAQ"
+weight: 610
+toc: true
+---
+
 ## Grants
 A grant is an amount of money that is given or awarded to an organization, student, or project. In the context of Gitcoin, grants are used to fund public goods. During Gitcoin grants rounds, eligible grants will be able to receive matching funds from a matching fund using quadratic funding.
 

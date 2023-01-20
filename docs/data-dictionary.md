@@ -1,6 +1,21 @@
-# ODC/Data Dictionary
-
-Data dictionaries for all the datasets provided by the ODC.
+---
+title: "Data Dictionary"
+description: "Data Dictionary"
+lead: "Data dictionaries for all the datasets provided by the ODC"
+date: 2022-12-25T21:55:02-03:00
+lastmod: 2022-12-25T21:55:02-03:00
+draft: false
+weight: 50
+images: ["avatar.jpg"]
+categories: []
+tags: []
+contributors: [""]
+menu:
+  docs:
+    parent: "FAQ"
+weight: 620
+toc: true
+---
 
 ## [Fantom round data](https://market.oceanprotocol.com/asset/did:op:d4b54f5ab4f171aec585b83189931625eab3803981e9658fe472a87ddc039b0b)
 
