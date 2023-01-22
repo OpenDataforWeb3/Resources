@@ -39,5 +39,3 @@ Responsibilities: To help the ODC become a sustainable business
 - Documentation (business plan, pitch deck, etc)
 
 To join these groups, please see the [Biz Dev](https://discord.gg/sQfZpZNVRC) discord channel
-
-test update
