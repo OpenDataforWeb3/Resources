@@ -4,13 +4,24 @@ We are starting the ODC working groups to help us as a community organize our va
 
 [Grant & Partner Materials Brainstorm](https://www.notion.so/Grant-Partner-Materials-Brainstorm-a1294033dd1b449e88a9eff65c6d82da)
 
-## Publishing & Comms (sarob: I’d split this into 2 groups)
+## Publishing & Comms
 
 **Mandate: (sarob: I’d change this to responsibilities)**
 
-(sarob: I think this should be for the comms team)The publishing and Comms working group is in charge of all public facing communication and messaging. They are the top of the funnel that helps bring members into the community and orient themselves. 
+The publishing and Comms working group is in charge of all public facing communication and messaging. They are the top of the funnel that helps bring members into the community and orient themselves. 
 
 sarob alt responsibilities for publishing team: responsible for keeping the organization content up to date and publishing that content in various locations to maximize the visibility for the organization and it’s mission. 
+
+## Comms
+
+Managing the public messaging. 
+
+Dealing with marketing people from vendors and partners. 
+
+Managing twitter, discord, and similar public forums. 
+
+Likely a good contribution role for someone with a day to day marketing job. 
+
 
 ### **Roles & Responsibilities:**
 
@@ -119,18 +130,6 @@ We want these events to be repeatable and reuse knowledge that makes the events 
 Likely a good contribution role for someone with a day to day engineering related developer relations and/or marketing job. 
 
 contributors: epowell, Stef_says, baoki, …
-
-# Comms
-
-Managing the public messaging. 
-
-Dealing with marketing people from vendors and partners. 
-
-Managing twitter, discord, and similar public forums. 
-
-Likely a good contribution role for someone with a day to day marketing job. 
-
-contributors: curiousrabbit?, …
 
 # DevRel and onboarding
 
