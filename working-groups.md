@@ -132,7 +132,7 @@ Likely a good contribution role for someone with a day to day marketing job.
 
 contributors: curiousrabbit?, …
 
-# DevRel
+# DevRel and onboarding
 
 Sometimes called the User Group for OSS organizations. The OSS community manager often take on similar responsibities. Focuses on supporting the developer experience and the community fit. Can moderate disputes between members and/or teams. 
 
@@ -140,13 +140,9 @@ We have recently discussed the need for network and/or compute options for regio
 
 Likely a good contribution role for someone with a day to day engineering related developer relations, community manager, and/or engineering management job. 
 
-contributors: sarob, …
-
-# onboarding projects
+contributors: sarob, stef_says, ...
 
 Take what we learn from working with sponsors and projects in the hackathon and apply it to what services would they want from ODC to become more involved, e.g. moving their repository to the ODC GitHub organization. 
-
-contributors: sarob, …
 
 community voting
 
@@ -160,12 +156,4 @@ documentation clarifying our SOP’s for working groups, supporting projects, et
 
 defining the value we bring to teams, related to our core activities (what attracts people to join open source communities)
 
-website 
-
-meeting friday
-
-dework task issue
-
-voting for hackathon issue
-
-12 month business plan & pitch deck
+How to help casual contributors https://discord.com/channels/1037443230993743902/1038206685224902658/1066759373902332006 and https://discord.com/channels/1037443230993743902/1038206685224902658/1066764970324406373
