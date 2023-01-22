@@ -1,26 +1,23 @@
-# OpenData Community Resources
+## What is the ODC?
+> The OpenData Community is a new initiative originally founded by Gitcoin. Through activities like hackathons, knowledge curation, and others, we hope to create, capture and distribute value to those building decenlatrized solutions for an Open Data Layer for web3
 
-The files in this repository are intended to be a growing descriptive list of projects, communities, terms, tips for Hackathon participants, and other open source resources for anyone interested in fighting Sybils while resisting data recentralization.  
+### Our mission
+To build an incentivized network that can fight the recentralization of web3 at the data layer & and promote decentralized solutions to unlock a capture resistant future for web3
 
-## As we update files in these directories, the website itself will be updated as well:
-- Docs
-  - Data Dictionary
-  - FAQ
-  - Glossary
-  - Landscape
-  - ...
-- Blog
-- Images
+### Active Projects
+1. Bootstrapping the ODC Community [join us on discord](https://discord.gg/8zMHkgscrf)
+2. [Data-Builder Hackthon](https://gitcoin.co/hackathon/DataBuilders/?) ending January 31st 
+3. [The Landscape](https://github.com/OpenDataforWeb3/Landscape/) a useful curation of decentralized data solutions in web3
 
-## What is the ODC
-Find more [details of who we are by reviewing our mission and values here](https://github.com/OpenDataforWeb3)
+### Our Focus
+- Sybil Resistance
+- Decentralized Data Infrastructure & Applications
 
-## Contribute
-Find more [details of how we contribute to the project by reviewing our contributing etiquette here](/CONTRIBUTING.md)
+> ### Why Does it Matter?
+    - Sybil resistance is the fight against fake accounts.  If we collectively do not resist Sybil attacks, one of the real bright spots of web3 - the collective funding of public goods - could be captured by criminal forces.  
 
-## Join Us
+    - Decentralized Data Infrastructure & Applications are essential for combating the recentralization of data.  If we continue to take short cuts when accessing and analyzing blockchain data, we are adding vulnerability to the ecosystem right above the decentralized blockchains.   
+
+### More info
+
 Find more [details of what we are doing and when by reviewing our wiki here](https://github.com/OpenDataforWeb3/Landscape/wiki). 
-
-## Discord
-Please join us to discuss ongoing hackathons and efforts to build the ODC itself:
-[https://discord.gg/Ye3QrWf6fG](https://discord.gg/Ye3QrWf6fG)
