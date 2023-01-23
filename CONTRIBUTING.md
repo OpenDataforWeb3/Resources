@@ -6,7 +6,7 @@ Thank you for investing your time in contributing to the OpenData Community!  We
 <br />
 
 # How we Coordinate
-- We have created working groups that you can get involved in. Please refer to [this document]() to find out more
+- We have created working groups that you can get involved in. Please refer to our discord for more info
 
 - We are using [discord](https://discord.gg/havA38Xa7q) for the community and general coordination.
 
@@ -72,3 +72,6 @@ To contribute to the ODC repository, you must be a member of the ODC discord and
 9. Once you submit your PR, a ODC member will review your work. We may ask questions or request additional information.
 
 10. Once your PR is merged, your contributions will be publicly visible in the repository.  
+
+
+## Thanks for helping us build a capture resistant future for Web3 ❤️
