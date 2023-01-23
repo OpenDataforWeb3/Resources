@@ -13,9 +13,22 @@ UNICEF and Fantom datasets [https://market.oceanprotocol.com/asset/did:op:d4b54f
 
 Gitcoin gr15 datasets [https://market.oceanprotocol.com/asset/did:op:f40b1d9c08b737b72d25f705389ca6f3a42c0320887c0276eb28641357dffdf0](https://market.oceanprotocol.com/asset/did:op:f40b1d9c08b737b72d25f705389ca6f3a42c0320887c0276eb28641357dffdf0)
 
+We have tied together all our datasets uploads here: [https://market.oceanprotocol.com/profile/0x6fd78613E08FCB92890e65eA14450750aCAFF7b5](https://market.oceanprotocol.com/profile/0x6fd78613E08FCB92890e65eA14450750aCAFF7b5)
+
 ## In the Anti-Sybil Dashboard bounty, are we expected to come up with new LEGOs  or work with the existing ones?
 
 You can work with existing ones! To get started, you might want to go with mock ones of course.
+
+## Where can I find an example dashboard screen that I may find useful in developing legos for the OpenData Community Hackathon?
+
+[../sybil-image.png](../sybil-image.png)
+
+For a fancy version, you can see the docs from TrustaLabs.  They just launched a commercial Sybil scoring project and are one of our sponsors here as well.  
+
+[https://trustalabs.gitbook.io/trustscan/product-guides/details-of-the-sybil-risk-report](https://trustalabs.gitbook.io/trustscan/product-guides/details-of-the-sybil-risk-report)
+
+More importantly,Program managers want to know how is my round doing and Is it getting attacked!
+Here are some of the lego ideas.. [https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185](https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185)
 
 ## Hackathon FAQ:  How can I use the Ocean Protocol?
 
