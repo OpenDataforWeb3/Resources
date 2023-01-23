@@ -61,16 +61,13 @@ Exploratory Data Analysis (EDA) is a method of understanding data that utilises 
 One example of an EDA tool would be [Raphtory](https://www.raphtory.com/), an analytics platform that combines graph structure capabilities with time-series analysis.
 
 ## Ceramic Network
-
-To be completed
+Ceramic is a decentralized network for composable data that simplifies the process of building applications with composable Web3 data by allowing you to browse a marketplace of data models, plug them into your app, and store, update, and retrieve data from those models. When multiple applications reuse the same data models, their data becomes interoperable. Ceramic makes data composable and reusable across all applications by decentralizing application databases.
 
 ## zksync
-
-To be completed
+zkSync is a ZK [rollup](https://v2-docs.zksync.io/dev/fundamentals/rollups.html), which is a trustless protocol that uses cryptographic validity proofs to provide scalable and low-cost Ethereum transactions. Computation is performed off-chain in zkSync, and the majority of data is stored off-chain as well. Because all transactions are verified on the Ethereum mainchain, users enjoy the same level of security as in Ethereum.
 
 ## Bulk transactions
-
-To be completed
+Bulk transactions refer to the ability to send multiple transactions in a single request in the context of web3. The primary goal of bulk transactions is to optimize the process of sending multiple transactions by reducing the number of transactions that must be sent, thereby lowering gas costs and the load on the Ethereum network. This can be accomplished by using a tool such as "bulk-tx,a command-line tool that allows you to send multiple transactions in a single request. This tool is especially useful when sending a large number of transactions in a short period of time, such as when deploying a large number of smart contracts. Bulk transactions can be an effective way to improve performance, and the cost effectiveness of decentralized applications built on Ethereum or other blockchain networks.
 
 ## DID's
 
