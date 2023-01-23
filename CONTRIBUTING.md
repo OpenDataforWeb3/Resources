@@ -8,6 +8,8 @@ Thank you for investing your time in contributing to the OpenData Community!  We
 # How we Coordinate
 - We have created working groups that you can get involved in. Please refer to our discord for more info
 
+- You can find our calendar of meetings and events [here](https://calendar.google.com/calendar/u/0/embed?src=698a35b1c1a24bdae78f30cbe3fc081c5fbb681c748a45df61040c6e6f26c932@group.calendar.google.com&ctz=America/Los_Angeles)
+
 - We are using [discord](https://discord.gg/havA38Xa7q) for the community and general coordination.
 
 - We are testing out [Dework](https://app.dework.xyz/opendata-community.) for task management
@@ -18,19 +20,6 @@ Thank you for investing your time in contributing to the OpenData Community!  We
 <br />
 <br />
 <br />
-## Contributing to our github repo
-
-To contribute to the ODC repository, you must be a member of the ODC discord and in good standing. ODC discord members in good standing can be ODC github organization members. This means you will have write access to repositories in the ODC organization. 
-<br />
-<br />
-***To become a ODC github organization member. You can ask in our discord and/or show up to our meetings***
-
-- You can find our calendar of meetings and events [here](https://calendar.google.com/calendar/u/0/embed?src=698a35b1c1a24bdae78f30cbe3fc081c5fbb681c748a45df61040c6e6f26c932@group.calendar.google.com&ctz=America/Los_Angeles)
-
-
-- If you are new to github, we suggest using [Visual Studio Code](https://code.visualstudio.com), an IDE for editing file. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) will guide you through setting up VSC. 
-
-- If you are a seasoned github user, feel free to use the applications you are comfortable with and follow the guidelines below.
 
 ## Solving Issues
 
@@ -46,6 +35,53 @@ To contribute to the ODC repository, you must be a member of the ODC discord and
 ## Wiki Changes
 
 - The [wiki](https://github.com/OpenDataforWeb3/Resources/wiki) allows any github user to read and write. We suggest using the wiki for research you want to share with other members. 
+<br />
+<br />
+<br />
+
+## Contributing to our GitHub repository via the browser
+
+To edit or create a file using just your browser, you will need to fork the repository by simply clicking on https://github.com/OpenDataforWeb3/Resources/fork. This will create an online fork (or copy) of the repository in your GitHub personal space. 
+
+Then edit the file by selecting the pencil icon
+
+<img width="1275" alt="image" src="./images/edit-file.png">
+<br />
+<br />
+<br />
+Make your changes. At the bottom of the page, add a commit message so everyone knows what you changed and select "Create a New branch." Pick a branch name. We suggest using a branch name similar to `<user>-<patch><#>`, e.g. sarob-patch12.
+
+<img width="1275" alt="image" src="./images/commit-file.png">
+<br />
+<br />
+<br />
+
+You will need to create the PR (Pull Request) so your changes get added to the origin repository.
+
+<img width="1275" alt="image" src="./images/create-pr.png">
+<br />
+<br />
+<br />
+
+And the final step, is to save the PR by selecting the create PR button.
+
+<img width="1275" alt="image" src="./images/save-pr.png">
+<br />
+<br />
+<br />
+
+## Contributing to our GitHub repository via a cloned repository
+
+Alternatively if like to work offline using your local laptop, follow the steps below. 
+
+Firstly you can become a member of the ODC GitHub organization. Simply join the ODC discord ask in the general channel to be added. ODC discord members in good standing can be ODC github organization members. This means you will have write access to repositories in the ODC organization. If you perfer to work off a fork, that option is always open to you. 
+<br />
+<br />
+
+
+- If you are new to github, we suggest using [Visual Studio Code](https://code.visualstudio.com), an IDE for editing file. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) will guide you through setting up VSC. 
+
+- If you are a seasoned github user, feel free to use the applications you are comfortable with and follow the guidelines below.
 
 <br />
 <br />
