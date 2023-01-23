@@ -1,6 +1,6 @@
 # Get Involved & Build the ODC
 
-Make sure to check out our [CONTRIBUDING docs](https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md) to learn how you can collaborate with us on Github.
+Make sure to check out our [CONTRIBUTING docs](https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md) to learn how you can collaborate with us on Github.
 
 We've started Working Groups for the ODC! Publishing & Comms, Engineering & Infra, Biz Dev
 
