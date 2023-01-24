@@ -1,4 +1,4 @@
---
+---
 title: "FAQ"
 description: "Answers to frequently asked questions."
 lead: "Answers to frequently asked questions."
@@ -15,7 +15,7 @@ menu:
     parent: "FAQ"
 weight: 610
 toc: true
---
+---
 
 ## What is a Hackathon?
 
