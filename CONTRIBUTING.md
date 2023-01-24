@@ -1,11 +1,8 @@
 # Welcome to the ODC contributing guide
 
 Thank you for investing your time in contributing to the OpenData Community!  We are excited to build an Open Data Layer for Web3 with you and all of our partners!. 
-<br />
-<br />
-<br />
 
-# How we Coordinate
+## How we Coordinate
 - We have created working groups that you can get involved in. Please refer to our discord for more info
 
 - We are using [discord](https://discord.gg/havA38Xa7q) for the community and general coordination.
@@ -14,44 +11,67 @@ Thank you for investing your time in contributing to the OpenData Community!  We
 
 - And we are using [this Github repo](https://github.com/OpenDataforWeb3/Resources) for contributions and building in public.
 
-`In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.`
-<br />
-<br />
-<br />
-## Contributing to our github repo
-
-To contribute to the ODC repository, you must be a member of the ODC discord and in good standing. ODC discord members in good standing can be ODC github organization members. This means you will have write access to repositories in the ODC organization. 
-<br />
-<br />
-***To become a ODC github organization member. You can ask in our discord and/or show up to our meetings***
-
 - You can find our calendar of meetings and events [here](https://calendar.google.com/calendar/u/0/embed?src=698a35b1c1a24bdae78f30cbe3fc081c5fbb681c748a45df61040c6e6f26c932@group.calendar.google.com&ctz=America/Los_Angeles)
+<br />
 
+# Contribute With Ease
+
+Here is the flow if you are **NOT** a member of the ODC Organization on Github
+
+- Sign in to your [Github Account](https://github.com/)
+- Go to the [ODC Resources Repo](https://github.com/OpenDataforWeb3/Resources)
+
+
+## Solving Issues
+
+1. The easiest way to start contributing is to check out our [Github Issues](https://github.com/OpenDataforWeb3/Resources/issues)
+
+2. Scan through them to find one that suits you. 
+
+3. Click on the file requiring editing or Create a new file if the task requires it. 
+
+4. You can edit existing files by pressing on the crayon icon on the right side of the page
+<img width="903" alt="edit-file" src="https://user-images.githubusercontent.com/117952992/214411761-66315743-9060-4954-84a0-186ff24b65e8.png">
+
+5. When you are done working on the file, click PROPOSE CHANGE at the bottom of the file. This will automatically create a new fork and branch. We suggest using a branch name similar to `<user>-<patch><#>`, e.g. sarob-patch12.
+<img width="903" alt="commit-file" src="https://user-images.githubusercontent.com/117952992/214411923-898c5958-68ba-4046-b9a8-e392ae9a7c42.png">
+
+6. You will then need to create a Pull Request (follow the prompt)
+<img width="903" alt="create-pr" src="https://user-images.githubusercontent.com/117952992/214412070-016c0f8e-3150-4cb0-93d8-afb34a67c2f5.png">
+
+7. Save the PR. If there is a open issue associated with your PR, add the issue # into either the summary or description field as `#<number>`, e.g. the issue number is 32, so add `#32`.  
+<img width="903" alt="save-pr" src="https://user-images.githubusercontent.com/117952992/214414064-bf0b9224-3791-4194-a5f9-3ac97a0a28e4.png">
+
+8. Make sure to keep the checkmark that says "allow edits by maintainers" checked (this allows us to edit your proposed change)
+
+9. PR's need to be reviewed by at least 1 other member of the ODC before merging. 
+
+10. You can post the link to your PR request in our discord for review
+
+11. Once you submit your PR, a ODC member will review your work. We may ask questions, comment, edit
+
+12. Once your PR is merged, your contributions will be publicly visible in the repository.  
+
+**Congratulations & Thank You! You have contributed to the ODC Community**
+<br />
+<br />
+
+> If you **ARE** a member of the ODC Organization on Github and using this method
+
+  - The only difference is when you create your PR, you can assign a reviewer directly and do not need to post the PR link in discord to attract the attention of a reviewer
+<br />
+
+# Alternative Method: Contributing to our GitHub repository via a cloned repository
+
+Alternatively if like to work offline using your local laptop, follow the steps below.
+
+Firstly you can become a member of the ODC GitHub organization. Simply join the ODC discord ask in the general channel to be added. ODC discord members in good standing can be ODC github organization members. This means you will have write access to repositories in the ODC organization. 
 
 - If you are new to github, we suggest using [Visual Studio Code](https://code.visualstudio.com), an IDE for editing file. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) will guide you through setting up VSC. 
 
 - If you are a seasoned github user, feel free to use the applications you are comfortable with and follow the guidelines below.
 
-## Solving Issues
-
-- The easiest way to start contributing is to check out our [Github Issues](https://github.com/OpenDataforWeb3/Resources/issues)
-
-- Scan through them to find one that suits you. 
-
-- If you find an issue to work on, assign the issue to yourself.
-
-- When you are ready with a fix to the issue, open a PR.
-
-
-## Wiki Changes
-
-- The [wiki](https://github.com/OpenDataforWeb3/Resources/wiki) allows any github user to read and write. We suggest using the wiki for research you want to share with other members. 
-
-<br />
-<br />
-<br />
-
-# Creating Pull Requests and Standard Operating Procedures
+## Creating Pull Requests and Standard Operating Procedures
 
 1. The first step is to clone [ODC Resources](https://github.com/OpenDataforWeb3/Resources)
 
@@ -72,6 +92,8 @@ To contribute to the ODC repository, you must be a member of the ODC discord and
 9. Once you submit your PR, a ODC member will review your work. We may ask questions or request additional information.
 
 10. Once your PR is merged, your contributions will be publicly visible in the repository.  
+<br />
+<br />
 
 
 ## Thanks for helping us build a capture resistant future for Web3 ❤️
