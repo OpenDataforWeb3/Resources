@@ -20,4 +20,4 @@ To build an incentivized network that can fight the recentralization of web3 at 
 
 ### More info
 
-Find more [details of what we are doing and when by reviewing our wiki here](https://github.com/OpenDataforWeb3/Landscape/wiki). 
+Find more [details of what we are doing and when by reviewing our wiki here](https://github.com/OpenDataforWeb3/Landscape/wiki). HI!
