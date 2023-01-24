@@ -115,6 +115,8 @@ toc: true
 | github_user | guthib user if available |
 | project_github | project github repo |
 | project_twitter | project twitter account |
+| previous_funding | previous project funding sources |
+| team_size | size of the team working on the project |
 
 ## [Alpha round - Ethereum Infrastructure data](https://market.oceanprotocol.com/asset/did:op:19521808ee480883449ee2e4a4c1de5afb2c112eab34c31d8e4e7662fd823b12)
 
@@ -146,6 +148,9 @@ toc: true
 | github_user | guthib user if available |
 | project_github | project github repo |
 | project_twitter | project twitter account |
+| previous_funding | previous project funding sources |
+| team_size | size of the team working on the project |
+| verified_twitter_or_github | verification of twitter or github account |
 
 ## [Alpha round - Web3 Open Source Software data](https://market.oceanprotocol.com/asset/did:op:0e41a85bafe3306d8b87157a4c8f33bb14fa8663d536e48c411724a794d1ce23)
 
@@ -177,6 +182,10 @@ toc: true
 | github_user | guthib user if available |
 | project_github | project github repo |
 | project_twitter | project twitter account |
+| previous_funding | previous project funding sources |
+| team_size | size of the team working on the project |
+| verified_twitter_or_github | verification of twitter or github account |
+| links_to_github_or_org| Link to github user or organization |
 
 
 ## [Gitcoin gr15 round data](https://market.oceanprotocol.com/asset/did:op:f40b1d9c08b737b72d25f705389ca6f3a42c0320887c0276eb28641357dffdf0)
