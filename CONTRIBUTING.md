@@ -33,7 +33,7 @@ Here is the flow if you are **NOT** a member of the ODC Organization on Github
 4. You can edit existing files by pressing on the crayon icon on the right side of the page
 <img width="903" alt="edit-file" src="https://user-images.githubusercontent.com/117952992/214411761-66315743-9060-4954-84a0-186ff24b65e8.png">
 
-5. When you are done working on the file, click PROPOSE CHANGE at the bottom of the file. This will automatically create a new fork and branch. We suggest using a branch name similar to `-<#>`, e.g. sarob-patch12.
+5. When you are done working on the file, click PROPOSE CHANGE at the bottom of the file. This will automatically create a new fork and branch. We suggest using a branch name similar to `<user>-<patch><#>`, e.g. sarob-patch12.
 <img width="903" alt="commit-file" src="https://user-images.githubusercontent.com/117952992/214411923-898c5958-68ba-4046-b9a8-e392ae9a7c42.png">
 
 6. You will then need to create a Pull Request (follow the prompt)
