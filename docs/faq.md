@@ -15,9 +15,41 @@ menu:
     parent: "FAQ"
 weight: 610
 toc: true
----
+--
 
-## Hackathon FAQ:  How can I use the Ocean Protocol?
+## What is a Hackathon?
+
+In general a Hackathon is a social coding event that brings together computer programmers like software developers, analysts,  designers and user interface specialists along with industry process experts and professionals to identify issues and create software solutions within a specific period of time.
+
+## Who can participate in the Open Data Community (ODC) hackathon?
+
+Everybody is welcome to apply and be part of the Open Data Community (ODC) hackathon. We are looking for hackers, coders, makers but also for innovators, engineers, creative people, designers, data geeks and startups. Specifically, Data analysts and data scientists, software developers, and DevRel contributors are all well suited for the different bounties and contests of this hackathon.  
+
+## Any prepared dataset for use during the hackathon?
+Yes, we have prepared a dataset for your use that includes information about recent grants rounds with Unicef and with Fantom:
+
+UNICEF and Fantom datasets [https://market.oceanprotocol.com/asset/did:op:d4b54f5ab4f171aec585b83189931625eab3803981e9658fe472a87ddc039b0b](https://market.oceanprotocol.com/asset/did:op:d4b54f5ab4f171aec585b83189931625eab3803981e9658fe472a87ddc039b0b)
+
+Gitcoin gr15 datasets [https://market.oceanprotocol.com/asset/did:op:f40b1d9c08b737b72d25f705389ca6f3a42c0320887c0276eb28641357dffdf0](https://market.oceanprotocol.com/asset/did:op:f40b1d9c08b737b72d25f705389ca6f3a42c0320887c0276eb28641357dffdf0)
+
+We have tied together all our datasets uploads here: [https://market.oceanprotocol.com/profile/0x6fd78613E08FCB92890e65eA14450750aCAFF7b5](https://market.oceanprotocol.com/profile/0x6fd78613E08FCB92890e65eA14450750aCAFF7b5)
+
+## In the Anti-Sybil Dashboard bounty, are we expected to come up with new LEGOs  or work with the existing ones?
+
+You can work with existing ones! To get started, you might want to go with mock ones of course.
+
+## Where can I find an example dashboard screen that I may find useful in developing legos for the OpenData Community Hackathon?
+
+[../sybil-image.png](../sybil-image.png)
+
+For a fancy version, you can see the docs from TrustaLabs.  They just launched a commercial Sybil scoring project and are one of our sponsors here as well.  
+
+[https://trustalabs.gitbook.io/trustscan/product-guides/details-of-the-sybil-risk-report](https://trustalabs.gitbook.io/trustscan/product-guides/details-of-the-sybil-risk-report)
+
+More importantly,Program managers want to know how is my round doing and Is it getting attacked!
+Here are some of the lego ideas.. [https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185](https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185)
+
+## How can I use the Ocean Protocol?
 
 Ocean Protocol allows for the decentralized sharing of data and algorithms.  
 
@@ -33,6 +65,11 @@ Ocean Protocol experts will also be available on the DataBuilder hackathon Disco
 And the Ocean Protocol has extensive documentation here:
 [https://docs.oceanprotocol.com/](https://docs.oceanprotocol.co)
 
+NOTE: If you have any issues getting your data from ocean (maybe your download won't start), do try to download again, if it persist, we recommend using the Firefox browser and to be a bit more patient as it may take sometime.
+
+## How to contribute to the hackathon
+
+The ODC team has detailed how best to contribute to the hackthon here : [https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md](https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md)
 
 ## Hackathon FAQ:  How can I use Pocket Network?
 
@@ -45,7 +82,6 @@ All hackathon participants have access to the Pocket Network decentralized RPC e
 Users will also have access to Pocket's robust RPC API, with connections available to Ethereum and all other major blockchains.  More information about the Pocket Network APIs are available here: [https://docs.pokt.network/api-docs/](https://docs.pokt.network/api-docs/pokt/?utm_medium=cta&utm_source=odc&utm_campaign=data-builder-hackathon&utm_content=faq-page) In order to query againsts these inputs you may choose to use True Blocks or another solution to create an index based on wallet ID.  
 
 Pocket team members will be on-hand in the OpenData Community Hackathon Discord channel throughout the event to answer any questions you might have. 
-
 
 ## Hackathon FAQ:  How can I use TrueBlocks?
 
@@ -61,7 +97,6 @@ To get started, participants can Docker run a local copy of the index.
 TrueBlocks engineers will be available on the DataBuilder Hackathon OpenData Community Discord.
 
 TrueBlocks documentation which explains much more about how to build and contribute to the shared “unchained” index as well as how to use TrueBlocks and the index for data analysis is available here: [https://trueblocks.io/docs/]( https://trueblocks.io/docs/)
-
 
 ##  What is a Sybil Attack and why we should fight it?
 
@@ -83,7 +118,6 @@ Check this 60 sec video by Gitcoin to better understand and come back here:
 Nice, now that you understood, is easy to get why fraudsters create multiple accounts. The idea is simple, make really small contributions to their own project from different accounts in an attempt to maximize ROI, as the quadratic funding algorithm prioritizes distribution of matching funds pool to projects that received donations from the biggest number of community members.
 
 Similarly, the quadratic mechanism can also be applied to voting (quadratic voting) where each voter votes with some tokens, then fraudsters are incentivized to vote for a proposal from many addresses rather than a single address.
-
 
 ## What is the price of forgery? 
 
