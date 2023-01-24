@@ -20,9 +20,11 @@ To build an incentivized network that can fight the recentralization of web3 at 
 <br />
 <br />
 
-### Our Focus
+## Our Focus
 - Sybil Resistance
 - Decentralized Data Infrastructure & Applications
+<br />
+<br />
 
 > ### Why Does it Matter?
     - Sybil resistance is the fight against fake accounts.  If we collectively do not resist Sybil attacks, one of the real bright spots of web3 - the collective funding of public goods - could be captured by criminal forces.  
