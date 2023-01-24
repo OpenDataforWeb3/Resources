@@ -1,6 +1,19 @@
+---
+title : "Landscape"
+description: "Info about the landscape"
+lead: ""
+date: 2022-12-27T22:26:54+01:00
+lastmod: 2022-12-27T22:26:54+01:00
+draft: false
+images: []
+---
+
 ### Project Categories
 
 The categories below are simplistic and imperfect and will improve with input.  Please make suggestions.  
+You can read more about how to suggest & make changes in our **[wiki.](https://github.com/OpenDataforWeb3/Resources/wiki)**
+
+**We peridocially run bounties & hackathons that reward issues & pull requests; so your improvements may resulted in a reward!**
 
 ### Decentralized compute
 
@@ -122,6 +135,10 @@ Technologies used to make sense of indexed transactions are many. They typically
 - [Website](https://flipsidecrypto.xyz)
 - [Docs](https://docs.flipsidecrypto.com/)
 - Summary: *Free crypto analytics offering analytics bounties and with free API.*
+
+**Blockchain ETL:**
+- [Github](https://github.com/blockchain-etl)
+- Summary: *Data sets and scripts for blockchains in Google BigQuery.*
 
 ## Apps that use Decentralized Data
 
