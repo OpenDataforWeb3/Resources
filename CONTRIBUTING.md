@@ -31,12 +31,16 @@ Here is the flow if you are **NOT** a member of the ODC Organization on Github
 3. Click on the file requiring editing or Create a new file if the task requires it. 
 
 4. You can edit existing files by pressing on the crayon icon on the right side of the page
+<img width="903" alt="edit-file" src="https://user-images.githubusercontent.com/117952992/214411761-66315743-9060-4954-84a0-186ff24b65e8.png">
 
-5. When you are done working on the file, click PROPOSE CHANGE at the bottom of the file. This will automatically create a new fork and branch.
+5. When you are done working on the file, click PROPOSE CHANGE at the bottom of the file. This will automatically create a new fork and branch. We suggest using a branch name similar to `-<#>`, e.g. sarob-patch12.
+<img width="903" alt="commit-file" src="https://user-images.githubusercontent.com/117952992/214411923-898c5958-68ba-4046-b9a8-e392ae9a7c42.png">
 
 6. You will then need to create a Pull Request (follow the prompt)
+<img width="903" alt="create-pr" src="https://user-images.githubusercontent.com/117952992/214412070-016c0f8e-3150-4cb0-93d8-afb34a67c2f5.png">
 
-7. If there is a open issue associated with your PR, add the issue # into either the summary or description field as `#<number>`, e.g. the issue number is 32, so add `#32`.  
+7. Save the PR. If there is a open issue associated with your PR, add the issue # into either the summary or description field as `#<number>`, e.g. the issue number is 32, so add `#32`.  
+<img width="903" alt="save-pr" src="https://user-images.githubusercontent.com/117952992/214414064-bf0b9224-3791-4194-a5f9-3ac97a0a28e4.png">
 
 8. Make sure to keep the checkmark that says "allow edits by maintainers" checked (this allows us to edit your proposed change)
 
@@ -52,17 +56,20 @@ Here is the flow if you are **NOT** a member of the ODC Organization on Github
 <br />
 <br />
 
-> If you **ARE** a member of the ODC Organization on Github
+> If you **ARE** a member of the ODC Organization on Github and using this method
 
   - The only difference is when you create your PR, you can assign a reviewer directly and do not need to post the PR link in discord to attract the attention of a reviewer
 <br />
 
-# Alternative Method for Contributing
+# Alternative Method: Contributing to our GitHub repository via a cloned repository
+
+Alternatively if like to work offline using your local laptop, follow the steps below.
+
+Firstly you can become a member of the ODC GitHub organization. Simply join the ODC discord ask in the general channel to be added. ODC discord members in good standing can be ODC github organization members. This means you will have write access to repositories in the ODC organization. 
 
 - If you are new to github, we suggest using [Visual Studio Code](https://code.visualstudio.com), an IDE for editing file. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) will guide you through setting up VSC. 
 
 - If you are a seasoned github user, feel free to use the applications you are comfortable with and follow the guidelines below.
-
 
 ## Creating Pull Requests and Standard Operating Procedures
 
