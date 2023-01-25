@@ -35,7 +35,7 @@ You can read more about how to suggest & make changes in our **[wiki.](https://g
 **Render Network:**
 - [Website](https://render.x.io/)
 - [Github](https://github.com/rndr-network)
-- Summary: *The Render Network is ushering in a new era of decentralized GPU cloud rendering.*
+- Summary: *The Render Network is ushering  in a new era of decentralized GPU cloud rendering.*
 
 ### Run and Stake Ethererum nodes ###
 
