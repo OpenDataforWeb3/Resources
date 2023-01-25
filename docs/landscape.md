@@ -32,7 +32,13 @@ You can read more about how to suggest & make changes in our **[wiki.](https://g
 - [Github](https://github.com/ovrclk)
 - Summary: *Akash Network is a Distributed Peer-to-Peer Marketplace for Cloud Compute.*
 
+**Render Network:**
+- [Website](https://render.x.io/)
+- [Github](https://github.com/rndr-network)
+- Summary: *The Render Network is ushering in a new era of decentralized GPU cloud rendering.*
+
 ### Run and Stake Ethererum nodes ###
+
 
 **Ankr:**
 - [Website](https://www.ankr.com/)
@@ -46,11 +52,19 @@ You can read more about how to suggest & make changes in our **[wiki.](https://g
 - Summary:  *The only reliable and decentralized RPC network in the world governed by a high-performing DAO with the most contributor-friendly ecosystem.*
 - Experience with ODC community: **Very strong - recommended for use by hackathon participants**
 
+
+**Alchemy:**
+- [Website](https://www.alchemy.com/)
+- [Github](https://github.com/alchemyplatform)
+- Summary:  *Alchemy replaces the nodes that businesses use to read and write blockchains with a faster, more scalable decentralized architecture. It also provides tools for analytics, monitoring, alerting, logging and debugging for cryptocurrency-connected software.*
+
+
 **Rocket Pool:**
 - [Website](https://rocketpool.net/)
 - [Github](https://github.com/rocket-pool)
 - [Docs](https://docs.rocketpool.net/guides/)
 - Summary: *Rocket Pool is the first truly decentralised Ethereum staking pool.*
+
 
 ### Decentralized storage
 
@@ -74,13 +88,29 @@ You can read more about how to suggest & make changes in our **[wiki.](https://g
 - [Resources](https://developers.ceramic.network/learn/welcome/)
 - Summary: *With Ceramic's permissionless data streaming network, you can store streams of information and ever-changing files directly on the decentralized web – and share updates with anyone in the world.*
 
-### API providers
+**Fleek**
+- [Website](https://fleek.co/)
+- [Resources](https://docs.fleek.co/)
+- Summary: *Fleek is an open source, blockchain agnostic, extensible web3 development platform,fleek makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.*
+
+**Fluence**
+- [Website](https://fluence.network/)
+- [Resources](https://fluence.dev/docs/build/introduction)
+- Summary: *Fluence provides an open Web3 protocol, framework and tooling to develop and host applications, interfaces and backends on permissionless peer-to-peer networks.*
+
+### API providers and Oracles
 
 **Covalent:**
 - [Website](https://www.covalenthq.com/)
 - [Docs](https://www.covalenthq.com/docs/)
 - [Github](https://github.com/covalenthq)
 - Summary:  *Single API - across a breadth of block chains - and a network of providers to enable some level of decentralization* 
+
+**Chainlink:**
+- [Website](https://chain.link/)
+- [Doc](https://docs.chain.link/#evm-products)
+- Summary: *Decentralized and high-quality data feeds, highly reliable, cost-efficient and highly secure automation for smart contracts,Verifiable, tamper-proof random number generator for blockchain gaming and NFT projects and request and can receive data from any API using the Chainlink contract library* 
+
 
 ### Index transactions
 Decentralized technologies used to Index transactions.
@@ -152,6 +182,7 @@ Technologies used to make sense of indexed transactions are many. They typically
 
 Some projects are enabling the sharing of data and related analysis.
 
+
 **Kamu:**
 - [Website](https://www.kamu.dev/)
 - [Github](https://github.com/kamu-data)
@@ -164,3 +195,4 @@ Some projects are enabling the sharing of data and related analysis.
 - [Docs](https://docs.oceanprotocol.com/)
 - Summary: *Ocean Protocol is a suite of decentralized tools to unlock data at a large scale.*
 - Experience with ODC community: **Very strong - strongly preferred as a part of January 2023 hackathon.**
+
