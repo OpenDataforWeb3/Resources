@@ -229,3 +229,16 @@ toc: true
 | twitter_verified | whether the twitter account was verified |
 | created_on | the time of creation |
 | last_update | the time of latest update by the grantee |
+
+## [gr15+fantom+unicef grant_contributions](https://market.oceanprotocol.com/asset/did:op:f23ca4239dd1387bdfd3f550930e52134659664e890b2b439d36e8891fa8f686)
+
+combined all of the GR15, Fantom, and Unicef grant round contributions data with a standardized schema
+
+| Field | Description|
+| :---: | :---------:|
+| round 	| fantom | unicef | gr15 |
+| id | unique id of contribution |
+| source_wallet | contributor address |
+| destination_wallet | grant(project) address |
+| amount_usd | contribution amount calculated from raw amount data |
+| token_symbol | the token contributed |
