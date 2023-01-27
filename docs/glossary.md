@@ -71,4 +71,6 @@ Bulk transactions refer to the ability to send multiple transactions in a single
 
 ## DID's
 
-To be completed
+Decentralized Identifiers (DID's) are globally unique identifiers that allow entities to be verifiable, control their digital identity and are cryptographically generated. DID's have been designed to enable the controller of a DID to have control over it, breaking the reliance on third-party authenticators and centralized authorities. 
+
+You can learn more on DID's [here](https://www.w3.org/TR/did-core/)
