@@ -80,10 +80,8 @@ For further reading:
 * [https://www.youtube.com/watch?v=-EKhIBUQjcA](https://www.youtube.com/watch?v=-EKhIBUQjcA)
 * [https://www.youtube.com/watch?v=_VolZn0y-FM](https://www.youtube.com/watch?v=_VolZn0y-FM)
 * [https://vitalik.ca/general/2021/01/05/rollup.html](https://vitalik.ca/general/2021/01/05/rollup.html)
-## Hackathon FAQ:  How can I use the Ocean Protocol?
-=======
+
 ## How can I use the Ocean Protocol?
->>>>>>> 94e390d6fc37e7eb9f05283c7425c24ecf97bff8
 
 Ocean Protocol allows for the decentralized sharing of data and algorithms.  
 
