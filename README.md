@@ -11,7 +11,6 @@ To build an incentivized network that can fight the recentralization of web3 at 
 3. [The Landscape](https://github.com/OpenDataforWeb3/Landscape/) a useful curation of decentralized data solutions in web3
 <br />
 
-
 `Check out our documents for becoming a contributor and adding to our Github Repo. Help us build this amazing community together.`
 [How to Contribute](https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md)
 <br />
@@ -20,7 +19,6 @@ To build an incentivized network that can fight the recentralization of web3 at 
 ## Our Focus
 - Sybil Resistance
 - Decentralized Data Infrastructure & Applications
-<br />
 <br />
 
 > ### Why Does it Matter?
