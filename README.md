@@ -1,6 +1,6 @@
 ## What is the ODC?
-> The OpenData Community is a new initiative originally founded by Gitcoin. Through activities like hackathons, knowledge curation, and others, we hope to create, capture and distribute value to those building decenlatrized solutions for an Open Data Layer for web3
-<br />
+
+The OpenData Community is a new initiative originally founded by Gitcoin. Through activities like hackathons, knowledge curation, and others, we hope to create, capture and distribute value to those building decenlatrized solutions for an Open Data Layer for web3
 
 ### Our mission
 To build an incentivized network that can fight the recentralization of web3 at the data layer & and promote decentralized solutions to unlock a capture resistant future for web3
@@ -21,10 +21,9 @@ To build an incentivized network that can fight the recentralization of web3 at 
 - Decentralized Data Infrastructure & Applications
 <br />
 
-> ### Why Does it Matter?
-    - Sybil resistance is the fight against fake accounts.  If we collectively do not resist Sybil attacks, one of the real bright spots of web3 - the collective funding of public goods - could be captured by criminal forces.  
-
-    - Decentralized Data Infrastructure & Applications are essential for combating the recentralization of data.  If we continue to take short cuts when accessing and analyzing blockchain data, we are adding vulnerability to the ecosystem right above the decentralized blockchains.   
+### Why Does it Matter?
+- Sybil resistance is the fight against fake accounts.  If we collectively do not resist Sybil attacks, one of the real bright spots of web3 - the collective funding of public goods - could be captured by criminal forces.  
+- Decentralized Data Infrastructure & Applications are essential for combating the recentralization of data.  If we continue to take short cuts when accessing and analyzing blockchain data, we are adding vulnerability to the ecosystem right above the decentralized blockchains.   
 
 ### More info
 
