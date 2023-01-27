@@ -30,6 +30,36 @@ For a fancy version, you can see the docs from TrustaLabs.  They just launched a
 More importantly,Program managers want to know how is my round doing and Is it getting attacked!
 Here are some of the lego ideas.. [https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185](https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185)
 
+## zkSync, bulk transactions and how it works
+
+[https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites](https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites)zkSync is a layer2 solution for transferring Ether and ERC20 tokens. The L2 protocol positions itself as a scaling and privacy engine for Ethereum. The project is built on zero Knowledge (ZK) rollup architecture with the idea of “unlimited” Ethereum scaling.
+
+Ethereum scaling is dependent on addressing inherent drawbacks of Ethereum - slow transactions and high gas fees due to limited throughput(i.e the amount of transactions that can happen at any given period of time). 
+
+To ensure “unlimited” Ethereum scaling with zkSync, computation is performed off-chain and most data is stored off-chain. As all transactions are proven using what is known as validity proofs on the Ethereum mainchain, and users enjoy the same level of security as in Ethereum. What this allows is to batch many transactions together (i.e bulk transactions) and send them to the L1 (i.e Ethereum). Currently, a batch is guaranteed to be able to successfully process a max of 50 transactions.
+
+There are many layer 2 solutions to solve Ethereum’s congestion problem. One of these solutions are rollups: ZK rollups (ex. zkSync) and Optimistic rollups. The rollup is basically an Ethereum extension designed to increase scalability. The extension rolls up many transactions into one batch and sends them all to Ethereum in one action. In other words, a roll-up block is a summary of changes reflecting all transactions in a single batch.
+
+Collect Transactions > Generate Proofs > Send to L1
+
+## Sybil Attacks
+
+A Sybil attack is a kind of security threat on an online system where one person tries to take over the network by creating multiple accounts, nodes or computers. This can be as simple as one person creating multiple social media accounts, but in the world of cryptocurrencies, a more relevant example is where somebody runs multiple nodes on a blockchain network. 
+
+## What problems can Sybil attacks cause?
+Attackers may be able to out-vote the honest nodes on the network if they create enough fake identities (or Sybil identities). They can then refuse to receive or transmit blocks, effectively blocking other users from a network.
+
+In really large-scale Sybil attacks, where the attackers manage to control the majority of the network computing power or hash rate, they can carry out a 51% attack. In such cases, they may change the ordering of transactions, and prevent transactions from being confirmed. They may even reverse transactions that they made while in control, which can lead to double spending. 
+
+Over the years, computer scientists have dedicated a lot of time and research to figure out how to detect and prevent Sybil attacks, with varying degrees of effectiveness. For now, there’s no guaranteed defense.
+
+A good question to ask is: In what ways can zkSync (ZK Rollups) help reduce Sybil attacks, or help increase the risks of a network having a Sybil attack?
+
+For further reading: 
+* [https://go.gitcoin.co/blog/a-community-based-roadmap-for-sybil-detection-across-web-3](https://go.gitcoin.co/blog/a-community-based-roadmap-for-sybil-detection-across-web-3)
+* [https://www.youtube.com/watch?v=-EKhIBUQjcA](https://www.youtube.com/watch?v=-EKhIBUQjcA)
+* [https://www.youtube.com/watch?v=_VolZn0y-FM](https://www.youtube.com/watch?v=_VolZn0y-FM)
+* [https://vitalik.ca/general/2021/01/05/rollup.html](https://vitalik.ca/general/2021/01/05/rollup.html)
 ## Hackathon FAQ:  How can I use the Ocean Protocol?
 
 Ocean Protocol allows for the decentralized sharing of data and algorithms.  
