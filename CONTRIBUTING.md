@@ -1,75 +1,99 @@
 # Welcome to the ODC contributing guide
-<!-- forked from https://github.com/github/docs/blob/main/CONTRIBUTING.md-->
 
-Thank you for investing your time in contributing to the OpenData Community!  We are using GitHub and git as a part of working in public, together.    
+Thank you for investing your time in contributing to the OpenData Community!  We are excited to build an Open Data Layer for Web3 with you and all of our partners!. 
 
-<!--Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable. -->
+## How we Coordinate
+- We have created working groups that you can get involved in. Please refer to our discord for more info
 
-In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
+- We are using [discord](https://discord.gg/havA38Xa7q) for the community and general coordination.
 
-## New contributor guide
+- We are testing out [Dework](https://app.dework.xyz/opendata-community.) for task management
 
-To get an overview of the project, read the [README](README.md). Here are some resources to help you get started with open source contributions:
+- And we are using [this Github repo](https://github.com/OpenDataforWeb3/Resources) for contributions and building in public.
 
-- [HackMD - many of our contributors use HackMD to push content to the ODC github] (https://hackmd.io/features)
-- [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
-- [GitHub Desktop - GUI git manager](https://desktop.github.com)
-- [Visual Studio Code - IDE for editing files](https://code.visualstudio.com)
-- [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
-- For more information on markdown files, see [the GitHub Markdown reference](https://github.com/github/docs/blob/main/contributing/content-markup-reference.md).
+- You can find our calendar of meetings and events [here](https://calendar.google.com/calendar/u/0/embed?src=698a35b1c1a24bdae78f30cbe3fc081c5fbb681c748a45df61040c6e6f26c932@group.calendar.google.com&ctz=America/Los_Angeles)
+<br />
+
+# Contribute With Ease
+
+Here is the flow if you are **NOT** a member of the ODC Organization on Github
+
+- Sign in to your [Github Account](https://github.com/)
+- Go to the [ODC Resources Repo](https://github.com/OpenDataforWeb3/Resources)
 
 
-## Getting started
+## Solving Issues
 
-To contribute to the ODC repository, you must be a member of the ODC discord and in good standing. ODC discord members in good standing can be ODC github organization members. This means you will have write access to repositories in the ODC organization. Just ask in the ODC general channel and we will add you as an ODC github organization member.
+1. The easiest way to start contributing is to check out our [Github Issues](https://github.com/OpenDataforWeb3/Resources/issues)
 
-Find below the types of contributions we encourage.
+2. Scan through them to find one that suits you. 
 
-## Create a new issue
+3. Click on the file requiring editing or Create a new file if the task requires it. 
 
-If you want to make a change, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/opendataforweb3/landscape/issues/new/choose). 
+4. You can edit existing files by pressing on the crayon icon on the right side of the page
+<img width="903" alt="edit-file" src="https://user-images.githubusercontent.com/117952992/214411761-66315743-9060-4954-84a0-186ff24b65e8.png">
 
-## Solve an issue
+5. When you are done working on the file, click PROPOSE CHANGE at the bottom of the file. This will automatically create a new fork and branch. We suggest using a branch name similar to `<user>-<patch><#>`, e.g. sarob-patch12.
+<img width="903" alt="commit-file" src="https://user-images.githubusercontent.com/117952992/214411923-898c5958-68ba-4046-b9a8-e392ae9a7c42.png">
 
-Scan through our [existing issues](https://github.com/github/docs/issues) to find one that interests you. You can narrow down the search using `labels` as filters. If you find an issue to work on, assign the issue to yourself, and open a PR with a fix.
+6. You will then need to create a Pull Request (follow the prompt)
+<img width="903" alt="create-pr" src="https://user-images.githubusercontent.com/117952992/214412070-016c0f8e-3150-4cb0-93d8-afb34a67c2f5.png">
 
-## Make changes in the wiki
+7. Save the PR. If there is a open issue associated with your PR, add the issue # into either the summary or description field as `#<number>`, e.g. the issue number is 32, so add `#32`.  
+<img width="903" alt="save-pr" src="https://user-images.githubusercontent.com/117952992/214414064-bf0b9224-3791-4194-a5f9-3ac97a0a28e4.png">
 
-By default, the wiki allows any github user to read and write. We suggest using the wiki for research you want to share with other members. 
+8. Make sure to keep the checkmark that says "allow edits by maintainers" checked (this allows us to edit your proposed change)
 
-## Make changes in the repository online
-Find a file that you want to edit and make changes through the github ODC repository web interface. Follow the branch, commit, and pull request recommendations below. 
+9. PR's need to be reviewed by at least 1 other member of the ODC before merging. 
 
-## OR Make changes in the repository locally
+10. You can post the link to your PR request in our discord for review
 
-1. Clone the repository. `NOTE:` If you don't want  to join the discord and be a ODC github organization member, you can still propose changes by forking the repository, making a change on the fork, and submitting the change through a PR.  
-- Using GitHub Desktop:
-  - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) will guide you through setting up Github Desktop.
-  - Once Desktop is set up, you can use it to [clone the repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
+11. Once you submit your PR, a ODC member will review your work. We may ask questions, comment, edit
 
-- OR Using the command line:
-  - [Clone the repo](https://www.git-scm.com/docs/git-clone) so that you can make your changes without affecting the original project until you're ready to merge them.
+12. Once your PR is merged, your contributions will be publicly visible in the repository.  
 
-2. Create a working branch and start with your changes. We suggest using a branch name similar to `<user>-<patch><#>`, e.g. sarob-patch01.
-3. Make your changes.
-   - [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) will guide you through setting up VSC.
+**Congratulations & Thank You! You have contributed to the ODC Community**
+<br />
+<br />
 
-## Then commit your update
+> If you **ARE** a member of the ODC Organization on Github and using this method
 
-- Commit and push the changes once you are happy with them using an informative message. An issue is optional for a PR, but recommended.  The description field is also optional. If there is an issue, always  add the issue # into either the summary or description field as `#<number>`, e.g. the issue number is 32, so add `#32`.  
-- We use repository branch protection rules that require ODC repositories only allow Pull Requests (PR), so Github Desktop will prompt you to create a PR.
+  - The only difference is when you create your PR, you can assign a reviewer directly and do not need to post the PR link in discord to attract the attention of a reviewer
+<br />
 
-## Pull Request
+# Alternative Method: Contributing to our GitHub repository via a cloned repository
 
-- Don't forget to [link the PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/) if one is available.
-Once you submit your PR, a ODC member will review your work. We may ask questions or request additional information.
-- `NOTE:` We want work in progress to be updated on the remote (origin) repository at least once day. That way we know you are still working on the changes. Just in case you go offline for awhile, someone else can pick up where you left off. If you are still working on your change, but are not ready for a review, add a comment to the PR saying something like `I am still working on this, but I am sharing as I am going offline for the day`.
-- When you are ready for a review, we may ask for changes to be made before a PR can be merged using pull request comments. You can apply suggested changes directly through the UI or locally. Remember to push your local changes again!
-- If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
+Alternatively if like to work offline using your local laptop, follow the steps below.
 
-## Your PR is merged!
+Firstly you can become a member of the ODC GitHub organization. Simply join the ODC discord ask in the general channel to be added. ODC discord members in good standing can be ODC github organization members. This means you will have write access to repositories in the ODC organization. 
 
-Congratulations! 
+- If you are new to github, we suggest using [Visual Studio Code](https://code.visualstudio.com), an IDE for editing file. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) will guide you through setting up VSC. 
 
-- Once your PR is merged, your contributions will be publicly visible in the repository.  
-- If you are updating web content, your commit will cause the published website to be updated. You can check the publishing progress through the repository [Actions](https://github.com/OpenDataforWeb3/Landscape/actions). 
+- If you are a seasoned github user, feel free to use the applications you are comfortable with and follow the guidelines below.
+
+## Creating Pull Requests and Standard Operating Procedures
+
+1. The first step is to clone [ODC Resources](https://github.com/OpenDataforWeb3/Resources)
+
+2. For new github users, we suggest following the promps in Visual code, for seasoned users you can use whatever you like. 
+
+3. Find the file you want to make changes to or create a new file if that is what the task requires.
+
+4. Create a new branch to work on. We suggest using a branch name similar to `<user>-<patch><#>`, e.g. sarob-patch01.
+
+5. Create a fix and when it is ready submit a PR to the original Repo
+
+6. PR's need to be reviewed by at least 1 other member of the ODC before merging. Please assign a reviewer in your PR and label it accordingly.
+
+7. The description field in the PR is optional. 
+
+8. If there is an issue associated with your PR, add the issue # into either the summary or description field as `#<number>`, e.g. the issue number is 32, so add `#32`.  
+
+9. Once you submit your PR, a ODC member will review your work. We may ask questions or request additional information.
+
+10. Once your PR is merged, your contributions will be publicly visible in the repository.  
+<br />
+<br />
+
+
+## Thanks for helping us build a capture resistant future for Web3 ❤️

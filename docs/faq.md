@@ -1,3 +1,22 @@
+--
+title: "FAQ"
+description: "Answers to frequently asked questions."
+lead: "Answers to frequently asked questions."
+date: 2022-12-25T21:55:02-03:00
+lastmod: 2022-12-25T21:55:02-03:00
+draft: false
+weight: 50
+images: ["avatar.jpg"]
+categories: []
+tags: []
+contributors: [""]
+menu:
+  docs:
+    parent: "FAQ"
+weight: 610
+toc: true
+--
+
 ## What is a Hackathon?
 
 In general a Hackathon is a social coding event that brings together computer programmers like software developers, analysts,  designers and user interface specialists along with industry process experts and professionals to identify issues and create software solutions within a specific period of time.
@@ -30,6 +49,7 @@ For a fancy version, you can see the docs from TrustaLabs.  They just launched a
 More importantly,Program managers want to know how is my round doing and Is it getting attacked!
 Here are some of the lego ideas.. [https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185](https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185)
 
+<<<<<<< HEAD
 ## zkSync, bulk transactions and how it works
 
 [https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites](https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites)zkSync is a layer2 solution for transferring Ether and ERC20 tokens. The L2 protocol positions itself as a scaling and privacy engine for Ethereum. The project is built on zero Knowledge (ZK) rollup architecture with the idea of “unlimited” Ethereum scaling.
@@ -61,6 +81,9 @@ For further reading:
 * [https://www.youtube.com/watch?v=_VolZn0y-FM](https://www.youtube.com/watch?v=_VolZn0y-FM)
 * [https://vitalik.ca/general/2021/01/05/rollup.html](https://vitalik.ca/general/2021/01/05/rollup.html)
 ## Hackathon FAQ:  How can I use the Ocean Protocol?
+=======
+## How can I use the Ocean Protocol?
+>>>>>>> 94e390d6fc37e7eb9f05283c7425c24ecf97bff8
 
 Ocean Protocol allows for the decentralized sharing of data and algorithms.  
 
@@ -94,7 +117,6 @@ Users will also have access to Pocket's robust RPC API, with connections availab
 
 Pocket team members will be on-hand in the OpenData Community Hackathon Discord channel throughout the event to answer any questions you might have. 
 
-
 ## Hackathon FAQ:  How can I use TrueBlocks?
 
 On-chain data is the foundation of crypto, the ultimate source of truth. However, on-chain data is difficult to work with natively, without any transformations, in part because it is not indexed based on account. As a result in the past many data analysts would rely on centralized sources of information, such as Etherscan or various commercial solutions, because of their ease of use. However, these solutions are typically not open source or decentralized and are out of the control of the data analyst, introducing the risk of lock-in or capture and limiting the opportunities for customization and control.  
@@ -109,7 +131,6 @@ To get started, participants can Docker run a local copy of the index.
 TrueBlocks engineers will be available on the DataBuilder Hackathon OpenData Community Discord.
 
 TrueBlocks documentation which explains much more about how to build and contribute to the shared “unchained” index as well as how to use TrueBlocks and the index for data analysis is available here: [https://trueblocks.io/docs/]( https://trueblocks.io/docs/)
-
 
 ##  What is a Sybil Attack and why we should fight it?
 
@@ -131,7 +152,6 @@ Check this 60 sec video by Gitcoin to better understand and come back here:
 Nice, now that you understood, is easy to get why fraudsters create multiple accounts. The idea is simple, make really small contributions to their own project from different accounts in an attempt to maximize ROI, as the quadratic funding algorithm prioritizes distribution of matching funds pool to projects that received donations from the biggest number of community members.
 
 Similarly, the quadratic mechanism can also be applied to voting (quadratic voting) where each voter votes with some tokens, then fraudsters are incentivized to vote for a proposal from many addresses rather than a single address.
-
 
 ## What is the price of forgery? 
 
