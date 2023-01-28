@@ -38,6 +38,9 @@ We have tied together all our datasets uploads here: [https://market.oceanprotoc
 
 You can work with existing ones! To get started, you might want to go with mock ones of course.
 
+## Can I submit a no-code solution, such as an entire static MVP like a really good design?
+
+Yes, absolutely. It just have to be really good!
 ## Where can I find an example dashboard screen that I may find useful in developing legos for the OpenData Community Hackathon?
 
 [../sybil-image.png](../sybil-image.png)
@@ -48,6 +51,10 @@ For a fancy version, you can see the docs from TrustaLabs.  They just launched a
 
 More importantly,Program managers want to know how is my round doing and Is it getting attacked!
 Here are some of the lego ideas.. [https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185](https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185)
+
+## Need some lego documentation for sybil defense?
+
+Check out this really good Gitcoin Sybil lego documentation.
 
 <<<<<<< HEAD
 ## zkSync, bulk transactions and how it works
