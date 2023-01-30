@@ -40,7 +40,7 @@ You can work with existing ones! To get started, you might want to go with mock 
 
 ## Can I submit a no-code solution, such as an entire static MVP like a really good design?
 
-Yes, absolutely. It just have to be really good!
+Yes, absolutely. It just has to be really good!
 ## Where can I find an example dashboard screen that I may find useful in developing legos for the OpenData Community Hackathon?
 
 [../sybil-image.png](../sybil-image.png)
