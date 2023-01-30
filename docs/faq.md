@@ -49,7 +49,6 @@ For a fancy version, you can see the docs from TrustaLabs.  They just launched a
 More importantly,Program managers want to know how is my round doing and Is it getting attacked!
 Here are some of the lego ideas.. [https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185](https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185)
 
-<<<<<<< HEAD
 ## zkSync, bulk transactions and how it works
 
 [https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites](https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites)zkSync is a layer2 solution for transferring Ether and ERC20 tokens. The L2 protocol positions itself as a scaling and privacy engine for Ethereum. The project is built on zero Knowledge (ZK) rollup architecture with the idea of “unlimited” Ethereum scaling.
