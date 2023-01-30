@@ -11,6 +11,11 @@ The combination of stamps in a wallet can be used to create a trust score which 
 - [Link](https://github.com/gitcoinco/passport-scorer)
 
 
+### Algorithmic Detection Lego
+- Created by TrustaLabs in the last hackathon. Sybils are detected on how the user's spread fund in bulk (Bulk Transfers) and in what pattern they make donation to the same grant(Bulk Donations).
+- [Github Repo](https://github.com/TrustaLabs/slaysybil)
+
+
 ### Sybil-Scoring 
 ##### Shared IP:
 - A user's IP address is checked to see if it is used by multiple users. Such IP with a lot of addresses could be marked as a sybil attacker.
