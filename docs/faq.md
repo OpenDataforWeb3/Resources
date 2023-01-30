@@ -168,3 +168,9 @@ In ep 36 of Green Pill podcast, Kevin Owocki and Petr Porobov, founder of Upala,
 * [BlockScience Blog](https://medium.com/block-science)- Articles with analyses of passed Gitcoin Grants Rounds and other complex system analyses.   
 * [Prof. Brain Ford Papers](https://bford.info/pub/) - Prof Brian Ford has studies on decentralized systems, identity and blockchain. Special highlight to: 
  _Identity and Personhood in Digital Democracy: Evaluating Inclusion, Equality, Security, and Privacy in Pseudonym Parties and Other Proofs of Personhood_ 
+
+## What's LEGO and how can it help control sybil Attacks?
+
+The term "Lego" refers to discrete, modular units of code that carry out a specific task and can be assembled to make new things. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular, have open governance, take well defined inputs, and provide certain known outputs in order to be composable. ERC-20/721 token standards and Ethereum smart contracts are two examples of assembleable Legos. By giving the community the resources for innovative new solutions, the objective is to introduce freedom and agency to the funding of public goods. The gitcoin passport is one example of aUp Lego.
+
+An anti-Sybil tool called the Gitcoin Passport uses stamps to act as a means of identification. For the retroactive squelching of Sybils, a trained machine learning pipeline is employed, but it is centralized and operated by a small group of specialists. By creating a standardized framework for modeling and model auditing, users will be able to train their own models, turning this into a set of assembleable Sybil defensive legos. To counter Sybil assaults, additional tools can be created, such as rules for resolving conflicts and governance legos. The decision to use Gitcoin models or train one's own models rests with the user.
