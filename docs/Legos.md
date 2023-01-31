@@ -95,12 +95,16 @@ When this lego is combined with several other Legos, a more robust and comprehen
 
 - Grant Lego: *This can be utilized with other indicators that could determine duplicate grant creation more. Could be used as a proof to indicate high risk money-mixing activity.*
 
+**Slaysybil**
+- [Github](https://github.com/TrustaLabs/slaysybil)
+
+- How it works: *Tracking bulk transfers and donations to detect sybils with observing sequential behaviour pattern and asset-transfer graph. Built by TrustaLabs*
 
 **Resources**
 
 - [Public goods legos roadmap](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546)
 - [Legos for Prioritization](https://docs.google.com/spreadsheets/d/1FIYR7wtFEGfZTjMNXDMbkRDyfdtgkWJvbvsLpAD5eSE/edit#gid=354684328)
-- [Open Data COmmunity Discord](https://discord.gg/Ye3QrWf6fG)
+- [Open Data Community Discord](https://discord.gg/Ye3QrWf6fG)
 - [Gitcoin Governace Forum](https://discord.gg/gitcoin)
 
 
