@@ -2,7 +2,7 @@
 
 ## Communicate results and next steps 
 
-[draft of the results and what's next](https://discord.com/channels/1037443230993743902/1038206685224902658/1070109611711021116)
+[draft of the results and what's next](https://docs.google.com/document/d/11N5Y3sPvhJ0Hy_w0sjdlbH1wcv8E5c9hl6r8fvsY9ck/edit?usp=sharing)
 
 ## Publish hackathon materials permanently
 
