@@ -83,9 +83,21 @@ For further reading:
 * [https://www.youtube.com/watch?v=_VolZn0y-FM](https://www.youtube.com/watch?v=_VolZn0y-FM)
 * [https://vitalik.ca/general/2021/01/05/rollup.html](https://vitalik.ca/general/2021/01/05/rollup.html)
 
+## How Ocean Protocol resist Sybil attacks ?
+
+Ocean Protocol is a decentralized data exchange platform designed to provide secure and transparent access to data. It fights against Sybil attacks by using blockchain technology and cryptographic mechanisms to ensure the authenticity of participants on the network. Here are some ways in which Ocean Protocol resists Sybil attacks:
+(i) Decentralization: By using a decentralized network, Ocean Protocol reduces the risk of a single point of failure and makes it more difficult for a malicious actor to control the network.
+(ii) Token Economics: Ocean Protocol uses a token-based economy to incentivize good behavior on the network. This makes it more difficult for a malicious actor to control the network, as they would need to own a significant amount of tokens to do so.
+(iii) Identity Management: Ocean Protocol uses decentralized identity management systems to ensure that participants are who they say they are. This makes it more difficult for a malicious actor to create multiple identities and conduct a Sybil attack.
+(iv) Consensus Mechanisms: Ocean Protocol uses consensus mechanisms, such as proof-of-stake, to validate transactions on the network. This helps to prevent malicious actors from conducting Sybil attacks by controlling a large number of nodes.
+By using these mechanisms, Ocean Protocol aims to provide a secure and transparent platform for data exchange, and to resist Sybil attacks.
+
+## What is Ocean Protocol ?
+Ocean Protocol is an open-source decentralized platform for data sharing that enables secure and private exchange of data assets. It is built on blockchain technology and aims to provide a secure and transparent marketplace for data assets.
+
 ## How can I use the Ocean Protocol?
 
-Ocean Protocol allows for the decentralized sharing of data and algorithms.  
+Ocean Protocol allows for the decentralized sharing of data and algorithms at large scale. 
 
 **DataBuilder Hackathon participants are strongly encouraged to use the Ocean Protocol.**  It is free, other than minor gas fees, and preferred by the judges as an easy way to show your commitment to resisting centralization as the data layer. 
 
@@ -101,11 +113,35 @@ And the Ocean Protocol has extensive documentation here:
 
 NOTE: If you have any issues getting your data from ocean (maybe your download won't start), do try to download again, if it persist, we recommend using the Firefox browser and to be a bit more patient as it may take sometime.
 
-## How to contribute to the hackathon
+## How does Ocean Protocol work?
+
+   Ocean Protocol operates on a decentralized network, where data providers can securely and privately share their data assets with data consumers. It uses blockchain technology to ensure secure and transparent transactions, and smart contracts to enforce rules and regulations for data sharing.
+
+##  What are the benefits of using Ocean Protocol?
+
+    (i) Security and privacy of data assets
+    (ii) Transparent and secure transactions
+    (iii) Ability to monetize data assets
+    (iv) Access to a large and diverse pool of data assets
+
+## Who can use Ocean Protocol?
+
+    Ocean Protocol is designed for data providers, data consumers, and developers. Data providers can monetize their data assets by selling them on the platform, while data consumers can access a large and diverse pool of data assets. Developers can build applications and services on top of the platform.
+
+##  How do I get started with Ocean Protocol?
+
+    To get started with Ocean Protocol, you can sign up [https://oceanprotocol.com/] on the platform and create an account. You can then start buying and selling data assets, or building applications and services on top of the platform. 
+
+
+##  How is Ocean Protocol different from other data sharing platforms?
+
+    Ocean Protocol is different from other data sharing platforms because it is decentralized, secure, and transparent. It uses blockchain technology to ensure secure transactions, and smart contracts to enforce rules and regulations for data sharing. Additionally, it allows data providers to monetize their data assets, making it a more sustainable ecosystem for data sharing.
+
+## How to contribute to the hackathon ?
 
 The ODC team has detailed how best to contribute to the hackthon here : [https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md](https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md)
 
-## Hackathon FAQ:  How can I use Pocket Network?
+## Hackathon FAQ:  How can I use Pocket Network ?
 
 Pocket Network is an open-source decentralized RPC network with a contributor-friendly ecosystem governed by a high-performance DAO. It allows Web3 developers to remove the most important layer of centralization in their projects: connection to the blockchain. Instead of using a centralized service, Pocket's decentralized network of tens of thousands of nodes is run by the community.  DataBuilder Hackathon participants can use the Pocket Network to access blockchain data free from the centralization of many providers of blockchain nodes and data.  
 
@@ -131,6 +167,17 @@ To get started, participants can Docker run a local copy of the index.
 TrueBlocks engineers will be available on the DataBuilder Hackathon OpenData Community Discord.
 
 TrueBlocks documentation which explains much more about how to build and contribute to the shared “unchained” index as well as how to use TrueBlocks and the index for data analysis is available here: [https://trueblocks.io/docs/]( https://trueblocks.io/docs/)
+
+##  Who can use Trueblock with Gitcoin?
+
+Anyone who is involved in the Gitcoin grants process can use Trueblock to provide transparency and accountability in their projects. This includes grantees, grant makers, and anyone else who is interested in tracking the progress of Gitcoin grants.
+
+## What are the benefits of using Trueblock with Gitcoin?
+
+By using Trueblock with Gitcoin, grantees can increase transparency and accountability in their projects, and Gitcoin can ensure that funds are being used effectively. Some of the key benefits include:
+(i) Increased transparency: Trueblock allows grantees to report on their progress and for Gitcoin to verify that progress, providing a more transparent view of how funds are being used.
+(ii) Improved accountability: Trueblock helps to ensure that grantees are using funds as intended and making progress on their projects, which helps to improve accountability in the grants process.
+(iii) Better project management: By using Trueblock, grantees can more effectively track their progress and make adjustments as needed, improving the overall management of their projects.
 
 ##  What is a Sybil Attack and why we should fight it?
 
@@ -174,3 +221,38 @@ In ep 36 of Green Pill podcast, Kevin Owocki and Petr Porobov, founder of Upala,
 The term "Lego" refers to discrete, modular units of code that carry out a specific task and can be assembled to make new things. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular, have open governance, take well defined inputs, and provide certain known outputs in order to be composable. ERC-20/721 token standards and Ethereum smart contracts are two examples of assembleable Legos. By giving the community the resources for innovative new solutions, the objective is to introduce freedom and agency to the funding of public goods. The gitcoin passport is one example of aUp Lego.
 
 An anti-Sybil tool called the Gitcoin Passport uses stamps to act as a means of identification. For the retroactive squelching of Sybils, a trained machine learning pipeline is employed, but it is centralized and operated by a small group of specialists. By creating a standardized framework for modeling and model auditing, users will be able to train their own models, turning this into a set of assembleable Sybil defensive legos. To counter Sybil assaults, additional tools can be created, such as rules for resolving conflicts and governance legos. The decision to use Gitcoin models or train one's own models rests with the user.
+
+##  How do LEGO bricks work in Gitcoin Grants?
+
+In Gitcoin Grants, individual contributions are aggregated to support open source projects and initiatives. Contributors can make small donations, or "LEGO bricks," which are combined to provide funding for the project. This allows for a large number of individuals to collectively support the project, even if they cannot make a large individual contribution.
+
+## What  are the benefits of using LEGO bricks in Gitcoin Grants?
+
+Using LEGO bricks in Gitcoin Grants provides several benefits, including:
+Increased accessibility: Small contributions make it easier for individuals to support open source projects, even if they cannot make a large individual donation.
+Increased engagement: By allowing individuals to contribute small amounts, Gitcoin Grants encourages more engagement and participation from a wider range of contributors.
+Increased funding: The aggregation of small contributions can result in significant funding for projects and initiatives, which can help drive open source development.
+
+## Who can contribute LEGO bricks in Gitcoin Grants?
+
+Anyone can contribute LEGO bricks to Gitcoin Grants. The platform is open to anyone who wants to support open source projects and initiatives, regardless of their location or financial resources.
+
+## How can I contribute LEGO bricks to a Gitcoin Grant?
+
+To contribute LEGO bricks to a Gitcoin Grant, you simply need to make a donation through the Gitcoin platform. You can choose the amount you want to donate and your contribution will be combined with others to support the project or initiative.
+
+## What is OpenData Community (ODC) ?
+The OpenData Community (ODC) is a new initiative originally founded by Gitcoin. Through activities like hackathons, knowledge curation, and others, we hope to create, capture and distribute value to those building decenlatrized solutions for an Open Data Layer for web3 and to promote decentralization of web3. 
+
+## How can I help ODC ?
+
+Anyone can help ODC reach its objectives through participating in the active projects at Github. (1) Bootstrapping the ODC Community. (2) Data-Builder Hackthon ending January 31st. (3) The Landscape a useful curation of decentralized data solutions in web3 and (4) Building FAQs and other contributions such as useful curated datasets, website improvements, and design of community voting mechanisms.
+For more information join our Discord channel https://discord.com/invite/fmcSubzNwv. 
+
+## What is Landscape relating to ODC ?
+
+The "landscape" in the context of Open Data Community (ODC) refers to the overall view of the different data sets, projects, organizations, and initiatives that exist within the ODC. A landscape analysis provides a comprehensive overview of the different actors, initiatives, and activities that make up the ODC, including the various types of data being collected and shared, the different use cases and applications, and the various challenges and opportunities faced by the ODC.
+The purpose of a landscape analysis is to help organizations and individuals better understand the ODC and how they can contribute to or benefit from it. By providing a comprehensive view of the ODC, a landscape analysis can help organizations identify new opportunities, identify gaps in the data, and develop new initiatives and collaborations that can help advance the ODC.
+
+
+
