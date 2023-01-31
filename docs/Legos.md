@@ -10,6 +10,42 @@ Below is a list curated to highlight some of the Legos useful to the ODC Landsca
 
 legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making [more](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) on Legos**
 
+### Gitcoin Passport
+- [Website](https://go.gitcoin.co/passport)
+- [Github](https://github.com/gitcoinco/passport)
+
+- How It Works: *When a user connects a passport, a trust score can be calculated for them which is used as evidence of personhood - the greater the score the more likely they are to be a genuine user.*
+
+
+**Shared IP:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_visitsIP.R)
+
+- How It Works: *User IP addresses can also be checked to see if they are shared with many other users. Lots of addresses originating from the same IP could be a marker for Sybil attackers.*
+
+**SAD Model:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_SAD.R)
+
+- How It Works: *The user also has a Gitcoin account whose history can be analyzed using the SAD model to give another Sybil-likelihood score.*
+
+**DonorDNA:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_DNA.R)
+
+- How It Works: *When a donor connects their wallet their profile of past donations can be analyzed to see whether it is similar to groups of other users, which may be indicatative of Sybil rings.*
+
+**GrantDNA:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_DNA.R)
+
+- How It Works: *Each grant has a set of donors that can be represented as a set of binary data. This can be used to compare grants against flagged grants to see if they have similar donor profiles.*
+
+**Onchain Intersectionality:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_intersectionality.R)
+
+- How It Works: *It checks "How many out of a set of on-chain credentials does a user have?"*
+
+**Levenstein distance:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_levenshtein.R)
+
+- How It Works: *Every user has a username - when they sign up to Gitcoin grants the similarity of their name can be compared against all other usernames to generate a likelihood of the username being auto-generated - evidence of a Sybil account. This Lego will be deprecated in the grants protocol because usernames will no longer be available - only Ethereum addresses, wallet IDs and grant/round nonce.*
 
 **On-Chain History:**
 
