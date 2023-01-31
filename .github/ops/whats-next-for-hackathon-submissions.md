@@ -1,5 +1,9 @@
 # what next for hackathon submissions
 
+## Communicate results and next steps 
+
+[draft of the results and what's next](https://discord.com/channels/1037443230993743902/1038206685224902658/1070109611711021116)
+
 ## Publish hackathon materials permanently
 
 Using these bounties and the resulting work as the sources
