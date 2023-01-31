@@ -2,7 +2,7 @@
 
 Legos are composable building blocks that performs specific function and analysis by taking in inputs and returning outputs which can be used to protect public goods funding from Sybil's attack.
 
-Several Lego’s are already built and are being used to manage Sybils. These includes:
+Several Lego’s are already built and are being used to manage Sybils in the [Gitcoin protocol](). These includes:
 
 ### Passport Scoring 
 [Gitcoin passport](https://passport.gitcoin.co/):
@@ -16,27 +16,25 @@ The combination of stamps in a wallet can be used to create a trust score which 
 - [Github Repo](https://github.com/TrustaLabs/slaysybil)
 
 
-### Sybil-Scoring 
+### [Sybil-Scoring] 
 ##### Shared IP:
 - A user's IP address is checked to see if it is used by multiple users. Such IP with a lot of addresses could be marked as a sybil attacker.
-- [Link]()
+
 
 ##### SAD Model:
 - A user's gitcoin history can be analysed using a SAD model to give sybil likelihood scores.
-- [Link]()
 
 ##### DonorDNA:
 - A donor's past donations can be analysed when their wallet is connected to see whether it is similar to groups of other users, which may be indicative of Sybil rings.
-- [Link]()
 
 ##### GrantDNA: 
 - Each grant has a set of donors that can be represented as a set of binary data. This can be used to compare grants against flagged grants to see if they have similar donor profiles.
-- [Link]()
+
 
 ##### Onchain Intersectionality: 
 - Checks how many out of a set of on-chain credentials a user has.
-- [Link]()
 
+ [Githup repo to sybil scoring LEGOs developed by the FDD](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs)
 
 ### Other Legos that could exist:
 
