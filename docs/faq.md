@@ -1,4 +1,4 @@
---
+---
 title: "FAQ"
 description: "Answers to frequently asked questions."
 lead: "Answers to frequently asked questions."
@@ -15,7 +15,7 @@ menu:
     parent: "FAQ"
 weight: 610
 toc: true
---
+---
 
 ## What is a Hackathon?
 
@@ -52,11 +52,6 @@ For a fancy version, you can see the docs from TrustaLabs.  They just launched a
 More importantly,Program managers want to know how is my round doing and Is it getting attacked!
 Here are some of the lego ideas.. [https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185](https://docs.google.com/spreadsheets/d/1sMgm3cg3pfMvRbmrteknpu44qsyuQlvn3vizgwnOgOU/edit#gid=2020378185)
 
-## Need some lego documentation for sybil defense?
-
-Check out this really good Gitcoin Sybil lego documentation.
-
-<<<<<<< HEAD
 ## zkSync, bulk transactions and how it works
 
 [https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites](https://v2-docs.zksync.io/dev/fundamentals/zkSync.html#prerequisites)zkSync is a layer2 solution for transferring Ether and ERC20 tokens. The L2 protocol positions itself as a scaling and privacy engine for Ethereum. The project is built on zero Knowledge (ZK) rollup architecture with the idea of “unlimited” Ethereum scaling.
@@ -87,10 +82,8 @@ For further reading:
 * [https://www.youtube.com/watch?v=-EKhIBUQjcA](https://www.youtube.com/watch?v=-EKhIBUQjcA)
 * [https://www.youtube.com/watch?v=_VolZn0y-FM](https://www.youtube.com/watch?v=_VolZn0y-FM)
 * [https://vitalik.ca/general/2021/01/05/rollup.html](https://vitalik.ca/general/2021/01/05/rollup.html)
-## Hackathon FAQ:  How can I use the Ocean Protocol?
-=======
+
 ## How can I use the Ocean Protocol?
->>>>>>> 94e390d6fc37e7eb9f05283c7425c24ecf97bff8
 
 Ocean Protocol allows for the decentralized sharing of data and algorithms.  
 
@@ -175,3 +168,9 @@ In ep 36 of Green Pill podcast, Kevin Owocki and Petr Porobov, founder of Upala,
 * [BlockScience Blog](https://medium.com/block-science)- Articles with analyses of passed Gitcoin Grants Rounds and other complex system analyses.   
 * [Prof. Brain Ford Papers](https://bford.info/pub/) - Prof Brian Ford has studies on decentralized systems, identity and blockchain. Special highlight to: 
  _Identity and Personhood in Digital Democracy: Evaluating Inclusion, Equality, Security, and Privacy in Pseudonym Parties and Other Proofs of Personhood_ 
+
+## What's LEGO and how can it help control sybil Attacks?
+
+The term "Lego" refers to discrete, modular units of code that carry out a specific task and can be assembled to make new things. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular, have open governance, take well defined inputs, and provide certain known outputs in order to be composable. ERC-20/721 token standards and Ethereum smart contracts are two examples of assembleable Legos. By giving the community the resources for innovative new solutions, the objective is to introduce freedom and agency to the funding of public goods. The gitcoin passport is one example of aUp Lego.
+
+An anti-Sybil tool called the Gitcoin Passport uses stamps to act as a means of identification. For the retroactive squelching of Sybils, a trained machine learning pipeline is employed, but it is centralized and operated by a small group of specialists. By creating a standardized framework for modeling and model auditing, users will be able to train their own models, turning this into a set of assembleable Sybil defensive legos. To counter Sybil assaults, additional tools can be created, such as rules for resolving conflicts and governance legos. The decision to use Gitcoin models or train one's own models rests with the user.
