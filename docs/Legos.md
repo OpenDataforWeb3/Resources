@@ -100,6 +100,39 @@ When this lego is combined with several other Legos, a more robust and comprehen
 
 - How it works: *Tracking bulk transfers and donations to detect sybils with observing sequential behaviour pattern and asset-transfer graph. Built by TrustaLabs*
 
+### Other Anti-sybil Technology
+
+**Upala**
+- [Website](https://upalahq.notion.site/upalahq/Upala-dashboard-a46d88209ecb4a4cabf1560acc8673a2)
+- [Github](https://github.com/upala-digital-identity/upala)
+- Summary: *Upala is a decentralized digital identity. The protocol generates human uniqueness score for users. The score is measured in dollars. Each account score is determined by market. Incentives ensure that the score equals the costs of forging the account. The score directly reflects how valuable that identity is to the user and creates an entirely new way to measure reputability in the virtual and real world.*
+
+**POAP - Proof of Attendance Protocol**
+- [Website](https://poap.xyz/)
+- [Github](https://github.com/poap-xyz/)
+- Summary - The Proof of Attendance Protocol turns events or hackathons into collectibles. Using blockchain technology, POAP tokenizes your proof of participation, so they can be used as DIDs (decentralized Identifiers).
+
+**UBI - Universal Basic Income**
+- [Website](https://ubi.eth.limo/)
+- [Github](https://github.com/DemocracyEarth/ubi)
+- Summary: Universal basic income (UBI) aims to address economic inequality and provide security through streamed cash to every human on Earth. It is built on top of Ethereum and the Proof of Humanity protocol. Every human that gets verified by submitting a video of themseleves.
+
+**Proof Of Humanity**
+- [Website](https://proofofhumanity.id/)
+- [Github](https://github.com/Proof-Of-Humanity)
+- Summary: Humans who wish to be included in the registry submit information about themselves serving for verification. Then you can vouch for others and challenge suspicious users just like Kleros.
+
+**Idena - Proof-of-Person blockchain**
+- [Website](https://www.idena.io/)
+- [Github](https://github.com/idena-network)
+- Summary: The Idena blockchain is driven by Proof-of-Person consensus with every node linked to a cryptoidentity, one person with equal voting power. It suggests a novel way to formalize people on the Internet: Idena proves the humanness and uniqueness of its participants without collecting personally identifiable information by running a Turing test at the same time globally.
+
+**BrightID**
+- [Website](https://www.brightid.org/)
+- [Github](https://github.com/BrightID)
+- Summary: BrightID is building an identity lego that allows users to prove to applications that they only exist once in any given system. It's one of the legos used in Gitcoin Passport. You can get 50% bonus matching for all your Gitcoin grants by joining BrightID and connecting it to your Gitcoin Passport.
+
+
 **Resources**
 
 - [Public goods legos roadmap](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546)
