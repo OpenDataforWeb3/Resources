@@ -242,3 +242,16 @@ combined all of the GR15, Fantom, and Unicef grant round contributions data with
 | destination_wallet | grant(project) address |
 | amount_usd | contribution amount calculated from raw amount data |
 | token_symbol | the token contributed |
+
+## [Fantom GR voters historical transactions till 23-01-2023](https://drive.google.com/file/d/1NSzgQzZoH8-0lVXTSEKLuvb-EgJqfjte/view)     
+
+Historical transactions of voters of Fantom GR in Jan/2023. It does not contain the grantee's historical transactions.Here is the schema of only the most common necessary for sybil detection use case, for more details about data schema, please check [Covalent APi documentation.](https://www.covalenthq.com/docs/api/#/0/0/USD/1) , all the data was obtained through it. 
+
+| Field | Description|
+| :---: | :---------:|
+| block_signed_at | transaction time |
+| tx_hash | transaction unique hash |
+| successful | boolean for transaction success |
+| from_address | who sended the transaction |
+| to_address | who received the transaction |
+| value| amount sended |
