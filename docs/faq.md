@@ -171,6 +171,32 @@ In ep 36 of Green Pill podcast, Kevin Owocki and Petr Porobov, founder of Upala,
 
 ## What's LEGO and how can it help control sybil Attacks?
 
-The term "Lego" refers to discrete, modular units of code that carry out a specific task and can be assembled to make new things. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular, have open governance, take well defined inputs, and provide certain known outputs in order to be composable. ERC-20/721 token standards and Ethereum smart contracts are two examples of assembleable Legos. By giving the community the resources for innovative new solutions, the objective is to introduce freedom and agency to the funding of public goods. The gitcoin passport is one example of aUp Lego.
+LEGO is a concept used in the context of software development and refers to small, modular, and reusable pieces of code that can be combined to create new applications. In the case of Gitcoin Passport, Legos are used to identify Sybil attacks, which are attempts to manipulate a system by creating multiple fake identities. Different Legos are used to check various user attributes and behaviors, such as username similarity, shared IP addresses, donor and grant profiles, and on-chain interactions, to determine the likelihood of Sybil behavior. New Legos can be developed based on any analysis that can be shown to indicate Sybil behavior and can be implemented as an algorithm. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular, have open governance, take well defined inputs, and provide certain known outputs in order to be composable. ERC-20/721 token standards and Ethereum smart contracts are two examples of assembleable Legos. By giving the community the resources for innovative new solutions, the objective is to introduce freedom and agency to the funding of public goods. The gitcoin passport is one example of aUp Lego.
 
 An anti-Sybil tool called the Gitcoin Passport uses stamps to act as a means of identification. For the retroactive squelching of Sybils, a trained machine learning pipeline is employed, but it is centralized and operated by a small group of specialists. By creating a standardized framework for modeling and model auditing, users will be able to train their own models, turning this into a set of assembleable Sybil defensive legos. To counter Sybil assaults, additional tools can be created, such as rules for resolving conflicts and governance legos. The decision to use Gitcoin models or train one's own models rests with the user.
+
+## What other LEGO exist and how do they work?
+
+*Levenshtein distance: This method calculates the difference between two strings of text, such as username, to determine their similarity. If a username is too similar to others, it may indicate that the account is auto-generated or a Sybil account.
+
+* Shared IP: This method checks the IP addresses of users to see if they are shared by many other users. If many addresses are originating from the same IP, it could be a marker for a Sybil attacker.
+
+* SAD (Social Attribute DNA) model: This method analyzes the history of a Gitcoin account to give a Sybil-likelihood score. The model takes into account factors such as the frequency and pattern of the user's activities on the platform.
+
+* DonorDNA: This method analyzes the profile of past donations made by a donor to determine if it is similar to other groups of users. If the profile is similar, it may indicate that the donor is part of a Sybil ring.
+
+* GrantDNA: This method represents each grant as a set of binary data, which is then compared to flagged grants to see if they have similar donor profiles. If a grant has a donor profile that is similar to a flagged grant, it may indicate that the grant is being manipulated.
+
+* Onchain Intersectionality: This method checks the number of on-chain credentials a user has, such as Ethereum addresses, wallet IDs, and grant/round nonce. The more credentials a user has, the higher the likelihood that the user is a Sybil attacker
+
+## Possible ideas for a new LEGO
+
+There are many possibilities for more Legos - any analysis that can be shown to be indicative of Sybil behaviour and implementable as an algorithm could be turned into a Lego. Some might be relatively complex analyses of on-chain data, like detecting when a user has rapidly swapped funds back and forth in order to seem more active. Sequences of rapid transactions between wallets, especially when they are ultimately returned to where they started or at least stay within a small group of addresses, could be a Sybil behaviour. Other on-chain indicators might be whether a wallet was initially funded from a contract, as this might be a way for Sybil attackers to automate their donations from many externally-owned accounts.
+
+Other simple Legos could be checks for users that hold certain POAPs or NFTs. Some POAPs and NFTs are easy to farm, others require significant investment of time and/or capital. Below are some highlighted ideas
+
+* Farmer Boolean: (uses on-chain data to determine whether a user has >X ERC-20 tokens and an average transaction value <Y ETH)
+* Onchain History Boolean: (has a user engaged in certain web3 activities in a specific timeframe? Activites and timeframe can be customized by round owner)
+* Money-Mixer: (Does a user interact with mixers e.g. Tornado cash)
+* On-Trend / Off-Trend: (is the donation profile of a user similar to a grant’s target community?)
+* Flagged Activity on Etherscan: (is an address closely associated with addresses flagged as phishing/spam on etherscan?)
