@@ -17,6 +17,12 @@ Using these bounties and the resulting work as the sources
 
 ODC will permanently publish the records of the Jan 2023 Hackathon and the resulting submissions and bounty winners via the [ODCDataforWeb3/Jan2023hackathon repository](https://github.com/OpenDataforWeb3/Jan2023hackathon) 
 
+README in the repository explains the history of the hackathon, an overview of the bounties, and the results. 
+
+Update https://gitcoin.co/hackathon/DataBuilders/? Gitcoin Databuilders Hackathon page with the same content as the README and links back to the ODC Jan2023 Hackathon repository. 
+
+Update the OpenDataCommunity.org hackathon menu to point to the ODC Jan2023 Hackathon repository.
+
 ## Reach out to a few people and sponsors that can help the ODC immediately
 
 Bounty 1-4 contributors are new potential ODC Jedi members that can help build the community. We can find them work at one of the sponsors and ask that they continue to contribute to future hackathons, projects, and ODC administration. 
