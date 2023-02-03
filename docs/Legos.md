@@ -10,13 +10,6 @@ Below is a list curated to highlight some of the Legos useful to the ODC Landsca
 
 legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making [more](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) on Legos**
 
-### Gitcoin Passport
-- [Website](https://go.gitcoin.co/passport)
-- [Github](https://github.com/gitcoinco/passport)
-
-- How It Works: *When a user connects a passport, a trust score can be calculated for them which is used as evidence of personhood - the greater the score the more likely they are to be a genuine user.*
-
-
 **Shared IP:**
 - [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_visitsIP.R)
 
