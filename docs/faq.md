@@ -117,29 +117,6 @@ NOTE: If you have any issues getting your data from ocean (maybe your download w
 
    Ocean Protocol operates on a decentralized network, where data providers can securely and privately share their data assets with data consumers. It uses blockchain technology to ensure secure and transparent transactions, and smart contracts to enforce rules and regulations for data sharing.
 
-##  What are the benefits of using Ocean Protocol?
-
-    (i) Security and privacy of data assets
-    (ii) Transparent and secure transactions
-    (iii) Ability to monetize data assets
-    (iv) Access to a large and diverse pool of data assets
-
-## Who can use Ocean Protocol?
-
-    Ocean Protocol is designed for data providers, data consumers, and developers. Data providers can monetize their data assets by selling them on the platform, while data consumers can access a large and diverse pool of data assets. Developers can build applications and services on top of the platform.
-
-##  How do I get started with Ocean Protocol?
-
-    To get started with Ocean Protocol, you can sign up [https://oceanprotocol.com/] on the platform and create an account. You can then start buying and selling data assets, or building applications and services on top of the platform. 
-
-
-##  How is Ocean Protocol different from other data sharing platforms?
-
-    Ocean Protocol is different from other data sharing platforms because it is decentralized, secure, and transparent. It uses blockchain technology to ensure secure transactions, and smart contracts to enforce rules and regulations for data sharing. Additionally, it allows data providers to monetize their data assets, making it a more sustainable ecosystem for data sharing.
-
-## How to contribute to the hackathon ?
-
-The ODC team has detailed how best to contribute to the hackthon here : [https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md](https://github.com/OpenDataforWeb3/Resources/blob/main/CONTRIBUTING.md)
 
 ## Hackathon FAQ:  How can I use Pocket Network ?
 
