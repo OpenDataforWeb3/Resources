@@ -134,6 +134,17 @@ When this lego is combined with several other Legos, a more robust and comprehen
  
  - How It Works: The "address correlation Lego" is a pattern-identification Lego that is intended to be used against previously known sybil patterns that will be stored in a readable format (currently using a pandas dataframe). Its purpose is to judge the correlation between the activities of an address and those of sybil addresses using the Spearman's rank correlation coefficient.
 
+**Flagged Activity**
+
+- How It Works: _Returns whether address is in close association with addresses flagged as phishing/scam on Etherscan (send or receive event; last 365 days)._
+
+**Script-Call to API**
+
+- How It Works: _Imitate Bankless' use of "bot-label" for any python, curl, etc. direct-access to Passport API_
+
+**On-Trend**
+
+- How It Works: _Determines whether user donation array is within-range for statistical averages of the community_
 
 **Resources**
 
