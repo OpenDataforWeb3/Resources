@@ -83,7 +83,6 @@ When this lego is combined with several other Legos, a more robust and comprehen
 
 **Funding Wallet Is Unique:**
 
-
 - How It Works: *Returns Boolean for uniqueness of funding wallet*
 
 - Grant Lego: *This can be utilized with other indicators that could determine duplicate grant creation more. Could be used as a proof to indicate high risk money-mixing activity.*
@@ -92,6 +91,15 @@ When this lego is combined with several other Legos, a more robust and comprehen
 - [Github](https://github.com/TrustaLabs/slaysybil)
 
 - How it works: *Tracking bulk transfers and donations to detect sybils with observing sequential behaviour pattern and asset-transfer graph. Built by TrustaLabs*
+
+**On-chain Footprint Lego**
+
+- How It Works : The TDD (Transaction Date Mean Difference) metric is utilized by this Lego, and it is computed by subtracting each transaction date from the following one to obtain the difference, then dividing by the total number of transactions (i.e., the mean difference or average difference).
+- This Lego was developed to counter any attempts by a Sybil attacker to get around transaction count-based security measures by carrying out insignificant transactions in a short period of time to increase the number of transactions, avoid detection, and carry out their attack.
+
+**Address Correlation Lego**
+ 
+ - How It Works: The "address correlation Lego" is a pattern-identification Lego that is intended to be used against previously known sybil patterns that will be stored in a readable format (currently using a pandas dataframe). Its purpose is to judge the correlation between the activities of an address and those of sybil addresses using the Spearman's rank correlation coefficient.
 
 ### Other Anti-sybil Technology
 
@@ -124,16 +132,6 @@ When this lego is combined with several other Legos, a more robust and comprehen
 - [Website](https://www.brightid.org/)
 - [Github](https://github.com/BrightID)
 - Summary: BrightID is building an identity lego that allows users to prove to applications that they only exist once in any given system. It's one of the legos used in Gitcoin Passport. You can get 50% bonus matching for all your Gitcoin grants by joining BrightID and connecting it to your Gitcoin Passport.
-=======
-**On-chain Footprint Lego**
-
-- How It Works : The TDD (Transaction Date Mean Difference) metric is utilized by this Lego, and it is computed by subtracting each transaction date from the following one to obtain the difference, then dividing by the total number of transactions (i.e., the mean difference or average difference).
-- This Lego was developed to counter any attempts by a Sybil attacker to get around transaction count-based security measures by carrying out insignificant transactions in a short period of time to increase the number of transactions, avoid detection, and carry out their attack.
-
-**Address Correlation Lego**
- 
- - How It Works: The "address correlation Lego" is a pattern-identification Lego that is intended to be used against previously known sybil patterns that will be stored in a readable format (currently using a pandas dataframe). Its purpose is to judge the correlation between the activities of an address and those of sybil addresses using the Spearman's rank correlation coefficient.
-
 
 **Resources**
 
