@@ -12,6 +12,7 @@ images: []
 
 The categories below are simplistic and imperfect and will improve with input.  Please make suggestions.  
 You can read more about how to suggest & make changes in our **[wiki.](https://github.com/OpenDataforWeb3/Resources/wiki)**
+TL; DR - just go to our Github and edit the file in Resources titled Landscape.md.  Our community will review and merge your pull request.  
 
 **We periodically run bounties & hackathons that reward issues & pull requests; so your improvements may resulted in a reward!**
 
