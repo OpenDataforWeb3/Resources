@@ -3,12 +3,27 @@ title : "Legos"
 description: "List of Legos Useful to the Open Data Community"
 ---
 
+Legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making [more](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) on Legos**
+
+Several Legos are already built and are being used to manage Sybils in the [Gitcoin protocol](). These includes:
+
+ **Passport Scoring**
+[Gitcoin passport](https://passport.gitcoin.co/):
+-How It Works: Gitcoin passport is a tool that enables users prove their identity by collecting stamps which are credentials from web2 such as Facebook, Twitter, and web3 i.e BrightID, ENS. 
+The combination of stamps in a wallet can be used to create a trust score which can be calculated to use as evidence of personhood,the greater the score the more likely a user is trustable or genuine.
+- [Link](https://github.com/gitcoinco/passport-scorer)
+
+
+**Algorithmic Detection Lego**
+- How It Works: Sybils are detected on how the user's spread fund in bulk (Bulk Transfers) and in what pattern they make donation to the same grant(Bulk Donations).
+- Created by TrustaLabs in the last hackathon.
+- [Github Repo](https://github.com/TrustaLabs/slaysybil)
+
+
 ### List of Useful Legos
 
-Legos
 Below is a list curated to highlight some of the Legos useful to the ODC Landscape.
-
-legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making [more](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) on Legos**
+### [Sybil-Scoring] 
 
 **Shared IP:**
 - [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_visitsIP.R)
@@ -34,6 +49,8 @@ legos are literally "pieces that can be joined together to make models of many d
 - [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_intersectionality.R)
 
 - How It Works: *It checks "How many out of a set of on-chain credentials does a user have?"*
+
+ [Githup repo to sybil scoring LEGOs developed by the FDD](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs)
 
 **Levenstein distance:**
 - [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_levenshtein.R)
@@ -83,15 +100,36 @@ When this lego is combined with several other Legos, a more robust and comprehen
 
 **Funding Wallet Is Unique:**
 
-
 - How It Works: *Returns Boolean for uniqueness of funding wallet*
 
 - Grant Lego: *This can be utilized with other indicators that could determine duplicate grant creation more. Could be used as a proof to indicate high risk money-mixing activity.*
 
 **Slaysybil**
+
 - [Github](https://github.com/TrustaLabs/slaysybil)
 
 - How it works: *Tracking bulk transfers and donations to detect sybils with observing sequential behaviour pattern and asset-transfer graph. Built by TrustaLabs*
+
+**On-chain Footprint Lego**
+
+- How It Works : The TDD (Transaction Date Mean Difference) metric is utilized by this Lego, and it is computed by subtracting each transaction date from the following one to obtain the difference, then dividing by the total number of transactions (i.e., the mean difference or average difference).
+- This Lego was developed to counter any attempts by a Sybil attacker to get around transaction count-based security measures by carrying out insignificant transactions in a short period of time to increase the number of transactions, avoid detection, and carry out their attack.
+
+**Address Correlation Lego**
+ 
+ - How It Works: The "address correlation Lego" is a pattern-identification Lego that is intended to be used against previously known sybil patterns that will be stored in a readable format (currently using a pandas dataframe). Its purpose is to judge the correlation between the activities of an address and those of sybil addresses using the Spearman's rank correlation coefficient.
+
+**Flagged Activity**
+
+- How It Works: _Returns whether address is in close association with addresses flagged as phishing/scam on Etherscan (send or receive event; last 365 days)._
+
+**Script-Call to API**
+
+- How It Works: _Imitate Bankless' use of "bot-label" for any python, curl, etc. direct-access to Passport API_
+
+**On-Trend / Off-Trend**
+
+- How It Works: _Determines whether user donation array is within-range for statistical averages of the community_
 
 ### Other Anti-sybil Technology
 
@@ -125,26 +163,6 @@ When this lego is combined with several other Legos, a more robust and comprehen
 - [Github](https://github.com/BrightID)
 - Summary: BrightID is building an identity lego that allows users to prove to applications that they only exist once in any given system. It's one of the legos used in Gitcoin Passport. You can get 50% bonus matching for all your Gitcoin grants by joining BrightID and connecting it to your Gitcoin Passport.
 =======
-**On-chain Footprint Lego**
-
-- How It Works : The TDD (Transaction Date Mean Difference) metric is utilized by this Lego, and it is computed by subtracting each transaction date from the following one to obtain the difference, then dividing by the total number of transactions (i.e., the mean difference or average difference).
-- This Lego was developed to counter any attempts by a Sybil attacker to get around transaction count-based security measures by carrying out insignificant transactions in a short period of time to increase the number of transactions, avoid detection, and carry out their attack.
-
-**Address Correlation Lego**
- 
- - How It Works: The "address correlation Lego" is a pattern-identification Lego that is intended to be used against previously known sybil patterns that will be stored in a readable format (currently using a pandas dataframe). Its purpose is to judge the correlation between the activities of an address and those of sybil addresses using the Spearman's rank correlation coefficient.
-
-**Flagged Activity**
-
-- How It Works: _Returns whether address is in close association with addresses flagged as phishing/scam on Etherscan (send or receive event; last 365 days)._
-
-**Script-Call to API**
-
-- How It Works: _Imitate Bankless' use of "bot-label" for any python, curl, etc. direct-access to Passport API_
-
-**On-Trend**
-
-- How It Works: _Determines whether user donation array is within-range for statistical averages of the community_
 
 **Resources**
 
