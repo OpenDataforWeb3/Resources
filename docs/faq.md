@@ -118,33 +118,6 @@ NOTE: If you have any issues getting your data from ocean (maybe your download w
    Ocean Protocol operates on a decentralized network, where data providers can securely and privately share their data assets with data consumers. It uses blockchain technology to ensure secure and transparent transactions, and smart contracts to enforce rules and regulations for data sharing.
 
 
-## Hackathon FAQ:  How can I use Pocket Network ?
-
-Pocket Network is an open-source decentralized RPC network with a contributor-friendly ecosystem governed by a high-performance DAO. It allows Web3 developers to remove the most important layer of centralization in their projects: connection to the blockchain. Instead of using a centralized service, Pocket's decentralized network of tens of thousands of nodes is run by the community.  DataBuilder Hackathon participants can use the Pocket Network to access blockchain data free from the centralization of many providers of blockchain nodes and data.  
-
-**DataBuilder Hackathon participants are strongly encouraged to use Pocket Network.**  
-
-All hackathon participants have access to the Pocket Network decentralized RPC endpoints. You can go to the Pocket Portal and sign up for a free account, and you'll be able to access any one of dozens of blockchains for up to 250,000 relays per day at no charge. [https://www.portal.pokt.network/](https://www.portal.pokt.network/?utm_medium=cta&utm_source=odc&utm_campaign=data-builder-hackathon&utm_content=faq-page) 
-
-Users will also have access to Pocket's robust RPC API, with connections available to Ethereum and all other major blockchains.  More information about the Pocket Network APIs are available here: [https://docs.pokt.network/api-docs/](https://docs.pokt.network/api-docs/pokt/?utm_medium=cta&utm_source=odc&utm_campaign=data-builder-hackathon&utm_content=faq-page) In order to query againsts these inputs you may choose to use True Blocks or another solution to create an index based on wallet ID.  
-
-Pocket team members will be on-hand in the OpenData Community Hackathon Discord channel throughout the event to answer any questions you might have. 
-
-## Hackathon FAQ:  How can I use TrueBlocks?
-
-On-chain data is the foundation of crypto, the ultimate source of truth. However, on-chain data is difficult to work with natively, without any transformations, in part because it is not indexed based on account. As a result in the past many data analysts would rely on centralized sources of information, such as Etherscan or various commercial solutions, because of their ease of use. However, these solutions are typically not open source or decentralized and are out of the control of the data analyst, introducing the risk of lock-in or capture and limiting the opportunities for customization and control.  
-
-TrueBlocks is an open-source project funded in part by the Gitcoin community and the Ethereum foundation that is dedicated to providing an index that improves with usage and that is thoroughly decentralized.
-
-**DataBuilder Hackathon participants should strongly consider using TrueBlocks to provide a local index that can be used to query an RPC from any source, including the decentralized Pocket Network.**  
-
-To get started, participants can Docker run a local copy of the index.
-[https://github.com/TrueBlocks/trueblocks-docker](https://github.com/TrueBlocks/trueblocks-docker)
-
-TrueBlocks engineers will be available on the DataBuilder Hackathon OpenData Community Discord.
-
-TrueBlocks documentation which explains much more about how to build and contribute to the shared “unchained” index as well as how to use TrueBlocks and the index for data analysis is available here: [https://trueblocks.io/docs/]( https://trueblocks.io/docs/)
-
 ##  Who can use Trueblock with Gitcoin?
 
 Anyone who is involved in the Gitcoin grants process can use Trueblock to provide transparency and accountability in their projects. This includes grantees, grant makers, and anyone else who is interested in tracking the progress of Gitcoin grants.
@@ -192,16 +165,6 @@ In ep 36 of Green Pill podcast, Kevin Owocki and Petr Porobov, founder of Upala,
 * [BlockScience Blog](https://medium.com/block-science)- Articles with analyses of passed Gitcoin Grants Rounds and other complex system analyses.   
 * [Prof. Brain Ford Papers](https://bford.info/pub/) - Prof Brian Ford has studies on decentralized systems, identity and blockchain. Special highlight to: 
  _Identity and Personhood in Digital Democracy: Evaluating Inclusion, Equality, Security, and Privacy in Pseudonym Parties and Other Proofs of Personhood_ 
-
-## What's LEGO and how can it help control sybil Attacks?
-
-The term "Lego" refers to discrete, modular units of code that carry out a specific task and can be assembled to make new things. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular, have open governance, take well defined inputs, and provide certain known outputs in order to be composable. ERC-20/721 token standards and Ethereum smart contracts are two examples of assembleable Legos. By giving the community the resources for innovative new solutions, the objective is to introduce freedom and agency to the funding of public goods. The gitcoin passport is one example of aUp Lego.
-
-An anti-Sybil tool called the Gitcoin Passport uses stamps to act as a means of identification. For the retroactive squelching of Sybils, a trained machine learning pipeline is employed, but it is centralized and operated by a small group of specialists. By creating a standardized framework for modeling and model auditing, users will be able to train their own models, turning this into a set of assembleable Sybil defensive legos. To counter Sybil assaults, additional tools can be created, such as rules for resolving conflicts and governance legos. The decision to use Gitcoin models or train one's own models rests with the user.
-
-##  How do LEGO bricks work in Gitcoin Grants?
-
-In Gitcoin Grants, individual contributions are aggregated to support open source projects and initiatives. Contributors can make small donations, or "LEGO bricks," which are combined to provide funding for the project. This allows for a large number of individuals to collectively support the project, even if they cannot make a large individual contribution.
 
 ## What  are the benefits of using LEGO bricks in Gitcoin Grants?
 
