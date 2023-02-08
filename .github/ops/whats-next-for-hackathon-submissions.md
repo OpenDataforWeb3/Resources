@@ -19,9 +19,11 @@ ODC will permanently publish the records of the Jan 2023 Hackathon and the resul
 
 README in the repository explains the history of the hackathon, an overview of the bounties, and the results. 
 
-Update https://gitcoin.co/hackathon/DataBuilders/? Gitcoin Databuilders Hackathon page with the same content as the README and links back to the ODC Jan2023 Hackathon repository. 
+**Update https://gitcoin.co/hackathon/DataBuilders/? Gitcoin Databuilders Hackathon page with the same content as the README and links back to the ODC Jan2023 Hackathon repository.**
 
-Update the OpenDataCommunity.org hackathon menu to point to the ODC Jan2023 Hackathon repository.
+**We need to collaborate with Gitcoin FDD on above changes to the Gitcoin DataBuilders hackathon page.**
+
+Update the OpenDataCommunity.org hackathon menu to link to a local page that highlights the latest hackathon with a link to the ODC Jan2023 Hackathon repository, future event / hackathon plans, and past hackathons. 
 
 ## Reach out to a few people and sponsors that can help the ODC immediately
 
@@ -45,15 +47,18 @@ Tiers of ODC membership and project maturity:
 
 Let's stop here and wait to define future tiers until we can discuss ideas with sponsors.
 
-## Help the contributors with next steps 
+## Help the contributors with next steps, Providing ODC sandbox and a bit of tooling
 
-- We provide ODC administrative help on how to operate a project
-
-## Provide ODC sandbox and a bit of tooling
-
-- We create the ODC Sandbox github organization. 
-- We provide an easy way to create a repository for their work and team. 
-- We provide a few tools and recommended ways of using them.
+- We provide ODC administrative help to members on how to operate a project
+- We create the ODC Sandbox github organization.
+- We provide an easy instructions how to create a repository for their work and team. 
+- We provide access to tools 
+  -  Project: Linear, Dework, Github Project, and / or Jira?
+  -  Repository: Github
+  -  IDE: Visual Studio Code, Github online, and / or HackMD?
+  -  CICD: Github Actions
+  -  Landscape tools: TBD as we figure out partners and / or sponsors 
+-  and recommended ways of using them.
 
 ## Regional and or local infrastructure to help with latency
 
