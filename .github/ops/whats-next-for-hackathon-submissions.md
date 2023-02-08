@@ -57,7 +57,7 @@ Let's stop here and wait to define future tiers until we can discuss ideas with 
   -  Repository: Github
   -  IDE: Visual Studio Code, Github online, and / or HackMD?
   -  CICD: Github Actions
-  -  Landscape tools: TBD as we figure out partners and / or sponsors 
+  -  OpenData stack: Operating stack to be used by the ODC members in the analysis and support of sandbox projects. Likely from the [landscape](../../docs/landscape.md) options.  Partners and / or sponsors may contribute licensing and pricing options. 
 -  and recommended ways of using them.
 
 ## Regional and or local infrastructure to help with latency
