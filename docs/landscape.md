@@ -216,5 +216,12 @@ Some projects are enabling the sharing of data and related analysis.
 - Summary: *Ocean Protocol is a suite of decentralized tools to unlock data at a large scale.*
 - Experience with ODC community: **Very strong - strongly preferred as a part of January 2023 hackathon.**
 
+### Verified blockchain % non blockchain data ### 
 
+**Codeislaw:**
+
+- [Website](https://www.codeslaw.app/ )
+- [Telegram](https://t.me/codeslaw)
+- [Docs](https://www.codeslaw.app/about)
+- Summary: *Codeslaw is a code search engine for verified smart contracts on Ethereum and beyond to help developers find and learn from verified and live smart contracts. Codeslaw is a public good project by Electric Capital to help support the growth and development of the crypto community.*
 
