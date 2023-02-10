@@ -124,7 +124,8 @@ When this lego is combined with several other Legos, a more robust and comprehen
 - [Website](https://www.brightid.org/)
 - [Github](https://github.com/BrightID)
 - Summary: BrightID is building an identity lego that allows users to prove to applications that they only exist once in any given system. It's one of the legos used in Gitcoin Passport. You can get 50% bonus matching for all your Gitcoin grants by joining BrightID and connecting it to your Gitcoin Passport.
-=======
+
+
 **On-chain Footprint Lego**
 
 - How It Works : The TDD (Transaction Date Mean Difference) metric is utilized by this Lego, and it is computed by subtracting each transaction date from the following one to obtain the difference, then dividing by the total number of transactions (i.e., the mean difference or average difference).
