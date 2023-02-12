@@ -10,6 +10,35 @@ Below is a list curated to highlight some of the Legos useful to the ODC Landsca
 
 legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making [more](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) on Legos**
 
+**Shared IP:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_visitsIP.R)
+
+- How It Works: *User IP addresses can also be checked to see if they are shared with many other users. Lots of addresses originating from the same IP could be a marker for Sybil attackers.*
+
+**SAD Model:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_SAD.R)
+
+- How It Works: *The user also has a Gitcoin account whose history can be analyzed using the SAD model to give another Sybil-likelihood score.*
+
+**DonorDNA:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_DNA.R)
+
+- How It Works: *When a donor connects their wallet their profile of past donations can be analyzed to see whether it is similar to groups of other users, which may be indicatative of Sybil rings.*
+
+**GrantDNA:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_DNA.R)
+
+- How It Works: *Each grant has a set of donors that can be represented as a set of binary data. This can be used to compare grants against flagged grants to see if they have similar donor profiles.*
+
+**Onchain Intersectionality:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_intersectionality.R)
+
+- How It Works: *It checks "How many out of a set of on-chain credentials does a user have?"*
+
+**Levenstein distance:**
+- [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_levenshtein.R)
+
+- How It Works: *Every user has a username - when they sign up to Gitcoin grants the similarity of their name can be compared against all other usernames to generate a likelihood of the username being auto-generated - evidence of a Sybil account. This Lego will be deprecated in the grants protocol because usernames will no longer be available - only Ethereum addresses, wallet IDs and grant/round nonce.*
 
 **On-Chain History:**
 
@@ -59,12 +88,58 @@ When this lego is combined with several other Legos, a more robust and comprehen
 
 - Grant Lego: *This can be utilized with other indicators that could determine duplicate grant creation more. Could be used as a proof to indicate high risk money-mixing activity.*
 
+**Slaysybil**
+- [Github](https://github.com/TrustaLabs/slaysybil)
+
+- How it works: *Tracking bulk transfers and donations to detect sybils with observing sequential behaviour pattern and asset-transfer graph. Built by TrustaLabs*
+
+### Other Anti-sybil Technology
+
+**Upala**
+- [Website](https://upalahq.notion.site/upalahq/Upala-dashboard-a46d88209ecb4a4cabf1560acc8673a2)
+- [Github](https://github.com/upala-digital-identity/upala)
+- Summary: *Upala is a decentralized digital identity. The protocol generates human uniqueness score for users. The score is measured in dollars. Each account score is determined by market. Incentives ensure that the score equals the costs of forging the account. The score directly reflects how valuable that identity is to the user and creates an entirely new way to measure reputability in the virtual and real world.*
+
+**POAP - Proof of Attendance Protocol**
+- [Website](https://poap.xyz/)
+- [Github](https://github.com/poap-xyz/)
+- Summary - The Proof of Attendance Protocol turns events or hackathons into collectibles. Using blockchain technology, POAP tokenizes your proof of participation, so they can be used as DIDs (decentralized Identifiers).
+
+**UBI - Universal Basic Income**
+- [Website](https://ubi.eth.limo/)
+- [Github](https://github.com/DemocracyEarth/ubi)
+- Summary: Universal basic income (UBI) aims to address economic inequality and provide security through streamed cash to every human on Earth. It is built on top of Ethereum and the Proof of Humanity protocol. Every human that gets verified by submitting a video of themseleves.
+
+**Proof Of Humanity**
+- [Website](https://proofofhumanity.id/)
+- [Github](https://github.com/Proof-Of-Humanity)
+- Summary: Humans who wish to be included in the registry submit information about themselves serving for verification. Then you can vouch for others and challenge suspicious users just like Kleros.
+
+**Idena - Proof-of-Person blockchain**
+- [Website](https://www.idena.io/)
+- [Github](https://github.com/idena-network)
+- Summary: The Idena blockchain is driven by Proof-of-Person consensus with every node linked to a cryptoidentity, one person with equal voting power. It suggests a novel way to formalize people on the Internet: Idena proves the humanness and uniqueness of its participants without collecting personally identifiable information by running a Turing test at the same time globally.
+
+**BrightID**
+- [Website](https://www.brightid.org/)
+- [Github](https://github.com/BrightID)
+- Summary: BrightID is building an identity lego that allows users to prove to applications that they only exist once in any given system. It's one of the legos used in Gitcoin Passport. You can get 50% bonus matching for all your Gitcoin grants by joining BrightID and connecting it to your Gitcoin Passport.
+=======
+**On-chain Footprint Lego**
+
+- How It Works : The TDD (Transaction Date Mean Difference) metric is utilized by this Lego, and it is computed by subtracting each transaction date from the following one to obtain the difference, then dividing by the total number of transactions (i.e., the mean difference or average difference).
+- This Lego was developed to counter any attempts by a Sybil attacker to get around transaction count-based security measures by carrying out insignificant transactions in a short period of time to increase the number of transactions, avoid detection, and carry out their attack.
+
+**Address Correlation Lego**
+ 
+ - How It Works: The "address correlation Lego" is a pattern-identification Lego that is intended to be used against previously known sybil patterns that will be stored in a readable format (currently using a pandas dataframe). Its purpose is to judge the correlation between the activities of an address and those of sybil addresses using the Spearman's rank correlation coefficient.
+
 
 **Resources**
 
 - [Public goods legos roadmap](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546)
 - [Legos for Prioritization](https://docs.google.com/spreadsheets/d/1FIYR7wtFEGfZTjMNXDMbkRDyfdtgkWJvbvsLpAD5eSE/edit#gid=354684328)
-- [Open Data COmmunity Discord](https://discord.gg/Ye3QrWf6fG)
+- [Open Data Community Discord](https://discord.gg/Ye3QrWf6fG)
 - [Gitcoin Governace Forum](https://discord.gg/gitcoin)
 
 

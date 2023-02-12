@@ -12,8 +12,9 @@ images: []
 
 The categories below are simplistic and imperfect and will improve with input.  Please make suggestions.  
 You can read more about how to suggest & make changes in our **[wiki.](https://github.com/OpenDataforWeb3/Resources/wiki)**
+TL; DR - just go to our Github and edit the file in Resources titled Landscape.md.  Our community will review and merge your pull request.  
 
-**We peridocially run bounties & hackathons that reward issues & pull requests; so your improvements may resulted in a reward!**
+**We periodically run bounties & hackathons that reward issues & pull requests; so your improvements may resulted in a reward!**
 
 ### Decentralized compute
 
@@ -51,6 +52,7 @@ You can read more about how to suggest & make changes in our **[wiki.](https://g
 - [Community](https://docs.pokt.network/community/governance/)
 - Summary:  *The only reliable and decentralized RPC network in the world governed by a high-performing DAO with the most contributor-friendly ecosystem.*
 - Experience with ODC community: **Very strong - recommended for use by hackathon participants**
+
 
 
 **Alchemy:**
@@ -98,6 +100,13 @@ You can read more about how to suggest & make changes in our **[wiki.](https://g
 - [Resources](https://fluence.dev/docs/build/introduction)
 - Summary: *Fluence provides an open Web3 protocol, framework and tooling to develop and host applications, interfaces and backends on permissionless peer-to-peer networks.*
 
+** Ethereum Swarm:**
+- [Website](https://www.ethswarm.org/)
+- [Github](https://github.com/ethersphere)
+- [Resources](https://www.ethswarm.org/)
+- Summary: *Swarm is a decentralised data storage and distribution technology, ready to power the next generation of censorship resistant unstoppable serverless apps. It is the complement to blockchain based smart contracts originally envisaged by Ethereum.*
+
+
 ### API providers and Oracles
 
 **Covalent:**
@@ -110,6 +119,17 @@ You can read more about how to suggest & make changes in our **[wiki.](https://g
 - [Website](https://chain.link/)
 - [Doc](https://docs.chain.link/#evm-products)
 - Summary: *Decentralized and high-quality data feeds, highly reliable, cost-efficient and highly secure automation for smart contracts,Verifiable, tamper-proof random number generator for blockchain gaming and NFT projects and request and can receive data from any API using the Chainlink contract library* 
+
+**Rivet:**
+- [Website](https://rivet.cloud/)
+- [Doc](https://rivet.cloud/docs/)
+- Summary: *Cloud-based Ethereum APIs offers endpoints for Ethereum and Ethereum Classic in one dashboard.Provides access to most major testnets on Ethereum,offers RPC, and graphql endpoints for all supported networks.*
+
+**Witnet:**
+- [Website](https://witnet.io/)
+- [Github](https://github.com/witnet)
+- [Docs](https://docs.witnet.io/)
+- Summary: *A Decentralized Oracle Network connecting smart contracts to the rest of the world.*
 
 
 ### Index transactions
@@ -195,4 +215,6 @@ Some projects are enabling the sharing of data and related analysis.
 - [Docs](https://docs.oceanprotocol.com/)
 - Summary: *Ocean Protocol is a suite of decentralized tools to unlock data at a large scale.*
 - Experience with ODC community: **Very strong - strongly preferred as a part of January 2023 hackathon.**
+
+
 
