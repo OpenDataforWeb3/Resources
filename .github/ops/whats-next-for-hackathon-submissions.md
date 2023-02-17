@@ -54,11 +54,11 @@ Let's stop here and wait to define future tiers until we can discuss ideas with 
 - We create the ODC Sandbox github organization.
   - https://github.com/OpenDataforWeb3/sandbox OR https://github.com/OpenDataforWeb3-sandbox OR https://github.com/ODC-sandbox
   - If we choose the single repository option, we will need to create subdirectories and establish permissions so only project teams can push contributions to their directory. The github organization option allows a project team to self organize and provide access to their repository. 
-- We provide an easy instructions how to create a repository within the ODC Sandbox github organization for their work and team. Two options good options:
-  - Make the project leader and member of the github organization and have them follow https://docs.github.com/en/get-started/quickstart/create-a-repo OR
-  - Ask the project leader push a PR "Create a Sandbox Repository for my XYZ Project" to the OpenDataforWeb3/Resources repository and we use a CI github action to create the repository. See https://github.com/marketplace/actions/create-a-repository-in-an-organization for the basic parts of the code. 
+- We provide easy instructions on how to create a repository within the ODC Sandbox github organization for their work and team. Two options good options:
+  - Make the project leader a member of the github organization and have them follow https://docs.github.com/en/get-started/quickstart/create-a-repo OR
+  - Ask the project leader to push a PR "Create a Sandbox Repository for my XYZ Project" to the OpenDataforWeb3/Resources repository and we use a CI github action to create the repository. See https://github.com/marketplace/actions/create-a-repository-in-an-organization for the basic parts of the code. 
 - We provide access to tools 
-  -  Project: Linear, Dework, Github Project, and / or Jira?
+  -  Project: Linear, Dework, Github Projects, and / or Jira?
   -  Wiki: Github wiki and/or MediaWiki?
   -  Repository: Github
   -  IDE: Visual Studio Code, Github online, and / or HackMD?
