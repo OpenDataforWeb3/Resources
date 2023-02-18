@@ -45,20 +45,26 @@ Tiers of ODC membership and project maturity:
 - membership: We can continue to establish ODC discord membership as the baseline for being a "ODC member"
 - project: practice the basics of team and software development
 
-Let's stop here and wait to define future tiers until we can discuss ideas with sponsors.
+Let's stop here and wait to define future tiers until we can discuss ideas with sponsors. **A good place to develop strategy on this will be at ETHDenver. Let's revisit this after.**
 
-## Help the contributors with next steps, Providing ODC sandbox and a bit of tooling
+## Help the contributors with next steps, Providing ODC Sandbox and a bit of tooling
 
-- We provide ODC administrative help to members on how to operate a project
+- We provide ODC administrative help to members on how to operate a project. 
+  - The ODC Jedi to start. 
 - We create the ODC Sandbox github organization.
-- We provide an easy instructions how to create a repository for their work and team. 
+  - https://github.com/OpenDataforWeb3/sandbox OR https://github.com/OpenDataforWeb3-sandbox OR https://github.com/ODC-sandbox
+  - If we choose the single repository option, we will need to create subdirectories and establish permissions so only project teams can push contributions to their directory. The github organization option allows a project team to self organize and provide access to their repository. 
+- We provide easy instructions on how to create a repository within the ODC Sandbox github organization for their work and team. Two options good options:
+  - Make the project leader a member of the github organization and have them follow https://docs.github.com/en/get-started/quickstart/create-a-repo OR
+  - Ask the project leader to push a PR "Create a Sandbox Repository for my XYZ Project" to the OpenDataforWeb3/Resources repository and we use a CI github action to create the repository. See https://github.com/marketplace/actions/create-a-repository-in-an-organization for the basic parts of the code. 
 - We provide access to tools 
-  -  Project: Linear, Dework, Github Project, and / or Jira?
+  -  Project: Linear, Dework, Github Projects, and / or Jira?
+  -  Wiki: Github wiki and/or MediaWiki?
   -  Repository: Github
   -  IDE: Visual Studio Code, Github online, and / or HackMD?
-  -  CICD: Github Actions
+  -  CICD: Github Actions and/or other options like CircleCI, Gitlab?
   -  OpenData stack: Operating stack to be used by the ODC members in the analysis and support of sandbox projects. Likely from the [landscape](../../docs/landscape.md) options.  Partners and / or sponsors may contribute licensing and pricing options. 
--  and recommended ways of using them.
+-  and recommended ways of using them. **A good place to develop strategy on this will be at ETHDenver. Let's revisit this after.**
 
 ## Regional and or local infrastructure to help with latency
 
@@ -68,5 +74,38 @@ We find sponsors and funding to help ODC projects with compute, network, and sto
 
 Options are: 
 - a fanless local compute to run a node off the contributors local internet service provider
-- a regional cloud service provider that can provide discounted or subsidized infrastructure for running a node
-- a regional internet service provider that can provide discounted or subsidized network for running a node
+- a regional cloud service provider that can provide discounted or subsidized infrastructure for running a node. A first pass at possible partners in two regions below:
+  - South America region:
+    - Microsoft
+    - Amazon Web Services (AWS)
+    - Telefônica Vivo
+    - Internet Group (iG)
+    - IBM
+    - Telefonica
+    - America Mvil
+    - Embrate
+    - Claro
+    - Entel
+    - Antel
+    - Telecom Argentina
+    - Tigo
+    - Tim Brasil
+    - Google
+    - Unify
+    - Avaya
+    - Cisco
+    - VMware
+    - Huawei
+    - IPLAN
+    - Fortinet
+    - Oracle
+  - Afica region:
+    - Azure
+    - AWS
+    - Africa Data Centers
+    - Cloudafrica.net
+    - Hostafrica.co.za
+    - Cloudflex
+    - Cybercloud
+    - Layer3Cloud
+- a regional internet service provider that can provide discounted or subsidized network for running a node. See the provider lists above.
