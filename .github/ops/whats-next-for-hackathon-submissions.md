@@ -27,85 +27,23 @@ Update the OpenDataCommunity.org hackathon menu to link to a local page that hig
 
 ## Reach out to a few people and sponsors that can help the ODC immediately
 
-Bounty 1-4 contributors are new potential ODC Jedi members that can help build the community. We can find them work at one of the sponsors and ask that they continue to contribute to future hackathons, projects, and ODC administration. 
+- @Poupou will lead the discussions around projects and names together with @stef-says. See https://github.com/OpenDataforWeb3/sandbox/wiki/1st-workgroup-meeting---17st-Feb
 
-Bounty 2-4 contributors may want to continue their work on algorithms, data analysis, and or dashboard as an ODC project.
+## Help the contributors with next steps, Providing ODC Sandbox, tools, and mentoring
 
-## Plan for project maturity
-
-Right now we have 6 groups of people:
-- public
-- hackathon contributors
-- ODC discord members
-- ODC Github contributors
-- ODC Jedi
-- Sponsors
-
-Tiers of ODC membership and project maturity:
-- membership: We can continue to establish ODC discord membership as the baseline for being a "ODC member"
-- project: practice the basics of team and software development
-
-Let's stop here and wait to define future tiers until we can discuss ideas with sponsors. **A good place to develop strategy on this will be at ETHDenver. Let's revisit this after.**
-
-## Help the contributors with next steps, Providing ODC Sandbox and a bit of tooling
-
-- We provide ODC administrative help to members on how to operate a project. 
-  - The ODC Jedi to start. 
-- We create the ODC Sandbox github organization.
-  - https://github.com/OpenDataforWeb3/sandbox OR https://github.com/OpenDataforWeb3-sandbox OR https://github.com/ODC-sandbox
-  - If we choose the single repository option, we will need to create subdirectories and establish permissions so only project teams can push contributions to their directory. The github organization option allows a project team to self organize and provide access to their repository. 
-- We provide easy instructions on how to create a repository within the ODC Sandbox github organization for their work and team. Two options good options:
-  - Make the project leader a member of the github organization and have them follow https://docs.github.com/en/get-started/quickstart/create-a-repo OR
-  - Ask the project leader to push a PR "Create a Sandbox Repository for my XYZ Project" to the OpenDataforWeb3/Resources repository and we use a CI github action to create the repository. See https://github.com/marketplace/actions/create-a-repository-in-an-organization for the basic parts of the code. 
-- We provide access to tools 
-  -  Project: Linear, Dework, Github Projects, and / or Jira?
-  -  Wiki: Github wiki and/or MediaWiki?
-  -  Repository: Github
-  -  IDE: Visual Studio Code, Github online, and / or HackMD?
-  -  CICD: Github Actions and/or other options like CircleCI, Gitlab?
-  -  OpenData stack: Operating stack to be used by the ODC members in the analysis and support of sandbox projects. Likely from the [landscape](../../docs/landscape.md) options.  Partners and / or sponsors may contribute licensing and pricing options. 
--  and recommended ways of using them. **A good place to develop strategy on this will be at ETHDenver. Let's revisit this after.**
-
-## Regional and or local infrastructure to help with latency
-
-Maybe this is a stretch goal in the early stages of ODC. Publishing a few stretch goals might help get few more sponsors or contributors that want to work towards them. 
-
-We find sponsors and funding to help ODC projects with compute, network, and storage hardware that can improve their ability to operate within their local area. 
-
-Options are: 
-- a fanless local compute to run a node off the contributors local internet service provider
-- a regional cloud service provider that can provide discounted or subsidized infrastructure for running a node. A first pass at possible partners in two regions below:
-  - South America region:
-    - Microsoft
-    - Amazon Web Services (AWS)
-    - Telefônica Vivo
-    - Internet Group (iG)
-    - IBM
-    - Telefonica
-    - America Mvil
-    - Embrate
-    - Claro
-    - Entel
-    - Antel
-    - Telecom Argentina
-    - Tigo
-    - Tim Brasil
-    - Google
-    - Unify
-    - Avaya
-    - Cisco
-    - VMware
-    - Huawei
-    - IPLAN
-    - Fortinet
-    - Oracle
-  - Afica region:
-    - Azure
-    - AWS
-    - Africa Data Centers
-    - Cloudafrica.net
-    - Hostafrica.co.za
-    - Cloudflex
-    - Cybercloud
-    - Layer3Cloud
-- a regional internet service provider that can provide discounted or subsidized network for running a node. See the provider lists above.
+- We provide ODC mentoring to help new members on how to operate a project. The ODC Jedi to start are the mentors to start.
+- We provide the ODC Sandbox github organization https://github.com/OpenDataforWeb3-sandbox 
+- The https://github.com/OpenDataforWeb3/sandbox is location of all the how to create and maintain an ODC sandbox project documentation and the index to all the sandbox projects
+- We provide easy instructions on how to create a repository within the ODC Sandbox github organization for their work and team. Two good options:
+  - Make the project leader a member of the github organization and have them follow https://docs.github.com/en/get-started/quickstart/create-a-repo OR
+  - Ask the project leader to push a PR "Create a Sandbox Repository for my XYZ Project" to the OpenDataforWeb3/Sandbox repository and we automate the creation of the repository.
+- We provide access to tools:
+  - Comms: Discord
+  - Project: Github Projects (we setup a project and a training session on using with issues)
+  - Wiki: Github wiki (we setup a basic pages)
+  - Repository: Github
+  - IDE: Visual Studio Code, Github online, and HackMD (we help the project get setup and a training session on pushing PRs)
+  - CICD: Github Actions (TBD what we can support)
+  - OpenData stack: Operating stack to be used by the ODC members in the analysis and support of sandbox projects. Likely from the [landscape](../../docs/landscape.md) options. Partners and / or sponsors may contribute licensing and pricing options. (TBD what we can support) **A good place to develop strategy on this will be at ETHDenver. Let's revisit this after.**
+![sandbox-discord](sandbox-discord-woot-project.png)
+![sandbox-github](sandbox-github-woot-project.png)
