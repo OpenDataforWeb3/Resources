@@ -31,7 +31,7 @@ Update the OpenDataCommunity.org hackathon menu to link to a local page that hig
 
 ## Help the contributors with next steps, Providing ODC Sandbox, tools, and mentoring
 
-- We provide ODC mentoring to help new members on how to operate a project. The ODC Jedi to start are the mentors to start.
+- We provide ODC mentoring to help new members on how to operate a project. The ODC Jedi are the mentors to start.
 - We provide the ODC Sandbox github organization https://github.com/OpenDataforWeb3-sandbox 
 - The https://github.com/OpenDataforWeb3/sandbox is location of all the how to create and maintain an ODC sandbox project documentation and the index to all the sandbox projects
 - We provide easy instructions on how to create a repository within the ODC Sandbox github organization for their work and team. Two good options:
