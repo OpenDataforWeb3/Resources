@@ -31,8 +31,31 @@ Bounty 1-4 contributors are new potential ODC Jedi members that can help build t
 
 Bounty 2-4 contributors may want to continue their work on algorithms, data analysis, and or dashboard as an ODC project.
 
-## Plan for project maturity
+## As discussed briefly on Discord, with the completion of the Data Builders hackathon - we can look forward to the immediate priorities:
 
+- Sandbox project support
+- Running a stack
+- Founding Sponsors
+- ALSO - however - we should be careful not to accumulate too much centralization or governance debt.
+
+As of early February 2023, we have an informal governance structure.
+
+The multi-sig is secured as a 2/3 - epowell101, DisruptionJoe, and Tigress.
+
+We then have an ODC Jedi group that emerged from those that were attending meetings frequently and otherwise active. The ODC Jedi is a role on the ODC Discord.
+
+We then have roles across Github & the Google calendar and otherwise. These may not be consistent with the ODC Jedi role.
+
+Additionally, epowell101 and Baoki are each currently paid by Gitcoin however dedicate much of their time to the ODC.
+
+And most work is organized into workgroups, which are self-organized on Discord.
+
+For now - we can build organically from the existing Discord organization.
+
+Once the founding sponsors become more engaged - we will expect to have them involved in our governance. We mostly need to be transparent and efficient as we continue to build towards sustainability in February, March and April of 2023
+
+## Groups of people
+ 
 Right now we have 6 groups of people:
 - public
 - hackathon contributors
@@ -40,6 +63,8 @@ Right now we have 6 groups of people:
 - ODC Github contributors
 - ODC Jedi
 - Sponsors
+
+## What is a project
 
 Tiers of ODC membership and project maturity:
 - membership: We can continue to establish ODC discord membership as the baseline for being a "ODC member"
