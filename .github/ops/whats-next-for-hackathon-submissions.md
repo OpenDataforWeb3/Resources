@@ -47,3 +47,15 @@ Update the OpenDataCommunity.org hackathon menu to link to a local page that hig
   - OpenData stack: Operating stack to be used by the ODC members in the analysis and support of sandbox projects. Likely from the [landscape](../../docs/landscape.md) options. Partners and / or sponsors may contribute licensing and pricing options. (TBD what we can support) **A good place to develop strategy on this will be at ETHDenver. Let's revisit this after.**
 ![sandbox-discord](sandbox-discord-woot-project.png)
 ![sandbox-github](sandbox-github-woot-project.png)
+
+# Current governance
+
+- As of early February 2023, we have an informal governance structure.
+- The multi-sig is secured as a 2/3 - epowell101, DisruptionJoe, and Tigress.
+- We then have an ODC Jedi group that emerged from those that were attending meetings frequently and otherwise active. The ODC Jedi is a role on the ODC Discord.
+- We then have roles across Github & the Google calendar and otherwise. These may not be consistent with the ODC Jedi role.
+- Additionally, epowell101 and Baoki are each currently paid by Gitcoin however dedicate much of their time to the ODC.
+- Most work is organized into workgroups, which are self-organized on Discord.
+- Once the founding sponsors become more engaged - we will expect to have them involved in our governance. We mostly need to be transparent and efficient as we continue to build towards sustainability in February, March and April of 2023
+
+
