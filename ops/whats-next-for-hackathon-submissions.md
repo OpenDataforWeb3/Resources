@@ -25,6 +25,8 @@ README in the repository explains the history of the hackathon, an overview of t
 
 Update the OpenDataCommunity.org hackathon menu to link to a local page that highlights the latest hackathon with a link to the ODC Jan2023 Hackathon repository, future event / hackathon plans, and past hackathons. 
 
-## Reach out to a few people and sponsors that can help the ODC immediately
+## Next reach out to a few people and sponsors that can help the ODC immediately
 
-- @Poupou will lead the discussions around projects and names together with @stef-says. See https://github.com/OpenDataforWeb3/sandbox/wiki/1st-workgroup-meeting---17st-Feb
+- The future is Sandbox and @epowell101 talks about it here https://gov.gitcoin.co/t/gitcoin-founded-opendata-community-kicks-off-databuilder-hackathon/12489/5?u=epowell101
+- @Poupou, @stef_says will lead the discussions around Sandbox projects and names. See https://github.com/OpenDataforWeb3/sandbox/wiki/1st-workgroup-meeting---17st-Feb
+  
