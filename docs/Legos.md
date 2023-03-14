@@ -7,7 +7,7 @@ description: "List of Legos Useful to the Open Data Community"
 
 Below is a list curated to highlight some of the Legos useful to the ODC Landscape.
 
-legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making . [More](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) on Legos**
+Legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making . Read more on legos [here](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [here](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546).**
 
 **Shared IP:**
 - [Github](https://github.com/Fraud-Detection-and-Defense/Gitcoin-Sybil-LEGOs/blob/main/scripts_process/process_visitsIP.R)
@@ -137,7 +137,6 @@ When this lego is combined with several other Legos, a more robust and comprehen
 - [Website](https://www.brightid.org/)
 - [Github](https://github.com/BrightID)
 - Summary: BrightID is building an identity lego that allows users to prove to applications that they only exist once in any given system. It's one of the legos used in Gitcoin Passport. You can get 50% bonus matching for all your Gitcoin grants by joining BrightID and connecting it to your Gitcoin Passport.
-=======
 
 
 **On-chain Footprint Lego**
