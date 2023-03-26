@@ -177,7 +177,7 @@ New Legos can be developed based on any analysis that can be shown to indicate a
 
 An anti-Sybil tool called the Gitcoin Passport uses stamps to act as a means of identification. 
 
-## What are examples of Legos and how do they work?
+## What are examples of Legos?
 
 * Levenshtein distance: This method calculates the difference between two strings of text, such as username, to determine their similarity. If a username is too similar to others, it may indicate that the account is auto-generated or a Sybil account.
 
