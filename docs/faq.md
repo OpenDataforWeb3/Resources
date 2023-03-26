@@ -175,6 +175,7 @@ Legos are algorithms that are packaged typically as Docker containers and that h
 
 New Legos can be developed based on any analysis that can be shown to indicate a particular behavior. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular; they should also have open governance, take well defined inputs, and provide certain known outputs in order to be composable. 
 
+## What are some example Legos? 
 ## Legos examples?
 
 The following are examples of Legos.  If you develop a useful Lego please add it here via a pull request.  
