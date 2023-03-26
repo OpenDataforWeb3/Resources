@@ -169,13 +169,15 @@ In ep 36 of Green Pill podcast, Kevin Owocki and Petr Porobov, founder of Upala,
 * [Prof. Brain Ford Papers](https://bford.info/pub/) - Prof Brian Ford has studies on decentralized systems, identity and blockchain. Special highlight to: 
  _Identity and Personhood in Digital Democracy: Evaluating Inclusion, Equality, Security, and Privacy in Pseudonym Parties and Other Proofs of Personhood_ 
 
-## What's LEGO and how can it help control sybil Attacks?
+## What is a Lego and how can this pattern be used?
 
-LEGO is a concept used in the context of software development and refers to small, modular, and reusable pieces of code that can be combined to create new applications. Different Legos are used to check various user attributes and behaviors, such as username similarity, shared IP addresses, donor and grant profiles, and on-chain interactions, to determine the likelihood of Sybil behavior. New Legos can be developed based on any analysis that can be shown to indicate Sybil behavior and can be implemented as an algorithm. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular, have open governance, take well defined inputs, and provide certain known outputs in order to be composable. ERC-20/721 token standards and Ethereum smart contracts are two examples of assembleable Legos. By giving the community the resources for innovative new solutions, the objective is to introduce freedom and agency to the funding of public goods. The gitcoin passport is one example of aUp Lego.
+Legos are algorithms that are packaged typically as Docker containers and that have consistent input and output schemas; Legos make algorithmic analysis more modular due to their standarized inputs / outputs and their packaging as containers; Legos also make this analysis somewhat more transparent because it improves the ability to report on the flow of a wallet or other identifier through a pipeline of Legos, identifying specifically which algorithms predicted that a particular wallet or other identifier is likely a Sybil or otherwise flagged as questionsable by the algorithms packaged as Legos.
 
-An anti-Sybil tool called the Gitcoin Passport uses stamps to act as a means of identification. For the retroactive squelching of Sybils, a trained machine learning pipeline is employed, but it is centralized and operated by a small group of specialists. By creating a standardized framework for modeling and model auditing, users will be able to train their own models, turning this into a set of assembleable Sybil defensive legos. To counter Sybil assaults, additional tools can be created, such as rules for resolving conflicts and governance legos. The decision to use Gitcoin models or train one's own models rests with the user.
+New Legos can be developed based on any analysis that can be shown to indicate a particular behavior. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular; they should also have open governance, take well defined inputs, and provide certain known outputs in order to be composable. 
 
-## What other LEGO exist and how do they work?
+An anti-Sybil tool called the Gitcoin Passport uses stamps to act as a means of identification. 
+
+## What are examples of Legos and how do they work?
 
 * Levenshtein distance: This method calculates the difference between two strings of text, such as username, to determine their similarity. If a username is too similar to others, it may indicate that the account is auto-generated or a Sybil account.
 
