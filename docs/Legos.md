@@ -5,7 +5,7 @@ description: "List of Legos Useful to the Open Data Community"
 
 Legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making [more](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) on Legos**
 
-Several Legos are already built and are being used to manage Sybils in the [Gitcoin protocol](). These includes:
+Several Legos are already built and are being used to identify Sybils potentially attacking public goods funding via the [Gitcoin protocol](). These includes:
 
  **Passport Scoring**
 [Gitcoin passport](https://passport.gitcoin.co/):
