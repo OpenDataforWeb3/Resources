@@ -175,9 +175,9 @@ Legos are algorithms that are packaged typically as Docker containers and that h
 
 New Legos can be developed based on any analysis that can be shown to indicate a particular behavior. Legos need to be tightly scoped, open and accessible, permissionless, have few dependencies, be modular; they should also have open governance, take well defined inputs, and provide certain known outputs in order to be composable. 
 
-An anti-Sybil tool called the Gitcoin Passport uses stamps to act as a means of identification. 
+## Legos examples?
 
-## What are examples of Legos?
+The following are examples of Legos.  If you develop a useful Lego please add it here via a pull request.  
 
 * Levenshtein distance: This method calculates the difference between two strings of text, such as username, to determine their similarity. If a username is too similar to others, it may indicate that the account is auto-generated or a Sybil account.
 
