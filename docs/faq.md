@@ -191,11 +191,11 @@ The following are examples of Legos.  If you develop a useful Lego please add it
 
 * Onchain Intersectionality: This method checks the number of on-chain credentials a user has, such as Ethereum addresses, wallet IDs, and grant/round nonce. The more credentials a user has, the higher the likelihood that the user is a Sybil attacker
 
-## Possible ideas for a new LEGO
+## Possible ideas for new Legos
 
-There are many possibilities for more Legos - any analysis that can be shown to be indicative of Sybil behaviour and implementable as an algorithm could be turned into a Lego. Some might be relatively complex analyses of on-chain data, like detecting when a user has rapidly swapped funds back and forth in order to seem more active. Sequences of rapid transactions between wallets, especially when they are ultimately returned to where they started or at least stay within a small group of addresses, could be a Sybil behaviour. Other on-chain indicators might be whether a wallet was initially funded from a contract, as this might be a way for Sybil attackers to automate their donations from many externally-owned accounts.
+There are many possibilities for more Legos - any analysis that can flag a particular behavior and implementable as an algorithm could be turned into a Lego. Some might be relatively complex analyses of on-chain data, like detecting when a user has rapidly swapped funds back and forth in order to seem more active. Sequences of rapid transactions between wallets, especially when they are ultimately returned to where they started or at least stay within a small group of addresses, could be a Sybil behaviour. Other on-chain indicators might be whether a wallet was initially funded from a contract, as this might be a way for Sybil attackers to automate their donations from many externally-owned accounts.
 
-Other simple Legos could be checks for users that hold certain POAPs or NFTs. Some POAPs and NFTs are easy to farm, others require significant investment of time and/or capital. Below are some highlighted ideas
+Other simple Legos could be checks for users that hold certain POAPs or NFTs. Some POAPs and NFTs are easy to farm, others require significant investment of time and/or capital. Below are some potential Legos:
 
 * Farmer Boolean: (uses on-chain data to determine whether a user has >X ERC-20 tokens and an average transaction value <Y ETH)
 * Onchain History Boolean: (has a user engaged in certain web3 activities in a specific timeframe? Activites and timeframe can be customized by round owner)
