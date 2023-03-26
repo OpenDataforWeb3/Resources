@@ -7,21 +7,6 @@ description: "List of Legos Useful to the Open Data Community"
 
 Several Legos are already built and are being used to identify Sybils potentially attacking public goods funding via the [Gitcoin protocol](). These includes:
 
- **Passport Scoring**
-[Gitcoin passport](https://passport.gitcoin.co/):
--How It Works: Gitcoin passport is a tool that enables users prove their identity by collecting stamps which are credentials from web2 such as Facebook, Twitter, and web3 i.e BrightID, ENS. 
-The combination of stamps in a wallet can be used to create a trust score which can be calculated to use as evidence of personhood,the greater the score the more likely a user is trustable or genuine.
-- [Link](https://github.com/gitcoinco/passport-scorer)
-
-
-**Algorithmic Detection Lego**
-- How It Works: Sybils are detected on how the user's spread fund in bulk (Bulk Transfers) and in what pattern they make donation to the same grant(Bulk Donations).
-- Created by TrustaLabs in the last hackathon.
-- [Github Repo](https://github.com/TrustaLabs/slaysybil)
-
-
-### List of Useful Legos
-
 Below is a list curated to highlight some of the Legos useful to the ODC Landscape.
 ### [Sybil-Scoring] 
 
