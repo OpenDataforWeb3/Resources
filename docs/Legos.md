@@ -5,7 +5,7 @@ description: "List of Legos Useful to the Open Data Community"
 
 **Legos are algorithms that are packaged typically as Docker containers and that have consistent input and output schemas; Legos make algorithmic analysis more modular due to their standarized inputs / outputs and their packaging as containers; Legos also make this analysis somewhat more transparent because it improves the ability to report on the flow of a wallet or other identifier through a pipeline of Legos, identifying specifically which algorithms predicted that a particular wallet or other identifier is likely a Sybil or otherwise flagged as questionsable by the algorithms packaged as Legos.** Much [more](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) about Legos is available - both sources point to foundation documents authored by the the Gitcoin FDD.
 
-Several Legos are already built and are being used to identify Sybils potentially attacking public goods funding via the [Gitcoin protocol](). 
+Several Legos are already built and are being used to identify Sybils potentially attacking public goods funding. 
 
 ### [Example Legos] 
 
