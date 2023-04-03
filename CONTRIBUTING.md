@@ -7,8 +7,6 @@ Thank you for investing your time in contributing to the OpenData Community!  We
 
 - We are using [discord](https://discord.gg/havA38Xa7q) for the community and general coordination.
 
-- We are testing out [Dework](https://app.dework.xyz/opendata-community.) for task management
-
 - And we are using [this Github repo](https://github.com/OpenDataforWeb3/Resources) for contributions and building in public.
 
 - You can find our calendar of meetings and events [here](https://calendar.google.com/calendar/u/0/embed?src=698a35b1c1a24bdae78f30cbe3fc081c5fbb681c748a45df61040c6e6f26c932@group.calendar.google.com&ctz=America/Los_Angeles)
