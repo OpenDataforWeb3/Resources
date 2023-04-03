@@ -21,9 +21,9 @@ toc: true
 
 In general a Hackathon is a social coding event that brings together computer programmers like software developers, analysts,  designers and user interface specialists along with industry process experts and professionals to identify issues and create software solutions within a specific period of time.
 
-## Who can participate in the Open Data Community (ODC) hackathon?
+## Who can participate in the OpenData Community (ODC) hackathon?
 
-Everybody is welcome to apply and be part of the Open Data Community (ODC) hackathon. We are looking for hackers, coders, makers but also for innovators, engineers, creative people, designers, data geeks and startups. Specifically, Data analysts and data scientists, software developers, and DevRel contributors are all well suited for the different bounties and contests of this hackathon.  
+Everybody is welcome to apply and be part of the OpenData Community (ODC) hackathon. We are looking for hackers, coders, makers but also for innovators, engineers, creative people, designers, data geeks and startups. Specifically, Data analysts and data scientists, software developers, and DevRel contributors are all well suited for the different bounties and contests of this hackathon.  
 
 ## Any prepared dataset for use during the hackathon?
 Yes, we have prepared a dataset for your use that includes information about recent grants rounds with Unicef and with Fantom:
