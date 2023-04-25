@@ -10,6 +10,9 @@ https://forum.opendatacommunity.org/t/an-ongoing-responsibility-the-collection-o
 
 Please get in touch to donate or help to gather valuable data sets or to provide feedback or assistance.  
 
+Note - for those datasets hosted on the Ocean Protocol - you may want to use:
+https://faucet.polygon.technology
+
 ## Grant Analysis 
 
 For analysis of activity during the Beta round:
