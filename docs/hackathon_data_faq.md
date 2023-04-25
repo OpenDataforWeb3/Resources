@@ -1,25 +1,14 @@
 ---
-title: "Hackathon Datasets"
-description: "Datasets available to start you off on Hackathon Bounties."
-lead: "Datasets available to start you off on Hackathon Bounties."
-date: 2023-04-24T16:10:02-03:00
-lastmod: 2023-04-24T16:10:02-03:00
-draft: false
-weight: 50
-images: ["avatar.jpg"]
-categories: []
-tags: []
-contributors: [""]
-menu:
-  docs:
-    parent: "Hackathon Datasets"
-weight: 610
-toc: true
----
 
 # Hackathon Datasets
 
-This page lists all the datasets available for OpenData Community (ODC) Hackathons! This collection of datasets is made up of old and new data to start off work on the Hackathon bounties. The ODC controls and currates all the Sybil Loki and Thor related datasets, and therefore, access to these datasets is only granting to those that are actively participating in Hackathons or otherwise active in the OpenData Community. The ODC has published our plans on how to currate and improve these strategic datasets. Please get involved to assist as we continue to grow and improve our datasets
+This page lists many datasets available for OpenData Community (ODC) Hackathons! This collection of datasets is made up of old and new data to start off work on the Hackathon bounties. As a data analyst and scientist you may also wish to develop your own sources of data including via the use of ODC supported projects such as TrueBlocks and Data Dex.  
+
+One responsibility that the ODC has taken on for the broader anti-Sybil and anti-Fraud community is to collect addresses that are very likely to be either Sybils or non-Sybils. We have inhereted the nomenclature of the FDD from Gitcoin, which initially collected many of these wallets and collected them into Sybil "Loki" and non-Sybil "Thor" datasets. Due to the sensitivity of these data sets we restrict access to those that are actively participating in Hackathons or otherwise active in the OpenData Community. The ODC has published our plans on how to currate and improve these strategic datasets on our Forum here:
+- [
+https://forum.opendatacommunity.org/t/an-ongoing-responsibility-the-collection-of-sybil-and-non-sybil-lists/)42](https://forum.opendatacommunity.org/t/an-ongoing-responsibility-the-collection-of-sybil-and-non-sybil-lists/42)
+
+Please get in touch to donate or help to gather valuable data sets or to provide feedback or assistance.  
 
 ## Grant Analysis 
 
