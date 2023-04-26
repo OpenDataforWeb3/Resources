@@ -43,3 +43,50 @@ For analysis of activity during the Beta round:
 For analysis of activity during and after the Beta round:
 
  - Final Beta round passport scores  - TBC
+
+## IPFS raw files
+
+The following files can also be useful.  In some cases these are duplicates of the above.
+
+**Allo Datasets (Present and Future)
+
+[All Allo rounds](https://ipfs.io/ipfs/QmVhLowGhiPBd2VAk2JQdZ9U9RoTUUKtJSokv2yEDM5hoG?filename=all_rounds.csv)
+Dataset of all rounds stored on the Allo Protocol
+CID: QmXHunC6QHE4XsWuwuoouCx75MRrpsZTfes2nhEowh5CTg
+
+[Beta rounds](https://ipfs.io/ipfs/QmaxpCD6Edfzc2trpAGQ2knWneLUNhxXTwcs7zb3nVVSKQ?filename=beta_rounds.csv)
+Dataset of Beta rounds on the Allo Protocol
+CID: QmaxpCD6Edfzc2trpAGQ2knWneLUNhxXTwcs7zb3nVVSKQ
+
+[All Allo projects](https://ipfs.io/ipfs/QmS1Uj8bXmpqqnsaX5E8oVdTQfou5rFtut1TNzEJAfKZga?filename=all_projects.csv)
+List of all projects stored on the Allo Protocol
+CID: QmS1Uj8bXmpqqnsaX5E8oVdTQfou5rFtut1TNzEJAfKZga
+
+[Beta applicants/projects](https://ipfs.io/ipfs/QmYhkts3SkESdnwA1gjiKQDuTCtWnQyDQtiJhQ8BBpPGem?filename=beta_projects.csv)
+List of Beta round specific projects from the Allo Protocol
+CID: QmYhkts3SkESdnwA1gjiKQDuTCtWnQyDQtiJhQ8BBpPGem
+
+Beta round votes - TBC
+
+Beta round payout - TBC
+
+Passport Datasets (Past, Present and Future)
+	
+ [Passport addresses and scores (past)](https://ipfs.io/ipfs/QmW7rmERMSHbQWENaDR2Yw13JJAbCFPEwExo44hyA8koaf?filename=passport_address_scores.csv)
+	List of addresses and their passport score
+	CID: QmW7rmERMSHbQWENaDR2Yw13JJAbCFPEwExo44hyA8koaf
+
+[Grant round datasets (3 - 15)](https://data.opendatacommunity.com/)
+	
+[Alpha round outputs/OSS](https://ipfs.io/ipfs/QmUcbv46EAnrMETXSevJDfekVv7UXyULDsZwL1fPotYySC?filename=oss_output.csv)
+	Final output for the Open Source Software pool of the Gitcoin Alpha round
+	CID: QmUcbv46EAnrMETXSevJDfekVv7UXyULDsZwL1fPotYySC
+
+[Alpha round outputs/Eth](https://ipfs.io/ipfs/QmXdpqdPaWniUn4LbKPBWXYW3R8nsRb3abvDaaUMfqQzJB?filename=eth_output.csv)
+	Final output for the Ethereum Infrastructure pool of the Gitcoin Alpha round
+	CID: QmXdpqdPaWniUn4LbKPBWXYW3R8nsRb3abvDaaUMfqQzJB
+
+[Alpha round outputs/Climate](https://ipfs.io/ipfs/QmWejV3B89BPVeh2Lv6QoUoyMSdZgXNzDYqjDcWTf1AV2Y?filename=climate_output.csv)
+	Final output for the Climate Change pool of the Gitcoin Alpha round
+	CID: QmWejV3B89BPVeh2Lv6QoUoyMSdZgXNzDYqjDcWTf1AV2Y
+
