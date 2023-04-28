@@ -13,6 +13,8 @@ Please get in touch to donate or help to gather valuable data sets or to provide
 Note - for those datasets hosted on the Ocean Protocol - you may want to use:
 https://faucet.polygon.technology  
 
+You need to hit the drop down list at the top and select the Mumbai network to see the data assets.  This makes all the claims free.
+
 For hackathon participants, you will also need to have shared with us your wallet ID via the Buidlbox site in order to be added to the whitelist. Or just DM epowell101 on our Discord.   
 
 One more tip - there are various tutorials and experts available about how to make it easy to use IPFS and other data including on our Discord.  Look at for example the Data Dex channel in which they are discussing using Github actions and Curl or wget.  Example script here:  https://github.com/datonic/asteroids/blob/main/.github/workflows/ci.yml#L19-L24
