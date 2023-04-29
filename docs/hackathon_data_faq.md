@@ -43,7 +43,7 @@ For analysis of activity during and after the Beta round:
 
 ## Sybil Analysis 
 
-For analysis of activity during the Beta round:
+Useful for analysis of models with the help of likely Sybils for training and back testing:
 
  - [Alpha Round Sybils](https://odc.oceanprotocol.com/asset/did:op:e3952ec9d82b35a6258851ac668190213c72f1babcf5a641b919504b7843fe6e)
  - [Gr15 Squelching list](https://odc.oceanprotocol.com/asset/did:op:19acd2448e278b09d99eff56e24307317c5ee006b4660ce2b12b3451da03ac24)
