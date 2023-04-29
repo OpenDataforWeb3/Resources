@@ -24,16 +24,19 @@ One more tip - there are various tutorials and experts available about how to ma
 
 For analysis of activity during the Beta round:
 
- - [Grant round datasets (3 - 15)](https://fddhub.io/downloads/grant_rounds)
- - [Alpha round outputs - OSS](https://odc.oceanprotocol.com/asset/did:op:966806aeda72dde815bc0db8405d0a7854a91e8b6e59fcfed3cc73e88b597254)
- - [Alpha round outputs - Eth](https://odc.oceanprotocol.com/asset/did:op:2a42c7b5aaab7c16f892d7b57d31bee65aa77c5e34f8c2ab8a907f004076159e)
- - [Alpha round outputs - Climate](https://odc.oceanprotocol.com/asset/did:op:c75cb1a6e76d3d61d3ad085219745db225fbc043f34b7a2be00b3705deb5c382)
+ - [Beta round applicants/projects](https://odc.oceanprotocol.com/asset/did:op:5aed4e636258b47f6ee06ce3f6f29834cbb3dfe67fd34e50e5174d5886ff234c)
+ - [Beta rounds](https://odc.oceanprotocol.com/asset/did:op:ccfb322ba5367626239032874b8ba851302a7c573c6649f17019c84e8630620d)
 
 For analysis of activity during and after the Beta round:
 
  - [All rounds](https://odc.oceanprotocol.com/asset/did:op:ef68dd422b0dbedab081608718d716c7b5211c612083dcb00948b4fb54543027)
+ - [Grant round datasets (3 - 15)](https://fddhub.io/downloads/grant_rounds)
  - [Beta rounds](https://odc.oceanprotocol.com/asset/did:op:ccfb322ba5367626239032874b8ba851302a7c573c6649f17019c84e8630620d)
  - [All projects](https://odc.oceanprotocol.com/asset/did:op:9cc281937e6d600824691e69972b74b4bee15d00c59e120a8c3aec2b992f463b)
+  -[Grant round datasets (3 - 15)](https://fddhub.io/downloads/grant_rounds)
+ - [Alpha round outputs - OSS](https://odc.oceanprotocol.com/asset/did:op:966806aeda72dde815bc0db8405d0a7854a91e8b6e59fcfed3cc73e88b597254)
+ - [Alpha round outputs - Eth](https://odc.oceanprotocol.com/asset/did:op:2a42c7b5aaab7c16f892d7b57d31bee65aa77c5e34f8c2ab8a907f004076159e)
+ - [Alpha round outputs - Climate](https://odc.oceanprotocol.com/asset/did:op:c75cb1a6e76d3d61d3ad085219745db225fbc043f34b7a2be00b3705deb5c382)
  - [Beta round applicants/projects](https://odc.oceanprotocol.com/asset/did:op:5aed4e636258b47f6ee06ce3f6f29834cbb3dfe67fd34e50e5174d5886ff234c)
  - Beta round votes - TBC
  - Beta round payout - TBC
