@@ -30,10 +30,15 @@ For analysis of activity during the Beta round:
  - [Beta rounds](https://odc.oceanprotocol.com/asset/did:op:ccfb322ba5367626239032874b8ba851302a7c573c6649f17019c84e8630620d)
 
 - Also - via IPFS - you should be able to access the following files updated May 2nd:
+
    [Beta Round Stats -> what are the rounds, how many grants in each round?](https://ipfs.io/ipfs/QmZTozYHvdskihmVbq1vWa2ZE62ETbUxHTZK1bzrTzBb4M?filename=beta_round_stats.csv)
+
    [Beta Round Data Set -> summary stats at the time this was gathered by each round](https://ipfs.io/ipfs/QmVXmdRwBqLo94iLZsxEEQ7YobtiWeJLpg1DAx5gUKJbS9?filename=beta_round_dataset.csv)
+
    [Beta Round Overall Round Data -> more metadata like cap level and summary info](https://ipfs.io/ipfs/QmUaYv2a8vJTHyXsQZoLMHqAWPNJhS3vzAJx8G8ifLaBcd?filename=overall_round_data.csv)
+
    [Beta Round Projects -> Lots of data on each potential grantee including rejected ones w/ votes and more](https://ipfs.io/ipfs/QmSvXuVqNEMBu4YCFQ3B4tMgNFYw2uRVwSzCMCvWDTzbZj?filename=beta_round_projects.csv)
+
    [Beta_Round_Votes -> transactions by wallet and more](https://ipfs.io/ipfs/QmbkZzeqznxNE1ffurqss5RwghuzRABDPKhYCg7cAQEcUL?filename=beta_round_votes.csv)
 
 You can always sanity check your figures vs. the dashboard published by Gitcoin here:  [Gitcoin Beta Round Dashboard](https://gitcoin-grants.streamlit.app/)
