@@ -17,7 +17,7 @@ You need to hit the drop down list at the top and select the Mumbai network to s
 
 For hackathon participants, you will also need to have shared with us your wallet ID via the Buidlbox site in order to be added to the whitelist. Or just DM epowell101 on our Discord.   
 
-When in doubt - take a look at odc.oceanprotocol.com or at the IPFS files also below.  Also please drop into the hackathon support channel and ask around. As of May 2nd 2023 for example multiple participants are sharing datasets and collaborating in other ways.
+When in doubt - take a look at [odc.oceanprotocol.com](odc.oceanprotocol.com) or at the IPFS files also below.  Also please drop into the hackathon support channel and ask around. As of May 2nd 2023 for example multiple participants are sharing datasets and collaborating in other ways.
 
 That Discord channel is here:  [invite](https://discord.gg/9KqPFfE2DF)
 
