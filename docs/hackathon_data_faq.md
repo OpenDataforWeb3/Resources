@@ -88,7 +88,7 @@ Passport Datasets (Past, Present and Future)
 	List of addresses and their passport score
 	CID: QmW7rmERMSHbQWENaDR2Yw13JJAbCFPEwExo44hyA8koaf
 
-[Grant round datasets (3 - 15)](https://data.opendatacommunity.com/)
+[Grant round datasets (3 - 15)](https://data.opendatacommunity.org/)
 	
 [Alpha round outputs/OSS](https://ipfs.io/ipfs/QmUcbv46EAnrMETXSevJDfekVv7UXyULDsZwL1fPotYySC?filename=oss_output.csv)
 	Final output for the Open Source Software pool of the Gitcoin Alpha round
