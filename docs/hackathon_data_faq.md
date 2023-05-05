@@ -29,7 +29,7 @@ For analysis of activity during the Beta round:
  - [Beta round applicants/projects](https://odc.oceanprotocol.com/asset/did:op:5aed4e636258b47f6ee06ce3f6f29834cbb3dfe67fd34e50e5174d5886ff234c)
  - [Beta rounds](https://odc.oceanprotocol.com/asset/did:op:ccfb322ba5367626239032874b8ba851302a7c573c6649f17019c84e8630620d)
 
-- Also - via IPFS - you should be able to access the following files updated May 2nd:
+- Also - via IPFS - you should be able to access the following files **updated May 5th:**
 
    [Beta Round Stats -> what are the rounds, how many grants in each round?](https://ipfs.io/ipfs/QmZTozYHvdskihmVbq1vWa2ZE62ETbUxHTZK1bzrTzBb4M?filename=beta_round_stats.csv)
 
