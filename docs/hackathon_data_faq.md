@@ -76,23 +76,25 @@ The following files can also be useful.  In some cases these are duplicates of t
 
 **Allo Datasets (Present and Future)
 
-[All Allo rounds](https://ipfs.io/ipfs/QmVhLowGhiPBd2VAk2JQdZ9U9RoTUUKtJSokv2yEDM5hoG?filename=all_rounds.csv)
+[All Allo rounds](https://ipfs.io/ipfs/QmQc26bJimoDgMbh1Q3kkvPNoSHHNjcMc5TJmx49XycgC7)
 Dataset of all rounds stored on the Allo Protocol
-CID: QmXHunC6QHE4XsWuwuoouCx75MRrpsZTfes2nhEowh5CTg
+CID: QmQc26bJimoDgMbh1Q3kkvPNoSHHNjcMc5TJmx49XycgC7
 
-[Beta rounds](https://ipfs.io/ipfs/QmaxpCD6Edfzc2trpAGQ2knWneLUNhxXTwcs7zb3nVVSKQ?filename=beta_rounds.csv)
+[Beta rounds](https://ipfs.io/ipfs/Qmf8FfDzneM2on6HStm7b5EEDVadqpKgmWgfddaBDbNH4R)
 Dataset of Beta rounds on the Allo Protocol
-CID: QmaxpCD6Edfzc2trpAGQ2knWneLUNhxXTwcs7zb3nVVSKQ
+CID: Qmf8FfDzneM2on6HStm7b5EEDVadqpKgmWgfddaBDbNH4R
 
-[All Allo projects](https://ipfs.io/ipfs/QmS1Uj8bXmpqqnsaX5E8oVdTQfou5rFtut1TNzEJAfKZga?filename=all_projects.csv)
+[All Allo projects](https://ipfs.io/ipfs/Qmf3nwPDW5G3nGnkjV5uc1DvsAG9jNeNEqAR18t5orPySc)
 List of all projects stored on the Allo Protocol
-CID: QmS1Uj8bXmpqqnsaX5E8oVdTQfou5rFtut1TNzEJAfKZga
+CID: Qmf3nwPDW5G3nGnkjV5uc1DvsAG9jNeNEqAR18t5orPySc
 
-[Beta applicants/projects](https://ipfs.io/ipfs/QmYhkts3SkESdnwA1gjiKQDuTCtWnQyDQtiJhQ8BBpPGem?filename=beta_projects.csv)
+[Beta applicants/projects](https://ipfs.io/ipfs/QmQurt1Q6E8ZtFzNMK83mAfkHpQYM2Qi631DAJkAxBDSgR)
 List of Beta round specific projects from the Allo Protocol
-CID: QmYhkts3SkESdnwA1gjiKQDuTCtWnQyDQtiJhQ8BBpPGem
+CID: QmQurt1Q6E8ZtFzNMK83mAfkHpQYM2Qi631DAJkAxBDSgR
 
-Beta round votes - TBC
+[Beta round votes](https://ipfs.io/ipfs/QmPntvKMJSrPtspJTw6uej5k4Gj5Z6apH5diCuYZTwnwFQ)
+List of votes/contributions to Beta round projects from the Allo Protocol
+CID: QmPntvKMJSrPtspJTw6uej5k4Gj5Z6apH5diCuYZTwnwFQ
 
 Beta round payout - TBC
 
