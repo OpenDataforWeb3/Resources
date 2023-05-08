@@ -33,13 +33,13 @@ For analysis of activity during the Beta round:
 
    [Beta Round Stats -> what are the rounds, how many grants in each round?](https://ipfs.io/ipfs/QmZTozYHvdskihmVbq1vWa2ZE62ETbUxHTZK1bzrTzBb4M?filename=beta_round_stats.csv)
 
-   [Beta Round Data Set -> summary stats at the time this was gathered by each round](https://ipfs.io/ipfs/QmVXmdRwBqLo94iLZsxEEQ7YobtiWeJLpg1DAx5gUKJbS9?filename=beta_round_dataset.csv)
+   [Beta Round Data Set -> summary stats at the time this was gathered by each round](https://ipfs.io/ipfs/Qmf8FfDzneM2on6HStm7b5EEDVadqpKgmWgfddaBDbNH4R?filename=Qmf8FfDzneM2on6HStm7b5EEDVadqpKgmWgfddaBDbNH4R)
 
-   [Beta Round Overall Round Data -> more metadata like cap level and summary info](https://ipfs.io/ipfs/QmUaYv2a8vJTHyXsQZoLMHqAWPNJhS3vzAJx8G8ifLaBcd?filename=overall_round_data.csv)
+   [Beta Round Overall Round Data -> more metadata like cap level and summary info](https://ipfs.io/ipfs/QmQc26bJimoDgMbh1Q3kkvPNoSHHNjcMc5TJmx49XycgC7?filename=QmQc26bJimoDgMbh1Q3kkvPNoSHHNjcMc5TJmx49XycgC7)
 
-   [Beta Round Projects -> Lots of data on each potential grantee including rejected ones w/ votes and more](https://ipfs.io/ipfs/QmSvXuVqNEMBu4YCFQ3B4tMgNFYw2uRVwSzCMCvWDTzbZj?filename=beta_round_projects.csv)
+   [Beta Round Projects -> Lots of data on each potential grantee including rejected ones w/ votes and more](https://ipfs.io/ipfs/QmQurt1Q6E8ZtFzNMK83mAfkHpQYM2Qi631DAJkAxBDSgR?filename=QmQurt1Q6E8ZtFzNMK83mAfkHpQYM2Qi631DAJkAxBDSgR)
 
-   [Beta_Round_Votes -> transactions by wallet and more](https://ipfs.io/ipfs/QmbkZzeqznxNE1ffurqss5RwghuzRABDPKhYCg7cAQEcUL?filename=beta_round_votes.csv)
+   [Beta_Round_Votes -> transactions by wallet and more](https://ipfs.io/ipfs/QmPntvKMJSrPtspJTw6uej5k4Gj5Z6apH5diCuYZTwnwFQ?filename=QmPntvKMJSrPtspJTw6uej5k4Gj5Z6apH5diCuYZTwnwFQ)
 
 You can always sanity check your figures vs. the dashboard published by Gitcoin here:  [Gitcoin Beta Round Dashboard](https://gitcoin-grants.streamlit.app/)
 
