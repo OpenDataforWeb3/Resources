@@ -35,7 +35,7 @@ For analysis of activity during the Beta round:
 
    [Beta Round Data Set -> summary stats at the time this was gathered by each round](https://ipfs.io/ipfs/QmVXmdRwBqLo94iLZsxEEQ7YobtiWeJLpg1DAx5gUKJbS9?filename=beta_round_dataset.csv)
 
-   [Beta Round Overall Round Data -> more metadata like cap level and summary info](https://ipfs.io/ipfs/Qmf3nwPDW5G3nGnkjV5uc1DvsAG9jNeNEqAR18t5orPySc)
+   [Beta Round Overall Round Data -> more metadata like cap level and summary info](https://ipfs.io/ipfs/QmUaYv2a8vJTHyXsQZoLMHqAWPNJhS3vzAJx8G8ifLaBcd?filename=overall_round_data.csv)
 
    [Beta Round Projects -> Lots of data on each potential grantee including rejected ones w/ votes and more](https://ipfs.io/ipfs/QmSvXuVqNEMBu4YCFQ3B4tMgNFYw2uRVwSzCMCvWDTzbZj?filename=beta_round_projects.csv)
 
