@@ -29,17 +29,17 @@ For analysis of activity during the Beta round:
  - [Beta round applicants/projects](https://odc.oceanprotocol.com/asset/did:op:5aed4e636258b47f6ee06ce3f6f29834cbb3dfe67fd34e50e5174d5886ff234c)
  - [Beta rounds](https://odc.oceanprotocol.com/asset/did:op:ccfb322ba5367626239032874b8ba851302a7c573c6649f17019c84e8630620d)
 
-- Also - via IPFS - you should be able to access the following files **updated May 5th:**
+- Also - via IPFS - you should be able to access the following files **updated May 12th:**
 
-   [Beta Round Stats -> what are the rounds, how many grants in each round?](https://ipfs.io/ipfs/QmZTozYHvdskihmVbq1vWa2ZE62ETbUxHTZK1bzrTzBb4M?filename=beta_round_stats.csv)
+   [Beta Round Stats -> what are the rounds, how many grants in each round?](https://ipfs.io/ipfs/QmeuaS1k84bfNwYVMnkqC26rsPdmZqrcBRwCTWK1rJB1gJ?filename=QmeuaS1k84bfNwYVMnkqC26rsPdmZqrcBRwCTWK1rJB1gJ)
 
    [Beta Round Data Set -> summary stats at the time this was gathered by each round](https://ipfs.io/ipfs/Qmf8FfDzneM2on6HStm7b5EEDVadqpKgmWgfddaBDbNH4R?filename=Qmf8FfDzneM2on6HStm7b5EEDVadqpKgmWgfddaBDbNH4R)
 
-   [Beta Round Overall Round Data -> more metadata like cap level and summary info](https://ipfs.io/ipfs/QmQc26bJimoDgMbh1Q3kkvPNoSHHNjcMc5TJmx49XycgC7?filename=QmQc26bJimoDgMbh1Q3kkvPNoSHHNjcMc5TJmx49XycgC7)
+   [Beta Round Overall Round Data -> more metadata like cap level and summary info](https://ipfs.io/ipfs/QmWx9MtUgaauXCGpn1CXNaXLcrAtx9qqEH49oguqutz7Yh?filename=QmWx9MtUgaauXCGpn1CXNaXLcrAtx9qqEH49oguqutz7Yh)
 
-   [Beta Round Projects -> Lots of data on each potential grantee including rejected ones w/ votes and more](https://ipfs.io/ipfs/QmQurt1Q6E8ZtFzNMK83mAfkHpQYM2Qi631DAJkAxBDSgR?filename=QmQurt1Q6E8ZtFzNMK83mAfkHpQYM2Qi631DAJkAxBDSgR)
+   [Beta Round Projects -> Lots of data on each potential grantee including rejected ones w/ votes and more](https://ipfs.io/ipfs/QmNyWTCYfTGepoCYosGwB56uUhkYrvASEBex911QFrPFHq?filename=QmNyWTCYfTGepoCYosGwB56uUhkYrvASEBex911QFrPFHq)
 
-   [Beta_Round_Votes -> transactions by wallet and more](https://ipfs.io/ipfs/QmPntvKMJSrPtspJTw6uej5k4Gj5Z6apH5diCuYZTwnwFQ?filename=QmPntvKMJSrPtspJTw6uej5k4Gj5Z6apH5diCuYZTwnwFQ)
+   [Beta_Round_Votes -> transactions by wallet and more](https://ipfs.io/ipfs/Qmaf4U2MJUzEcf1BZx9RBpoANoxwA2rkYugcugtfS9oHoN?filename=Qmaf4U2MJUzEcf1BZx9RBpoANoxwA2rkYugcugtfS9oHoN)
 
 You can always sanity check your figures vs. the dashboard published by Gitcoin here:  [Gitcoin Beta Round Dashboard](https://gitcoin-grants.streamlit.app/)
 
@@ -54,7 +54,7 @@ For analysis of activity during and after the Beta round:
  - [Alpha round outputs - Eth](https://odc.oceanprotocol.com/asset/did:op:2a42c7b5aaab7c16f892d7b57d31bee65aa77c5e34f8c2ab8a907f004076159e)
  - [Alpha round outputs - Climate](https://odc.oceanprotocol.com/asset/did:op:c75cb1a6e76d3d61d3ad085219745db225fbc043f34b7a2be00b3705deb5c382)
  - [Beta round applicants/projects](https://odc.oceanprotocol.com/asset/did:op:5aed4e636258b47f6ee06ce3f6f29834cbb3dfe67fd34e50e5174d5886ff234c)
- - Beta round votes - TBC
+ - [Beta round votes](https://odc.oceanprotocol.com/asset/did:op:fae52359f6c0d1de9d71a94cf2729d9d07628367733975b8572db0f90ee29aed)
  - Beta round payout - TBC
 
 ## Sybil Analysis 
@@ -80,21 +80,21 @@ The following files can also be useful.  In some cases these are duplicates of t
 Dataset of all rounds stored on the Allo Protocol
 CID: QmQc26bJimoDgMbh1Q3kkvPNoSHHNjcMc5TJmx49XycgC7
 
-[Beta rounds](https://ipfs.io/ipfs/Qmf8FfDzneM2on6HStm7b5EEDVadqpKgmWgfddaBDbNH4R)
+[Beta rounds](https://ipfs.io/ipfs/QmWx9MtUgaauXCGpn1CXNaXLcrAtx9qqEH49oguqutz7Yh)
 Dataset of Beta rounds on the Allo Protocol
-CID: Qmf8FfDzneM2on6HStm7b5EEDVadqpKgmWgfddaBDbNH4R
+CID: QmWx9MtUgaauXCGpn1CXNaXLcrAtx9qqEH49oguqutz7Yh
 
 [All Allo projects](https://ipfs.io/ipfs/Qmf3nwPDW5G3nGnkjV5uc1DvsAG9jNeNEqAR18t5orPySc)
 List of all projects stored on the Allo Protocol
 CID: Qmf3nwPDW5G3nGnkjV5uc1DvsAG9jNeNEqAR18t5orPySc
 
-[Beta applicants/projects](https://ipfs.io/ipfs/QmQurt1Q6E8ZtFzNMK83mAfkHpQYM2Qi631DAJkAxBDSgR)
+[Beta applicants/projects](https://ipfs.io/ipfs/QmNyWTCYfTGepoCYosGwB56uUhkYrvASEBex911QFrPFHq)
 List of Beta round specific projects from the Allo Protocol
-CID: QmQurt1Q6E8ZtFzNMK83mAfkHpQYM2Qi631DAJkAxBDSgR
+CID: QmNyWTCYfTGepoCYosGwB56uUhkYrvASEBex911QFrPFHq
 
-[Beta round votes](https://ipfs.io/ipfs/QmPntvKMJSrPtspJTw6uej5k4Gj5Z6apH5diCuYZTwnwFQ)
+[Beta round votes](https://ipfs.io/ipfs/Qmaf4U2MJUzEcf1BZx9RBpoANoxwA2rkYugcugtfS9oHoN)
 List of votes/contributions to Beta round projects from the Allo Protocol
-CID: QmPntvKMJSrPtspJTw6uej5k4Gj5Z6apH5diCuYZTwnwFQ
+CID: Qmaf4U2MJUzEcf1BZx9RBpoANoxwA2rkYugcugtfS9oHoN
 
 Beta round payout - TBC
 
