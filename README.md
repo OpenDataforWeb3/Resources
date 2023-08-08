@@ -1,14 +1,16 @@
-## What is the ODC?
+### What is the ODC?
 
-The OpenData Community is a new initiative originally founded by Gitcoin. Through activities like hackathons, knowledge curation, and others, we hope to create, capture and distribute value to those building decenlatrized solutions for an Open Data Layer for web3
+The OpenData Community is a new initiative originally founded by Gitcoin. Through activities like hackathons, knowledge curation, and others, we hope to create, capture and distribute value to those building decentralization solutions for an Open Data Layer for web3
 
 ### Our mission
-To build an incentivized network that can fight the recentralization of web3 at the data layer & and promote decentralized solutions to unlock a capture resistant future for web3
+Our mission is two-fold:
+- Protect web3 via data science for good 
+- Resist centralization at the data layer
 
 ### Active Projects
 1. Bootstrapping the ODC Community [join us on discord](https://discord.gg/8zMHkgscrf)
-2. [Regen Rangers Hackathon](https://app.buidlbox.io/opendata/regen-rangers-hack) Ends May 15th 2023
-3. [The Landscape](https://github.com/OpenDataforWeb3/Landscape/) a useful curation of decentralized data solutions in web3
+2. Supporting efforts of our builders including Mirall0x and other Sandbox project
+3. Building our governance in public - including the use of the Hats Protocol
 <br />
 
 ## Our Focus
