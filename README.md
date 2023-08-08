@@ -1,6 +1,6 @@
 ### What is the ODC?
 
-The OpenData Community is a new initiative originally founded by Gitcoin. Through activities like hackathons, knowledge curation, and others, we hope to create, capture and distribute value to those building decentralization solutions for an Open Data Layer for web3
+The OpenData Community is a non-commercial community dedicated to protecting web3. Through educational activities like hackathons, knowledge curation, and others, we hope to create, capture and distribute value to those building decentralization solutions for an Open Data Layer for web3.  
 
 ### Our mission
 Our mission is two-fold:
